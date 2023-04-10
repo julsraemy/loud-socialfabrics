@@ -1,68 +1,54 @@
 import requests
-from bs4 import BeautifulSoup
-import pandas as pd
+import csv
 
-# Set the URL for the repository
-url = 'https://github.com/IIIF/trc'
+# Set the repository owner and name
+repo_owner = 'IIIF'
+repo_name = 'trc'
 
-# Send a GET request to the URL and get the response
+# Make a request to the GitHub API to get the issues data
+url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/issues?state=all'
 response = requests.get(url)
 
-# Create a BeautifulSoup object to parse the HTML content of the response
-soup = BeautifulSoup(response.content, 'html.parser')
+# Check if the request was successful
+if response.status_code != 200:
+    print('Error: Could not retrieve issue data')
+    exit()
 
-# Find the section of the page with the issues
-issues_section = soup.find('div', {'id': 'issues'})
+# Parse the issues data from the response JSON
+issues_data = response.json()
 
-# Find all the issue cards in the issues section
-issue_cards = issues_section.find_all('div', {'class': 'Box-row--focus-gray'})
+# Create a CSV file to store the issue data
+with open('trc-data.csv', 'w', newline='') as csvfile:
+    # Define the CSV writer
+    writer = csv.writer(csvfile)
 
-# Initialize lists to hold the data we want to scrape
-open_closed = []
-comments = []
-contributors = []
-reactions = []
+    # Write the header row
+    writer.writerow(['Issue Number', 'Title', 'State', 'Number of Comments', 'Contributors', 'Reactions'])
 
-# Loop through each issue card
-for card in issue_cards:
-    # Get the title of the issue
-    title = card.find('a', {'class': 'Link--primary'}).text.strip()
-    
-    # Get the status of the issue (open or closed)
-    status = card.find('span', {'class': 'State'}).text.strip()
-    
-    # Get the number of comments on the issue
-    comment_count = card.find('span', {'class': 'Link--primary'}).text.strip()
-    
-    # Get the names of the contributors to the issue
-    contributors_list = card.find('span', {'class': 'AvatarStack-body'}).find_all('a')
-    contributor_names = [contributor.text.strip() for contributor in contributors_list]
-    
-    # Get the number and types of reactions on the issue
-    reactions_list = card.find_all('div', {'class': 'reaction-summary-item'})
-    reaction_counts = {}
-    for reaction in reactions_list:
-        reaction_type = reaction.find('g-emoji')['alias']
-        reaction_count = reaction.find('span', {'class': 'reaction-summary-item-count'}).text.strip()
-        reaction_counts[reaction_type] = reaction_count
-    
-    # Add the data to our lists
-    open_closed.append(status)
-    comments.append(comment_count)
-    contributors.append(contributor_names)
-    reactions.append(reaction_counts)
-
-# Create a DataFrame to hold the scraped data
-df = pd.DataFrame({'Status': open_closed, 'Comments': comments, 'Contributors': contributors, 'Reactions': reactions})
-
-# Convert the reaction counts to columns
-df = pd.concat([df.drop(['Reactions'], axis=1), df['Reactions'].apply(pd.Series)], axis=1)
-
-# Save the DataFrame to a CSV file
-df.to_csv('trc-data.csv', index=False)
-
-# Print some statistics about the scraped data
-print(f'Total number of issues: {len(df)}')
-print(f'Number of open issues: {len(df[df["Status"]=="Open"])}')
-print(f'Number of closed issues: {len(df[df["Status"]=="Closed"])}')
-print(f'Total number of comments: {df["Comments"].str.replace(",", "").astype(int).sum()}')
+    # Loop through each issue and write its data to the CSV
+    for issue in issues_data:
+        issue_number = issue['number']
+        title = issue['title']
+        state = issue['state']
+        num_comments = issue['comments']
+        
+        # Get the names of contributors who commented on the issue
+        contributors = []
+        for comment in issue['comments_url']:
+            if 'user' in comment and 'login' in comment['user']:
+                commenter = comment['user']['login']
+                if commenter not in contributors:
+                    contributors.append(commenter)
+        
+        # Get the reactions for the issue
+        reactions = {}
+        for reaction in issue['reactions']:
+            if 'content' in reaction:
+                reaction_type = reaction['content']
+                if reaction_type in reactions:
+                    reactions[reaction_type] += 1
+                else:
+                    reactions[reaction_type] = 1
+        
+        # Write the issue data to the CSV file
+        writer.writerow([issue_number, title, state, num_comments, ', '.join(contributors), reactions])
