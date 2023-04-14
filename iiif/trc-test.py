@@ -1,54 +1,78 @@
 import requests
 import csv
 
-# Set the repository owner and name
-repo_owner = 'IIIF'
-repo_name = 'trc'
+# Set your personal access token here
+personal_access_token = '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'
 
-# Make a request to the GitHub API to get the issues data
-url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/issues?state=all'
-response = requests.get(url)
+# Set the GitHub repository details
+owner = 'IIIF'
+repo = 'trc'
 
-# Check if the request was successful
-if response.status_code != 200:
-    print('Error: Could not retrieve issue data')
-    exit()
+# Set the base URL for GitHub API
+base_url = f'https://api.github.com/repos/{owner}/{repo}'
 
-# Parse the issues data from the response JSON
-issues_data = response.json()
+# Set the headers for authentication
+headers = {
+    'Authorization': f'Token {personal_access_token}'
+}
 
-# Create a CSV file to store the issue data
-with open('trc-data.csv', 'w', newline='') as csvfile:
-    # Define the CSV writer
-    writer = csv.writer(csvfile)
+# Make API request to get repository information
+repo_data = requests.get(base_url, headers=headers).json()
 
-    # Write the header row
-    writer.writerow(['Issue Number', 'Title', 'State', 'Number of Comments', 'Contributors', 'Reactions'])
+# Extract repository information
+repo_name = repo_data['name']
+open_issues = repo_data['open_issues']
+total_issues = repo_data['open_issues_count']
 
-    # Loop through each issue and write its data to the CSV
+# Make API request to get issues information with pagination
+issues_url = f'{base_url}/issues?state=all'
+issues_data = []
+while issues_url:
+    issues_response = requests.get(issues_url, headers=headers)
+    issues_data += issues_response.json()
+    issues_url = issues_response.links.get('next', {}).get('url')
+
+# Open a CSV file for writing
+with open('trc_issues.csv', 'w', newline='') as csvfile:
+    fieldnames = ['Issue Number', 'Title', 'Created At', 'Closed At', 'Commenter', 'Reaction Type']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+
+    # Iterate through the issues data and write to CSV
     for issue in issues_data:
         issue_number = issue['number']
         title = issue['title']
-        state = issue['state']
-        num_comments = issue['comments']
-        
-        # Get the names of contributors who commented on the issue
-        contributors = []
-        for comment in issue['comments_url']:
-            if 'user' in comment and 'login' in comment['user']:
+        created_at = issue['created_at']
+        closed_at = issue['closed_at']
+        commenter = ''
+        reaction_type = ''
+
+        # Check if the issue is closed
+        if closed_at:
+            # Make API request to get comments for the closed issue
+            comments_url = f'{base_url}/issues/{issue_number}/comments'
+            comments_data = []
+            while comments_url:
+                comments_response = requests.get(comments_url, headers=headers)
+                comments_data += comments_response.json()
+                comments_url = comments_response.links.get('next', {}).get('url')
+
+            # Iterate through the comments data and extract commenter and reaction type
+            for comment in comments_data:
                 commenter = comment['user']['login']
-                if commenter not in contributors:
-                    contributors.append(commenter)
-        
-        # Get the reactions for the issue
-        reactions = {}
-        for reaction in issue['reactions']:
-            if 'content' in reaction:
-                reaction_type = reaction['content']
-                if reaction_type in reactions:
-                    reactions[reaction_type] += 1
-                else:
-                    reactions[reaction_type] = 1
-        
-        # Write the issue data to the CSV file
-        writer.writerow([issue_number, title, state, num_comments, ', '.join(contributors), reactions])
+                reactions = comment['reactions']
+                if reactions['total_count'] > 0:
+                    reaction_type = reactions['url']
+                    break
+
+        # Write the issue data to CSV
+        writer.writerow({
+            'Issue Number': issue_number,
+            'Title': title,
+            'Created At': created_at,
+            'Closed At': closed_at,
+            'Commenter': commenter,
+            'Reaction Type': reaction_type
+        })
+
+print('CSV file with GitHub issues data has been created successfully.')
