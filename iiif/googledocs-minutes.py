@@ -32,7 +32,7 @@ for file in files:
 print('Finished extracting data from all Google Docs.')
 
 # Write data to CSV file
-output_file = 'output.csv'
+output_file = 'meetingminutes.csv'
 with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['Document Name', 'Paragraph 1', 'Paragraph 2', 'Paragraph 3'])  # Add more columns for additional paragraphs
