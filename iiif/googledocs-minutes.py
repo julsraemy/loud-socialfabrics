@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 from google.oauth2.credentials import Credentials
 
 # Set up Google Drive API credentials
-creds = Credentials.from_authorized_user_file('loud-social-fabrics-e0eac5ffd820.json', ['https://www.googleapis.com/auth/drive'])
+creds = Credentials.from_authorized_user_file('credentials.json', ['https://www.googleapis.com/auth/drive'])
 
 # Create a service for the Google Drive API
 drive_service = build('drive', 'v3', credentials=creds)
