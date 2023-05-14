@@ -3,6 +3,10 @@ import glob
 import speech_recognition as sr
 from pydub import AudioSegment
 
+def get_file_extension(file_path):
+    _, ext = os.path.splitext(file_path)
+    return ext.lower()
+
 def convert_to_wav(mp3_file_path):
     audio = AudioSegment.from_mp3(mp3_file_path)
     wav_file_path = os.path.splitext(mp3_file_path)[0] + ".wav"
@@ -14,7 +18,7 @@ def transcribe_audio_file(audio_file_path):
     with sr.AudioFile(audio_file_path) as source:
         audio_data = r.record(source)
     try:
-        transcribed_text = r.recognize_google(audio_data)
+        transcribed_text = r.recognize_google(audio_data, language="en")
         return transcribed_text
     except sr.UnknownValueError:
         print(f"Transcription could not be performed for file: {audio_file_path}. Audio file may be empty or contain unintelligible speech.")
@@ -22,9 +26,10 @@ def transcribe_audio_file(audio_file_path):
         print(f"An error occurred for file: {audio_file_path}. Error: {e}")
     return None
 
-def write_to_markdown(output_file_path, transcribed_text):
+def write_to_markdown(output_file_path, transcribed_text, file_format):
     with open(output_file_path, 'w') as file:
-        file.write("# Interview Transcription\n\n")
+        file.write("# Interview Transcription\n")
+        file.write(f"\nFile Format: {file_format}\n\n")
         paragraphs = transcribed_text.split('\n\n')
         question_count = 1
         new_paragraph = False
@@ -48,15 +53,25 @@ def write_to_markdown(output_file_path, transcribed_text):
                 file.write(f"**Speaker {i+1}:** {paragraph}\n\n")
 
 def transcribe_all_files(folder_path):
-    audio_files = glob.glob(os.path.join(folder_path, "*.mp3"))
+    audio_files = glob.glob(os.path.join(folder_path, "*"))
     for audio_file in audio_files:
-        wav_file = convert_to_wav(audio_file)
-        transcribed_text = transcribe_audio_file(wav_file)
-        if transcribed_text:
-            output_file = os.path.splitext(audio_file)[0] + ".md"
-            write_to_markdown(output_file, transcribed_text)
-            print(f"Transcription saved to Markdown file: {output_file}")
-        os.remove(wav_file)  # Remove the temporary WAV file
+        file_extension = get_file_extension(audio_file)
+        if file_extension == ".wav":
+            transcribed_text = transcribe_audio_file(audio_file)
+            if transcribed_text:
+                output_file = os.path.splitext(audio_file)[0] + ".md"
+                write_to_markdown(output_file, transcribed_text, "WAV")
+                print(f"Transcription saved to Markdown file: {output_file}")
+        elif file_extension == ".mp3":
+            wav_file = convert_to_wav(audio_file)
+            transcribed_text = transcribe_audio_file(wav_file)
+            if transcribed_text:
+                output_file = os.path.splitext(audio_file)[0] + ".md"
+                write_to_markdown(output_file, transcribed_text, "MP3 (converted to WAV)")
+                print(f"Transcription saved to Markdown file: {output_file}")
+            os.remove(wav_file)  # Remove the temporary WAV file
+        else:
+            print(f"Skipping file: {audio_file}. Unsupported file format.")
 
 def main():
     interviews_folder_path = "interviews"
