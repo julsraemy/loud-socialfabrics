@@ -1,6 +1,13 @@
 import os
 import glob
 import speech_recognition as sr
+from pydub import AudioSegment
+
+def convert_to_wav(mp3_file_path):
+    audio = AudioSegment.from_mp3(mp3_file_path)
+    wav_file_path = os.path.splitext(mp3_file_path)[0] + ".wav"
+    audio.export(wav_file_path, format="wav")
+    return wav_file_path
 
 def transcribe_audio_file(audio_file_path):
     r = sr.Recognizer()
@@ -43,11 +50,13 @@ def write_to_markdown(output_file_path, transcribed_text):
 def transcribe_all_files(folder_path):
     audio_files = glob.glob(os.path.join(folder_path, "*.mp3"))
     for audio_file in audio_files:
-        transcribed_text = transcribe_audio_file(audio_file)
+        wav_file = convert_to_wav(audio_file)
+        transcribed_text = transcribe_audio_file(wav_file)
         if transcribed_text:
             output_file = os.path.splitext(audio_file)[0] + ".md"
             write_to_markdown(output_file, transcribed_text)
             print(f"Transcription saved to Markdown file: {output_file}")
+        os.remove(wav_file)  # Remove the temporary WAV file
 
 def main():
     interviews_folder_path = "interviews"
