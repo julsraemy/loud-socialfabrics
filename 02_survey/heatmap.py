@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read the CSV file into a DataFrame
-data = pd.read_csv('/Users/julienraemy/Documents/GitHub/juls/loud-socialfabrics/survey/heatmap.csv', dtype={
+data = pd.read_csv('heatmap.csv', dtype={
     'ID': str,
     'In which community are you involved?': str,
     'Since when have you been involved in the IIIF community?': float,

@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Assuming you have the data in a CSV file named 'heatmap.csv'
-df = pd.read_csv('survey/heatmap.csv')
+df = pd.read_csv('heatmap.csv')
 
 # Get the column containing IIIF event attendance information
 attendance_column = df.iloc[:, 9]  # Assuming the column index is 9 (10th column)

@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read the CSV file
-data = pd.read_csv("/Users/julienraemy/Documents/GitHub/juls/loud-socialfabrics/survey/heatmap.csv", dtype=str)
+data = pd.read_csv("heatmap.csv", dtype=str)
 
 # Group the data by the IIIF and Linked Art columns and calculate the count
 grouped_data = data.groupby(['How frequently have you taken part in a IIIF Community Call over the past year?',
