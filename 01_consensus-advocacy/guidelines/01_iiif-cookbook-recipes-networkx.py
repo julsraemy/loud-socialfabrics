@@ -8,7 +8,8 @@ def read_csv(filename):
     with open(filename, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter='\t')
         for row in reader:
-            edges.append((row['recipe'], row['viewer'], {'support': row['support'], 'property': row['property']}))
+            # Including 'id' and 'property' as edge attributes for potential future use
+            edges.append((row['recipe'], row['viewer'], {'support': row['support'], 'property': row['property'], 'id': row['id']}))
     return edges
 
 def create_graph(edges):
@@ -16,7 +17,7 @@ def create_graph(edges):
     G = nx.Graph()
     for edge in edges:
         recipe, viewer, attrs = edge
-        G.add_node(recipe, type='recipe')
+        G.add_node(recipe, type='recipe', topic=attrs.get('topic'))  # Optionally include 'topic' as a node attribute
         G.add_node(viewer, type='viewer')
         G.add_edge(recipe, viewer, **attrs)
     return G
@@ -32,10 +33,11 @@ def visualize_graph(G):
     nx.draw_networkx_nodes(G, pos, nodelist=recipe_nodes, node_color='skyblue', label='Recipes')
     nx.draw_networkx_nodes(G, pos, nodelist=viewer_nodes, node_color='lightgreen', label='Viewers')
     nx.draw_networkx_edges(G, pos)
-    nx.draw_networkx_labels(G, pos)
+    nx.draw_networkx_labels(G, pos, font_size=8)
     
-    plt.title('IIIF Recipes and Viewers Graph')
+    plt.title('IIIF Cookbook Recipes and Viewers Network Graph')
     plt.legend()
+    plt.axis('off')  # Hide the axis
     plt.show()
 
 # Replace 'your_csv_file.csv' with the path to your CSV file
