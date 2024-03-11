@@ -1,806 +1,1006 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
   <meta lastmodifieddate="2024-03-11">
-    <creator>NetworkX 3.1</creator>
+    <creator>NetworkX 3.2.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes mode="static" class="edge">
-      <attribute id="1" title="support" type="string" />
+      <attribute id="3" title="support" type="string" />
+      <attribute id="4" title="property" type="double" />
     </attributes>
     <attributes mode="static" class="node">
-      <attribute id="0" title="type" type="string" />
+      <attribute id="0" title="slug" type="string" />
+      <attribute id="1" title="type" type="string" />
+      <attribute id="2" title="url" type="string" />
     </attributes>
     <nodes>
       <node id="1_0001-mvm-image" label="Simplest Manifest - Single Image File">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0001-mvm-image" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0001-mvm-image/" />
         </attvalues>
       </node>
       <node id="Mirador" label="Mirador">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="UV" label="UV">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="Annona" label="Annona">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="Clover" label="Clover">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="2_0002-mvm-audio" label="Simplest Manifest - Audio">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0002-mvm-audio" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0002-mvm-audio/" />
         </attvalues>
       </node>
       <node id="Ramp" label="Ramp">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="3_0003-mvm-video" label="Simplest Manifest - Video">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0003-mvm-video" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0003-mvm-video/" />
         </attvalues>
       </node>
       <node id="4_0004-canvas-size" label="Image and Canvas with Differing Dimensions">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0004-canvas-size" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0004-canvas-size/" />
         </attvalues>
       </node>
       <node id="5_0005-image-service" label="Support Deep Viewing with Basic Use of a IIIF Image Service">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0005-image-service" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0005-image-service/" />
         </attvalues>
       </node>
       <node id="6_0006-text-language" label="Internationalization and Multi-language Values">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0006-text-language" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0006-text-language/" />
         </attvalues>
       </node>
       <node id="7_0007-string-formats" label="Embedding HTML in descriptive properties">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0007-string-formats" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0007-string-formats/" />
         </attvalues>
       </node>
       <node id="8_0008-rights" label="Rights statement">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0008-rights" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0008-rights/" />
         </attvalues>
       </node>
       <node id="9_0009-book-1" label="Simple Manifest - Book">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0009-book-1" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0009-book-1/" />
         </attvalues>
       </node>
       <node id="10_0010-book-2-viewing-direction" label="Viewing direction and Its Effect on Navigation">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0010-book-2-viewing-direction" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0010-book-2-viewing-direction/" />
         </attvalues>
       </node>
       <node id="11_0011-book-3-behavior" label="Book 'behavior' Variations (continuous, individuals)">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0011-book-3-behavior" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0011-book-3-behavior/" />
         </attvalues>
       </node>
       <node id="13_0013-placeholderCanvas" label="Load a Preview Image Before the Main Content">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0013-placeholderCanvas" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0013-placeholderCanvas/" />
         </attvalues>
       </node>
       <node id="14_0014-accompanyingcanvas" label="Audio Presentation with Accompanying Image">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0014-accompanyingcanvas" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0014-accompanyingcanvas/" />
         </attvalues>
       </node>
       <node id="15_0015-start" label="Begin playback at a specific point - Time-based media">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0015-start" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0015-start/" />
         </attvalues>
       </node>
       <node id="17_0017-transcription-av" label="Providing Access to Transcript Files of A/V Content">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0017-transcription-av" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0017-transcription-av/" />
         </attvalues>
       </node>
       <node id="19_0019-html-in-annotations" label="HTML in Annotations">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0019-html-in-annotations" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0019-html-in-annotations/" />
         </attvalues>
       </node>
       <node id="21_0021-tagging" label="Simple Annotation — Tagging">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0021-tagging" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0021-tagging/" />
         </attvalues>
       </node>
       <node id="24_0024-book-4-toc" label="Table of Contents for Book Chapters">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0024-book-4-toc" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0024-book-4-toc/" />
         </attvalues>
       </node>
       <node id="26_0026-toc-opera" label="Table of Contents for A/V Content">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0026-toc-opera" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0026-toc-opera/" />
         </attvalues>
       </node>
       <node id="29_0029-metadata-anywhere" label="Metadata on any Resource">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0029-metadata-anywhere" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0029-metadata-anywhere/" />
         </attvalues>
       </node>
       <node id="30_0030-multi-volume" label="Multi-volume Work with Individually-bound Volumes">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0030-multi-volume" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0030-multi-volume/" />
         </attvalues>
       </node>
       <node id="31_0031-bound-multivolume" label="Multiple Volumes in a Single Bound Volume">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0031-bound-multivolume" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0031-bound-multivolume/" />
         </attvalues>
       </node>
       <node id="32_0032-collection" label="Simple Collection">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0032-collection" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0032-collection/" />
         </attvalues>
       </node>
       <node id="46_0046-rendering" label="Providing Alternative Representations">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0046-rendering" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0046-rendering/" />
         </attvalues>
       </node>
       <node id="47_0047-homepage" label="Linking to Web Page of an Object">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0047-homepage" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0047-homepage/" />
         </attvalues>
       </node>
       <node id="53_0053-seeAlso" label="Linking to Structured Metadata">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0053-seeAlso" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0053-seeAlso/" />
         </attvalues>
       </node>
       <node id="64_0064-opera-one-canvas" label="Table of Contents for Multiple A/V Files on a Single Canvas">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0064-opera-one-canvas" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0064-opera-one-canvas/" />
         </attvalues>
       </node>
       <node id="65_0065-opera-multiple-canvases" label="Table of Contents for Multiple A/V Files on Multiple Canvases">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0065-opera-multiple-canvases" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0065-opera-multiple-canvases/" />
         </attvalues>
       </node>
       <node id="68_0068-newspaper" label="Basic Newspaper">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0068-newspaper" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0068-newspaper/" />
         </attvalues>
       </node>
       <node id="74_0074-multiple-language-captions" label="Using Caption and Subtitle Files in Multiple Languages with Video Content">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0074-multiple-language-captions" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0074-multiple-language-captions/" />
         </attvalues>
       </node>
       <node id="117_0117-add-image-thumbnail" label="Image Thumbnail for Manifest">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0117-add-image-thumbnail" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0117-add-image-thumbnail/" />
         </attvalues>
       </node>
       <node id="118_0118-multivalue" label="Displaying Multiple Values with Language Maps">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0118-multivalue" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0118-multivalue/" />
         </attvalues>
       </node>
       <node id="139_0139-geolocate-canvas-fragment" label="Represent Canvas Fragment as a Geographic Area in a Web Mapping Client">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0139-geolocate-canvas-fragment" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0139-geolocate-canvas-fragment/" />
         </attvalues>
       </node>
       <node id="154_0154-geo-extension" label="Locate a Manifest on a Web Map">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0154-geo-extension" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0154-geo-extension/" />
         </attvalues>
       </node>
       <node id="Navplace Viewer" label="Navplace Viewer">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="viewer" />
         </attvalues>
       </node>
       <node id="202_0202-start-canvas" label="Load Manifest Beginning with a Specific Canvas">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0202-start-canvas" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0202-start-canvas/" />
         </attvalues>
       </node>
       <node id="219_0219-using-caption-file" label="Using Caption and Subtitle Files with Video Content">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0219-using-caption-file" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0219-using-caption-file/" />
         </attvalues>
       </node>
       <node id="230_0230-navdate" label="Navigation by Chronology">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0230-navdate" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0230-navdate/" />
         </attvalues>
       </node>
       <node id="234_0234-provider" label="Acknowledge Content Contributors">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0234-provider" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0234-provider/" />
         </attvalues>
       </node>
       <node id="240_0240-navPlace-on-canvases" label="Locate Multiple Canvases on a Web Map">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0240-navPlace-on-canvases" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0240-navPlace-on-canvases/" />
         </attvalues>
       </node>
       <node id="261_0261-non-rectangular-commenting" label="Annotation with a Non-Rectangular Polygon (Updated)">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0261-non-rectangular-commenting" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0261-non-rectangular-commenting/" />
         </attvalues>
       </node>
       <node id="266_0266-full-canvas-annotation" label="Simplest Annotation">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0266-full-canvas-annotation" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0266-full-canvas-annotation/" />
         </attvalues>
       </node>
       <node id="269_0269-embedded-or-referenced-annotations" label="Embedded or referenced Annotations">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0269-embedded-or-referenced-annotations" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/" />
         </attvalues>
       </node>
       <node id="283_0283-missing-image" label="Missing Images in a Sequence">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0283-missing-image" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0283-missing-image/" />
         </attvalues>
       </node>
       <node id="299_0299-region" label="Addressing a Spatial Region">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0299-region" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0299-region/" />
         </attvalues>
       </node>
       <node id="377_0377-image-in-annotation" label="Image in Annotations">
         <attvalues>
-          <attvalue for="0" value="recipe" />
+          <attvalue for="0" value="0377-image-in-annotation" />
+          <attvalue for="1" value="recipe" />
+          <attvalue for="2" value="https://iiif.io/api/cookbook/recipe/0377-image-in-annotation/" />
         </attvalues>
       </node>
     </nodes>
     <edges>
       <edge source="1_0001-mvm-image" target="Mirador" id="0">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="1_0001-mvm-image" target="UV" id="1">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="1_0001-mvm-image" target="Annona" id="2">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="1_0001-mvm-image" target="Clover" id="3">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="2_0002-mvm-audio" id="4">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="3_0003-mvm-video" id="5">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="4_0004-canvas-size" id="6">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="5_0005-image-service" id="7">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="6_0006-text-language" id="8">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="7_0007-string-formats" id="9">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="8_0008-rights" id="10">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="9_0009-book-1" id="11">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="10_0010-book-2-viewing-direction" id="12">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="viewingDirection" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="11_0011-book-3-behavior" id="13">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="image" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="17_0017-transcription-av" id="14">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="rendering" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="19_0019-html-in-annotations" id="15">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="21_0021-tagging" id="16">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="24_0024-book-4-toc" id="17">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="structures" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="29_0029-metadata-anywhere" id="18">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="metadata" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="30_0030-multi-volume" id="19">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="31_0031-bound-multivolume" id="20">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="32_0032-collection" id="21">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="46_0046-rendering" id="22">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="rendering" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="47_0047-homepage" id="23">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="homepage" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="53_0053-seeAlso" id="24">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="seeAlso" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="68_0068-newspaper" id="25">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="117_0117-add-image-thumbnail" id="26">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="thumbnail" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="118_0118-multivalue" id="27">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="202_0202-start-canvas" id="28">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="start" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="230_0230-navdate" id="29">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="navDate" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="234_0234-provider" id="30">
         <attvalues>
-          <attvalue for="1" value="partial" />
+          <attvalue for="3" value="partial" />
+          <attvalue for="4" value="provider" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="261_0261-non-rectangular-commenting" id="31">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="266_0266-full-canvas-annotation" id="32">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="269_0269-embedded-or-referenced-annotations" id="33">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Mirador" target="283_0283-missing-image" id="34">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="2_0002-mvm-audio" id="35">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="3_0003-mvm-video" id="36">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="4_0004-canvas-size" id="37">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="6_0006-text-language" id="38">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="UV" target="7_0007-string-formats" id="39">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="UV" target="8_0008-rights" id="40">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="UV" target="9_0009-book-1" id="41">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="10_0010-book-2-viewing-direction" id="42">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="viewingDirection" />
         </attvalues>
       </edge>
       <edge source="UV" target="11_0011-book-3-behavior" id="43">
         <attvalues>
-          <attvalue for="1" value="partial" />
+          <attvalue for="3" value="partial" />
+          <attvalue for="4" value="image" />
         </attvalues>
       </edge>
       <edge source="UV" target="17_0017-transcription-av" id="44">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="rendering" />
         </attvalues>
       </edge>
       <edge source="UV" target="24_0024-book-4-toc" id="45">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="structures" />
         </attvalues>
       </edge>
       <edge source="UV" target="26_0026-toc-opera" id="46">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="29_0029-metadata-anywhere" id="47">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="metadata" />
         </attvalues>
       </edge>
       <edge source="UV" target="30_0030-multi-volume" id="48">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="31_0031-bound-multivolume" id="49">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="32_0032-collection" id="50">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="64_0064-opera-one-canvas" id="51">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="start" />
         </attvalues>
       </edge>
       <edge source="UV" target="65_0065-opera-multiple-canvases" id="52">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="68_0068-newspaper" id="53">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="UV" target="118_0118-multivalue" id="54">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="UV" target="230_0230-navdate" id="55">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="navDate" />
         </attvalues>
       </edge>
       <edge source="UV" target="283_0283-missing-image" id="56">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="4_0004-canvas-size" id="57">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="5_0005-image-service" id="58">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="6_0006-text-language" id="59">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Annona" target="7_0007-string-formats" id="60">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Annona" target="8_0008-rights" id="61">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Annona" target="9_0009-book-1" id="62">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="10_0010-book-2-viewing-direction" id="63">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="viewingDirection" />
         </attvalues>
       </edge>
       <edge source="Annona" target="19_0019-html-in-annotations" id="64">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="21_0021-tagging" id="65">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="29_0029-metadata-anywhere" id="66">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="metadata" />
         </attvalues>
       </edge>
       <edge source="Annona" target="30_0030-multi-volume" id="67">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="32_0032-collection" id="68">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="46_0046-rendering" id="69">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="rendering" />
         </attvalues>
       </edge>
       <edge source="Annona" target="47_0047-homepage" id="70">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="homepage" />
         </attvalues>
       </edge>
       <edge source="Annona" target="53_0053-seeAlso" id="71">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="seeAlso" />
         </attvalues>
       </edge>
       <edge source="Annona" target="68_0068-newspaper" id="72">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="118_0118-multivalue" id="73">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Annona" target="139_0139-geolocate-canvas-fragment" id="74">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="202_0202-start-canvas" id="75">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="start" />
         </attvalues>
       </edge>
       <edge source="Annona" target="261_0261-non-rectangular-commenting" id="76">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="266_0266-full-canvas-annotation" id="77">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="269_0269-embedded-or-referenced-annotations" id="78">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="299_0299-region" id="79">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Annona" target="377_0377-image-in-annotation" id="80">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="2_0002-mvm-audio" id="81">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="3_0003-mvm-video" id="82">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="5_0005-image-service" id="83">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="7_0007-string-formats" id="84">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Clover" target="8_0008-rights" id="85">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="requiredStatement" />
         </attvalues>
       </edge>
       <edge source="Clover" target="9_0009-book-1" id="86">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="13_0013-placeholderCanvas" id="87">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="placeholderCanvas" />
         </attvalues>
       </edge>
       <edge source="Clover" target="14_0014-accompanyingcanvas" id="88">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="accompanyingCanvas" />
         </attvalues>
       </edge>
       <edge source="Clover" target="29_0029-metadata-anywhere" id="89">
         <attvalues>
-          <attvalue for="1" value="partial" />
+          <attvalue for="3" value="partial" />
+          <attvalue for="4" value="metadata" />
         </attvalues>
       </edge>
       <edge source="Clover" target="32_0032-collection" id="90">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Clover" target="47_0047-homepage" id="91">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="homepage" />
         </attvalues>
       </edge>
       <edge source="Clover" target="53_0053-seeAlso" id="92">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="seeAlso" />
         </attvalues>
       </edge>
       <edge source="Clover" target="117_0117-add-image-thumbnail" id="93">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="thumbnail" />
         </attvalues>
       </edge>
       <edge source="Clover" target="219_0219-using-caption-file" id="94">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="2_0002-mvm-audio" target="Ramp" id="95">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="3_0003-mvm-video" id="96">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="13_0013-placeholderCanvas" id="97">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="placeholderCanvas" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="15_0015-start" id="98">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="start" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="17_0017-transcription-av" id="99">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="rendering" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="26_0026-toc-opera" id="100">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="64_0064-opera-one-canvas" id="101">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="start" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="65_0065-opera-multiple-canvases" id="102">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="74_0074-multiple-language-captions" id="103">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Ramp" target="219_0219-using-caption-file" id="104">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="154_0154-geo-extension" target="Navplace Viewer" id="105">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
       <edge source="Navplace Viewer" target="240_0240-navPlace-on-canvases" id="106">
         <attvalues>
-          <attvalue for="1" value="Yes" />
+          <attvalue for="3" value="Yes" />
+          <attvalue for="4" value="NaN" />
         </attvalues>
       </edge>
     </edges>
