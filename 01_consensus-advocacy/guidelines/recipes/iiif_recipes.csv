@@ -1,0 +1,42 @@
+id,slug,url,json,recipe,topic,viewer,support,property
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,basic,Mirador,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,basic,UV,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,basic,Annona,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,basic,Clover,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,image,Mirador,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,image,UV,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,image,Annona,Yes,
+1,0001-mvm-image,https://iiif.io/api/cookbook/recipe/0001-mvm-image/,https://iiif.io/api/cookbook/recipe/0001-mvm-image/manifest.json,Simplest Manifest - Single Image File,image,Clover,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,basic,Mirador,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,basic,UV,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,basic,Clover,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,basic,Ramp,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,AV,Mirador,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,AV,UV,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,AV,Clover,Yes,
+2,0002-mvm-audio,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/,https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json,Simplest Manifest - Audio,AV,Ramp,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,basic,Mirador,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,basic,UV,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,basic,Clover,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,basic,Ramp,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,AV,Mirador,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,AV,UV,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,AV,Clover,Yes,
+3,0003-mvm-video,https://iiif.io/api/cookbook/recipe/0003-mvm-video/,https://iiif.io/api/cookbook/recipe/0003-mvm-video/manifest.json,Simplest Manifest - Video,AV,Ramp,Yes,
+4,0004-canvas-size,https://iiif.io/api/cookbook/recipe/0004-canvas-size/,https://iiif.io/api/cookbook/recipe/0004-canvas-size/manifest.json,Image and Canvas with Differing Dimensions,image,UV,Yes,
+4,0004-canvas-size,https://iiif.io/api/cookbook/recipe/0004-canvas-size/,https://iiif.io/api/cookbook/recipe/0004-canvas-size/manifest.json,Image and Canvas with Differing Dimensions,image,Mirador,Yes,
+4,0004-canvas-size,https://iiif.io/api/cookbook/recipe/0004-canvas-size/,https://iiif.io/api/cookbook/recipe/0004-canvas-size/manifest.json,Image and Canvas with Differing Dimensions,image,Annona,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,basic,Mirador,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,basic,Annona,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,basic,Clover,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,image,Mirador,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,image,Annona,Yes,
+5,0005-image-service,https://iiif.io/api/cookbook/recipe/0005-image-service/,https://iiif.io/api/cookbook/recipe/0005-image-service/manifest.json,Support Deep Viewing with Basic Use of a IIIF Image Service,image,Clover,Yes,
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,UV,Yes,label
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,UV,Yes,summary
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,UV,Yes,metadata
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,UV,Yes,requiredStatement
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,Mirador,Yes,label
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,Mirador,Yes,summary
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,Mirador,Yes,metadata
+6,0006-text-language,https://iiif.io/api/cookbook/recipe/0006-text-language/,https://iiif.io/api/cookbook/recipe/0006-text-language/manifest.json,Internationalization and Multi-language Values,basic,Mirador,Yes,requiredStatement
