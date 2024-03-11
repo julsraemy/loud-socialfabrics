@@ -1,0 +1,9 @@
+pyvis
+pandas
+networkx
+matplotlib
+requests
+pyyaml
+python-dotenv
+beautifulsoup4
+numpy
