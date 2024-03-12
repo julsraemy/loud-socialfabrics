@@ -41,7 +41,9 @@ def content_similarity_analysis(df):
     contents = []
     for _, row in df.iterrows():
         json_data = fetch_json(row['json'])
-        content = " ".join([str(json_data.get(prop, '')) for prop in row['property'].split(',')])
+        # Ensure properties is treated as a string, handle NaN or missing values
+        properties = str(row['property']).split(',') if pd.notnull(row['property']) else []
+        content = " ".join([str(json_data.get(prop.strip(), '')) for prop in properties])
         contents.append(content)
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(contents)
