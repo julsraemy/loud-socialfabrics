@@ -1,54 +1,87 @@
-from pyvis.network import Network
 import pandas as pd
+import requests
+from collections import defaultdict, Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import json
 import os
 
-def create_graph(df, graph_type):
-    net = Network(height='750px', width='100%', bgcolor='#222222', font_color='white')
-    net.force_atlas_2based()
-    net.show_buttons(filter_=['physics'])
+def fetch_json(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        return {}
 
-    if graph_type == 'recipe-viewer':
-        for _, row in df.iterrows():
-            recipe_node = row['slug']
-            viewer_node = f"viewer_{row['viewer']}"
-            net.add_node(recipe_node, label=recipe_node, size=15, group='recipe', title=row['recipe'])
-            net.add_node(viewer_node, label=row['viewer'], size=25, group='viewer', title=row['viewer'])
-            net.add_edge(recipe_node, viewer_node, title=f"Support: {row['support']}")
+def extract_keys(json_obj, prefix=''):
+    keys = set()
+    if isinstance(json_obj, dict):
+        for k, v in json_obj.items():
+            full_key = f'{prefix}.{k}' if prefix else k
+            keys.add(full_key)
+            keys.update(extract_keys(v, full_key))
+    elif isinstance(json_obj, list):
+        for item in json_obj:
+            keys.update(extract_keys(item, prefix))
+    return keys
 
-    elif graph_type == 'recipe-topic':
-        unique_topics = df.drop_duplicates(subset=['slug', 'topic'])
-        for _, row in unique_topics.iterrows():
-            recipe_node = row['slug']
-            topic_node = f"topic_{row['topic']}"
-            net.add_node(recipe_node, label=recipe_node, size=15, group='recipe', title=row['recipe'])
-            net.add_node(topic_node, label=row['topic'], size=20, group='topic', title=row['topic'])
-            net.add_edge(recipe_node, topic_node)
+def compare_key_sets(json_files):
+    all_keys = {url: extract_keys(fetch_json(url)) for url in json_files}
+    comparisons = defaultdict(dict)
+    for url1, keys1 in all_keys.items():
+        for url2, keys2 in all_keys.items():
+            if url1 != url2:
+                similarity = len(keys1.intersection(keys2)) / len(keys1.union(keys2))
+                comparisons[url1][url2] = similarity
+    return comparisons
 
-    elif graph_type == 'recipe-property':
-        for _, row in df.iterrows():
-            recipe_node = row['slug']
-            properties = str(row['property']).split(',')
-            for prop in properties:
-                prop_cleaned = prop.strip()
-                if prop_cleaned:
-                    property_node = f"property_{prop_cleaned}"
-                    net.add_node(recipe_node, label=recipe_node, size=15, group='recipe', title=row['recipe'])
-                    net.add_node(property_node, label=prop_cleaned, size=20, group='property', title=prop_cleaned)
-                    net.add_edge(recipe_node, property_node)
+def content_similarity_analysis(df):
+    contents = []
+    for _, row in df.iterrows():
+        json_data = fetch_json(row['json'])
+        properties = str(row['property']).split(',') if pd.notnull(row['property']) else []
+        content = " ".join([str(json_data.get(prop.strip(), '')) for prop in properties])
+        contents.append(content)
+    vectorizer = TfidfVectorizer()
+    tfidf_matrix = vectorizer.fit_transform(contents)
+    similarity_matrix = cosine_similarity(tfidf_matrix)
+    return similarity_matrix
 
-    html_filename = f'interactive_graph_{graph_type}.html'
-    html_path = os.path.join(script_dir, 'recipes', html_filename)
-    net.save_graph(html_path)
-    print(f"Graph saved to: {html_path}")
-
-# Setup paths
+# Load the CSV
 script_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(script_dir, 'recipes', 'iiif_recipes.csv')
-
-# Load data
 df = pd.read_csv(csv_path)
 
-# Generate specific graphs for recipe-viewer, recipe-topic, and recipe-property
-create_graph(df, 'recipe-viewer')
-create_graph(df, 'recipe-topic')
-create_graph(df, 'recipe-property')
+# Assuming the 'json' column contains JSON file URLs
+json_files = df['json'].unique()
+
+# Update DataFrame with additional data from JSON
+df['JSON_Paths'] = ''
+df['Label_en'] = ''
+df['First_Content_Link'] = ''
+
+for index, row in df.iterrows():
+    json_data = fetch_json(row['json'])
+    # Example JSON path extraction (modify as needed)
+    json_paths = extract_keys(json_data)
+    df.at[index, 'JSON_Paths'] = '; '.join(json_paths)
+    # Extract label and first content link (modify JSONPath expressions as needed)
+    df.at[index, 'Label_en'] = json_data.get('label', {}).get('en', [''])[0]
+    first_item_id = json_data.get('items', [{}])[0].get('items', [{}])[0].get('items', [{}])[0].get('body', {}).get('id', '')
+    df.at[index, 'First_Content_Link'] = first_item_id
+
+# Compute and add similarity scores (this example does not integrate similarity scores into df directly due to complexity)
+
+# Save the extended dataframe to a new CSV
+extended_csv_path = os.path.join(script_dir, 'recipes', 'iiif_recipes_extended.csv')
+df.to_csv(extended_csv_path, index=False)
+print(f"Extended CSV saved to: {extended_csv_path}")
+
+# Generating statistics on the most common JSON paths and content links
+json_paths_list = '; '.join(df['JSON_Paths'].tolist()).split('; ')
+path_counts = Counter(json_paths_list)
+content_link_counts = Counter(df['First_Content_Link'].tolist())
+
+# Save or print statistics as needed
+print("Most Common JSON Paths:", path_counts.most_common(10))
+print("Most Common Content Links:", content_link_counts.most_common(10))

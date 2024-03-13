@@ -11,3 +11,4 @@ collections
 sklearn
 nltk
 json
+jsonpath_ng
