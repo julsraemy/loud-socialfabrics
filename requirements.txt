@@ -10,3 +10,4 @@ numpy
 collections
 sklearn
 nltk
+json
