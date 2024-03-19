@@ -1,0 +1,2088 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-19">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="items.items.items.body.height" label="items.items.items.body.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.type" label="items.items.items.body.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.format" label="items.items.items.body.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.type" label="items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items" label="items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="id" label="id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.id" label="items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.width" label="items.items.items.body.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.type" label="items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.id" label="items.items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.motivation" label="items.items.items.motivation">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label" label="label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.target" label="items.items.items.target">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.id" label="items.items.items.body.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body" label="items.items.items.body">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.id" label="items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items" label="items.items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.width" label="items.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="type" label="type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items" label="items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.type" label="items.items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.height" label="items.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.en" label="label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="@context" label="@context">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.duration" label="items.items.items.body.duration">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.duration" label="items.duration">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.label" label="items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.service.profile" label="items.items.items.body.service.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.service.id" label="items.items.items.body.service.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.service.type" label="items.items.items.body.service.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.service" label="items.items.items.body.service">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.label.en" label="items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.value.none" label="metadata.value.none">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="summary.fr" label="summary.fr">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.value" label="metadata.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata" label="metadata">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.label.fr" label="metadata.label.fr">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.value.en" label="metadata.value.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.label.en" label="requiredStatement.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.value" label="requiredStatement.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.label" label="requiredStatement.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.value.none" label="requiredStatement.value.none">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.value.fr" label="metadata.value.fr">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement" label="requiredStatement">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.label.en" label="metadata.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.label.fr" label="requiredStatement.label.fr">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.fr" label="label.fr">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="metadata.label" label="metadata.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="summary" label="summary">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="summary.en" label="summary.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rights" label="rights">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="requiredStatement.value.en" label="requiredStatement.value.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="behavior" label="behavior">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="viewingDirection" label="viewingDirection">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.gez" label="label.gez">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.ca" label="label.ca">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.type" label="items.placeholderCanvas.items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body" label="items.placeholderCanvas.items.items.body">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items" label="items.placeholderCanvas.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.type" label="items.placeholderCanvas.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.id" label="items.placeholderCanvas.items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.type" label="items.placeholderCanvas.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas" label="items.placeholderCanvas">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.id" label="items.placeholderCanvas.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body.id" label="items.placeholderCanvas.items.items.body.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.height" label="items.placeholderCanvas.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.width" label="items.placeholderCanvas.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body.width" label="items.placeholderCanvas.items.items.body.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body.type" label="items.placeholderCanvas.items.items.body.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body.format" label="items.placeholderCanvas.items.items.body.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items" label="items.placeholderCanvas.items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.motivation" label="items.placeholderCanvas.items.items.motivation">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.id" label="items.placeholderCanvas.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.body.height" label="items.placeholderCanvas.items.items.body.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.placeholderCanvas.items.items.target" label="items.placeholderCanvas.items.items.target">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas" label="items.accompanyingCanvas">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.type" label="items.accompanyingCanvas.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.format" label="items.accompanyingCanvas.items.items.body.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.type" label="items.accompanyingCanvas.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.width" label="items.accompanyingCanvas.items.items.body.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.service.profile" label="items.accompanyingCanvas.items.items.body.service.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items" label="items.accompanyingCanvas.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body" label="items.accompanyingCanvas.items.items.body">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.motivation" label="items.accompanyingCanvas.items.items.motivation">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.target" label="items.accompanyingCanvas.items.items.target">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.id" label="items.accompanyingCanvas.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.width" label="items.accompanyingCanvas.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.id" label="items.accompanyingCanvas.items.items.body.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items" label="items.accompanyingCanvas.items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.service" label="items.accompanyingCanvas.items.items.body.service">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.height" label="items.accompanyingCanvas.items.items.body.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.id" label="items.accompanyingCanvas.items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.id" label="items.accompanyingCanvas.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.type" label="items.accompanyingCanvas.items.items.body.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.service.id" label="items.accompanyingCanvas.items.items.body.service.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.label.en" label="items.accompanyingCanvas.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.type" label="items.accompanyingCanvas.items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.items.items.body.service.type" label="items.accompanyingCanvas.items.items.body.service.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.label" label="items.accompanyingCanvas.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.accompanyingCanvas.height" label="items.accompanyingCanvas.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.selector.t" label="start.selector.t">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.selector.type" label="start.selector.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.selector" label="start.selector">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start" label="start">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.source" label="start.source">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.id" label="start.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="start.type" label="start.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering" label="items.rendering">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.format" label="items.rendering.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.type" label="items.rendering.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.label" label="items.rendering.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.label.en" label="items.rendering.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.id" label="items.rendering.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.type" label="items.annotations.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.id" label="items.annotations.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items" label="items.annotations.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.type" label="items.annotations.items.body.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.motivation" label="items.annotations.items.motivation">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations" label="items.annotations">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.value" label="items.annotations.items.body.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.format" label="items.annotations.items.body.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.language" label="items.annotations.items.body.language">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body" label="items.annotations.items.body">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target" label="items.annotations.items.target">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.type" label="items.annotations.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.id" label="items.annotations.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items" label="structures.items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items" label="structures.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.items" label="structures.items.items.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures" label="structures">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.label.en" label="structures.items.items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.id" label="structures.items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.type" label="structures.items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.label" label="structures.items.items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.id" label="structures.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.label.gez" label="structures.items.label.gez">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.items.id" label="structures.items.items.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.type" label="structures.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.label.en" label="structures.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.type" label="structures.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.id" label="structures.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.items.type" label="structures.items.items.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.label" label="structures.items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.label" label="structures.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.label.it" label="structures.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.it" label="label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.label.it" label="structures.items.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.items.label.it" label="structures.items.items.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.metadata" label="items.metadata">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.metadata.label.en" label="items.metadata.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.metadata.label" label="items.metadata.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.metadata.value.en" label="items.metadata.value.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.metadata.value" label="items.metadata.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.label.jp" label="items.label.jp">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.jp" label="label.jp">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.label.en" label="structures.items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.label.de" label="structures.label.de">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="structures.items.label.de" label="structures.items.label.de">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.de" label="label.de">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering.label" label="rendering.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering.type" label="rendering.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering" label="rendering">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering.label.en" label="rendering.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering.format" label="rendering.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="rendering.id" label="rendering.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.id" label="homepage.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.language" label="homepage.language">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage" label="homepage">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.label" label="homepage.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="label.none" label="label.none">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.format" label="homepage.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.label.en" label="homepage.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.label.none" label="items.label.none">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="homepage.type" label="homepage.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.type" label="seeAlso.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso" label="seeAlso">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.label.en" label="seeAlso.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.format" label="seeAlso.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.label" label="seeAlso.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.profile" label="seeAlso.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="seeAlso.id" label="seeAlso.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.thumbnail" label="items.thumbnail">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.thumbnail.type" label="items.thumbnail.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.thumbnail.id" label="items.thumbnail.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source.partOf.type" label="items.target.source.partOf.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source.id" label="items.target.source.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.body" label="items.body">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source" label="items.target.source">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.selector" label="items.target.selector">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target" label="items.target">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.motivation" label="items.motivation">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.body.format" label="items.body.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.body.type" label="items.body.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.selector.value" label="items.target.selector.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.selector.type" label="items.target.selector.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.body.value" label="items.body.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.body.language" label="items.body.language">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.type" label="items.target.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source.partOf.id" label="items.target.source.partOf.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source.type" label="items.target.source.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.source.partOf" label="items.target.source.partOf">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.target.selector.conformsTo" label="items.target.selector.conformsTo">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="partOf" label="partOf">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.type" label="provider.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="partOf.id" label="partOf.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.id" label="provider.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.id" label="thumbnail.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.type" label="provider.logo.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.label.en" label="provider.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.label" label="provider.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.format" label="thumbnail.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.rendering.profile" label="items.rendering.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.type" label="thumbnail.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.width" label="provider.logo.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo" label="provider.logo">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail" label="thumbnail">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.height" label="provider.logo.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.id" label="provider.logo.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="partOf.type" label="partOf.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navDate" label="navDate">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.format" label="provider.logo.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider" label="provider">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navDate" label="items.navDate">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.label.de" label="items.label.de">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.label.it" label="items.annotations.items.body.items.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.label" label="items.annotations.items.body.items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.format" label="items.annotations.items.body.items.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.id" label="items.annotations.items.body.items.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items" label="items.annotations.items.body.items">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.label.en" label="items.annotations.items.body.items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.type" label="items.annotations.items.body.items.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.items.language" label="items.annotations.items.body.items.language">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.extraQualities" label="thumbnail.service.extraQualities">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.id" label="thumbnail.service.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.profile" label="thumbnail.service.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.protocol" label="thumbnail.service.protocol">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.tiles.width" label="thumbnail.service.tiles.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.height" label="thumbnail.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.tiles.scaleFactors" label="thumbnail.service.tiles.scaleFactors">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.tiles.height" label="thumbnail.service.tiles.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.width" label="thumbnail.service.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.tiles" label="thumbnail.service.tiles">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.type" label="thumbnail.service.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.height" label="thumbnail.service.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service.extraFormats" label="thumbnail.service.extraFormats">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.width" label="thumbnail.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="thumbnail.service" label="thumbnail.service">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.label.en" label="items.annotations.items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.geometry" label="items.annotations.items.body.geometry">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.label" label="items.items.items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.geometry.coordinates" label="items.annotations.items.body.geometry.coordinates">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.label" label="items.annotations.items.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.label.en" label="items.items.items.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.geometry.type" label="items.annotations.items.body.geometry.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.properties.label.en" label="items.annotations.items.body.properties.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.properties" label="items.annotations.items.body.properties">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.properties.label" label="items.annotations.items.body.properties.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.id" label="items.annotations.items.body.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.id" label="navPlace.features.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.properties" label="navPlace.features.properties">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.geometry.type" label="navPlace.features.geometry.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.properties.label" label="navPlace.features.properties.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features" label="navPlace.features">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.geometry" label="navPlace.features.geometry">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace" label="navPlace">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.id" label="navPlace.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.properties.label.it" label="navPlace.features.properties.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.type" label="navPlace.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.type" label="navPlace.features.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.geometry.coordinates" label="navPlace.features.geometry.coordinates">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="navPlace.features.properties.label.en" label="navPlace.features.properties.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.label.en" label="items.annotations.items.body.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.body.label" label="items.annotations.items.body.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.id" label="provider.logo.service.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.type" label="provider.homepage.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.format" label="provider.seeAlso.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service" label="provider.logo.service">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.id" label="provider.homepage.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.language" label="provider.homepage.language">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.profile" label="provider.logo.service.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.profile" label="provider.seeAlso.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.label.en" label="provider.seeAlso.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.sizes.height" label="provider.logo.service.sizes.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.height" label="provider.logo.service.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.label" label="provider.seeAlso.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.format" label="provider.homepage.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.label.en" label="provider.homepage.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.width" label="provider.logo.service.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.sizes.width" label="provider.logo.service.sizes.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.type" label="provider.logo.service.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.type" label="provider.seeAlso.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage" label="provider.homepage">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso" label="provider.seeAlso">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.logo.service.sizes" label="provider.logo.service.sizes">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.seeAlso.id" label="provider.seeAlso.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="provider.homepage.label" label="provider.homepage.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.geometry.type" label="items.navPlace.features.geometry.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.type" label="items.navPlace.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.type" label="items.navPlace.features.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.properties" label="items.navPlace.features.properties">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.id" label="items.navPlace.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features" label="items.navPlace.features">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace" label="items.navPlace">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.geometry.coordinates" label="items.navPlace.features.geometry.coordinates">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.properties.label.it" label="items.navPlace.features.properties.label.it">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.geometry" label="items.navPlace.features.geometry">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.id" label="items.navPlace.features.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.properties.label" label="items.navPlace.features.properties.label">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.navPlace.features.properties.label.en" label="items.navPlace.features.properties.label.en">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target.selector" label="items.annotations.items.target.selector">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target.type" label="items.annotations.items.target.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target.source" label="items.annotations.items.target.source">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target.selector.value" label="items.annotations.items.target.selector.value">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.annotations.items.target.selector.type" label="items.annotations.items.target.selector.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.service.id" label="items.items.items.body.source.service.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.service.profile" label="items.items.items.body.source.service.profile">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.service" label="items.items.items.body.source.service">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.selector.region" label="items.items.items.body.selector.region">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.id" label="items.items.items.body.source.id">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.type" label="items.items.items.body.source.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.height" label="items.items.items.body.source.height">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.selector.type" label="items.items.items.body.selector.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source" label="items.items.items.body.source">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.service.type" label="items.items.items.body.source.service.type">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.selector.@context" label="items.items.items.body.selector.@context">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.selector" label="items.items.items.body.selector">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.format" label="items.items.items.body.source.format">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+      <node id="items.items.items.body.source.width" label="items.items.items.body.source.width">
+        <attvalues>
+          <attvalue for="0" value="json_path" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="items.items.items.body.height" target="items.items.items.body.format" id="0" />
+      <edge source="items.items.items.body.height" target="items.items.items.body.id" id="1" />
+      <edge source="items.items.items.body.type" target="items.items.items.body.id" id="2" />
+      <edge source="items.items.items.body.type" target="items.items.items.body.width" id="3" />
+      <edge source="items.items.items.body.type" target="items.items.items.id" id="4" />
+      <edge source="items.items.items.body.type" target="items.items.items.body.service.type" id="5" />
+      <edge source="items.items.items.body.type" target="items.items.items.body.source.width" id="6" />
+      <edge source="items.items.items.body.format" target="items.items.items.body" id="7" />
+      <edge source="items.items.items.body.format" target="items.items.items.body.duration" id="8" />
+      <edge source="items.items.items.body.format" target="items.items.items.body.id" id="9" />
+      <edge source="items.items.type" target="items.items.items.type" id="10" />
+      <edge source="items.items.type" target="items.type" id="11" />
+      <edge source="items.items.type" target="items.label" id="12" />
+      <edge source="items.items.type" target="items.placeholderCanvas" id="13" />
+      <edge source="items.items.type" target="items.rendering" id="14" />
+      <edge source="items.items.type" target="items.thumbnail" id="15" />
+      <edge source="items.items" target="items.id" id="16" />
+      <edge source="items.items" target="items.items.id" id="17" />
+      <edge source="id" target="@context" id="18" />
+      <edge source="id" target="items" id="19" />
+      <edge source="id" target="behavior" id="20" />
+      <edge source="id" target="homepage.type" id="21" />
+      <edge source="items.items.id" target="items.items.items" id="22" />
+      <edge source="items.items.items.body.width" target="items.items.items.id" id="23" />
+      <edge source="items.type" target="items.width" id="24" />
+      <edge source="items.type" target="label" id="25" />
+      <edge source="items.type" target="items.label.en" id="26" />
+      <edge source="items.type" target="items.placeholderCanvas.width" id="27" />
+      <edge source="items.type" target="items.rendering.type" id="28" />
+      <edge source="items.type" target="items.metadata.value.en" id="29" />
+      <edge source="items.type" target="items.label.jp" id="30" />
+      <edge source="items.type" target="items.label.none" id="31" />
+      <edge source="items.type" target="items.thumbnail.type" id="32" />
+      <edge source="items.type" target="items.target.type" id="33" />
+      <edge source="items.type" target="type" id="34" />
+      <edge source="items.type" target="items.navDate" id="35" />
+      <edge source="items.type" target="items.navPlace.type" id="36" />
+      <edge source="items.type" target="items.target" id="37" />
+      <edge source="items.items.items.id" target="items.items.items.motivation" id="38" />
+      <edge source="items.items.items.id" target="items.items.items.label" id="39" />
+      <edge source="items.items.items.motivation" target="items.items.items.target" id="40" />
+      <edge source="items.items.items.motivation" target="items.items.items.label.en" id="41" />
+      <edge source="label" target="items.width" id="42" />
+      <edge source="label" target="label.en" id="43" />
+      <edge source="label" target="label.gez" id="44" />
+      <edge source="label" target="label.ca" id="45" />
+      <edge source="label" target="label.jp" id="46" />
+      <edge source="label" target="label.de" id="47" />
+      <edge source="label" target="label.none" id="48" />
+      <edge source="label" target="label.fr" id="49" />
+      <edge source="label" target="label.it" id="50" />
+      <edge source="items.items.items.target" target="items.items.items.type" id="51" />
+      <edge source="items.items.items.body.id" target="items.items.items.body.service" id="52" />
+      <edge source="items.items.items.body.id" target="items.items.items.body" id="53" />
+      <edge source="items.items.items.body.id" target="items.items.items.body.selector" id="54" />
+      <edge source="items.items.items.body" target="items.items.items" id="55" />
+      <edge source="items.items.items.body" target="items.items.items.body.duration" id="56" />
+      <edge source="items.id" target="items.height" id="57" />
+      <edge source="items.id" target="items.duration" id="58" />
+      <edge source="items.id" target="items" id="59" />
+      <edge source="items.id" target="items.label" id="60" />
+      <edge source="items.id" target="items.body.value" id="61" />
+      <edge source="items.id" target="items.motivation" id="62" />
+      <edge source="type" target="label.en" id="63" />
+      <edge source="type" target="summary.fr" id="64" />
+      <edge source="type" target="summary.en" id="65" />
+      <edge source="type" target="viewingDirection" id="66" />
+      <edge source="type" target="label.gez" id="67" />
+      <edge source="type" target="label.ca" id="68" />
+      <edge source="type" target="start.type" id="69" />
+      <edge source="type" target="structures.type" id="70" />
+      <edge source="type" target="requiredStatement.value.en" id="71" />
+      <edge source="type" target="label.jp" id="72" />
+      <edge source="type" target="metadata.value.en" id="73" />
+      <edge source="type" target="label.none" id="74" />
+      <edge source="type" target="thumbnail.type" id="75" />
+      <edge source="type" target="seeAlso.type" id="76" />
+      <edge source="type" target="rights" id="77" />
+      <edge source="type" target="thumbnail.width" id="78" />
+      <edge source="type" target="navPlace.type" id="79" />
+      <edge source="type" target="navDate" id="80" />
+      <edge source="items" target="items.height" id="81" />
+      <edge source="items" target="items.duration" id="82" />
+      <edge source="items" target="items.accompanyingCanvas" id="83" />
+      <edge source="items" target="items.annotations" id="84" />
+      <edge source="items" target="items.body" id="85" />
+      <edge source="items.height" target="items.duration" id="86" />
+      <edge source="items.height" target="items.annotations.type" id="87" />
+      <edge source="label.en" target="label.fr" id="88" />
+      <edge source="label.en" target="metadata" id="89" />
+      <edge source="label.en" target="requiredStatement" id="90" />
+      <edge source="label.en" target="summary" id="91" />
+      <edge source="label.en" target="structures" id="92" />
+      <edge source="label.en" target="label.it" id="93" />
+      <edge source="label.en" target="rendering" id="94" />
+      <edge source="label.en" target="seeAlso" id="95" />
+      <edge source="label.en" target="start" id="96" />
+      <edge source="label.en" target="thumbnail" id="97" />
+      <edge source="label.en" target="navDate" id="98" />
+      <edge source="label.en" target="provider" id="99" />
+      <edge source="@context" target="behavior" id="100" />
+      <edge source="@context" target="homepage" id="101" />
+      <edge source="items.duration" target="items.accompanyingCanvas.width" id="102" />
+      <edge source="items.duration" target="items.annotations.type" id="103" />
+      <edge source="items.label" target="items.label.en" id="104" />
+      <edge source="items.label" target="items.label.jp" id="105" />
+      <edge source="items.label" target="items.label.none" id="106" />
+      <edge source="items.label" target="items.label.de" id="107" />
+      <edge source="items.items.items.body.service.profile" target="items.items.items.body.service.id" id="108" />
+      <edge source="items.items.items.body.service.profile" target="items.items.items.body.service.type" id="109" />
+      <edge source="items.items.items.body.service.id" target="items.items.items.body.service" id="110" />
+      <edge source="items.label.en" target="items.metadata" id="111" />
+      <edge source="items.label.en" target="items.thumbnail" id="112" />
+      <edge source="items.label.en" target="items.navDate" id="113" />
+      <edge source="items.label.en" target="items.navPlace" id="114" />
+      <edge source="metadata.value.none" target="metadata.value.fr" id="115" />
+      <edge source="metadata.value.none" target="requiredStatement" id="116" />
+      <edge source="metadata.value.none" target="metadata.value" id="117" />
+      <edge source="metadata.value.none" target="metadata.value.en" id="118" />
+      <edge source="metadata.value.none" target="navDate" id="119" />
+      <edge source="metadata.value.none" target="provider" id="120" />
+      <edge source="summary.fr" target="summary.en" id="121" />
+      <edge source="metadata.value" target="metadata.label.fr" id="122" />
+      <edge source="metadata.value" target="metadata.value.en" id="123" />
+      <edge source="metadata.value" target="metadata.label.en" id="124" />
+      <edge source="metadata" target="label.fr" id="125" />
+      <edge source="metadata" target="metadata.label" id="126" />
+      <edge source="metadata" target="label.it" id="127" />
+      <edge source="metadata" target="label.de" id="128" />
+      <edge source="metadata.label.fr" target="metadata.label.en" id="129" />
+      <edge source="metadata.value.en" target="metadata.value.fr" id="130" />
+      <edge source="metadata.value.en" target="requiredStatement" id="131" />
+      <edge source="metadata.value.en" target="structures" id="132" />
+      <edge source="requiredStatement.label.en" target="requiredStatement.label" id="133" />
+      <edge source="requiredStatement.label.en" target="requiredStatement.label.fr" id="134" />
+      <edge source="requiredStatement.label.en" target="requiredStatement.value" id="135" />
+      <edge source="requiredStatement.value" target="requiredStatement.label.fr" id="136" />
+      <edge source="requiredStatement.value" target="requiredStatement.value.none" id="137" />
+      <edge source="requiredStatement.value" target="requiredStatement.value.en" id="138" />
+      <edge source="requiredStatement.label" target="requiredStatement" id="139" />
+      <edge source="requiredStatement.value.none" target="summary" id="140" />
+      <edge source="metadata.value.fr" target="summary" id="141" />
+      <edge source="requiredStatement" target="provider.type" id="142" />
+      <edge source="requiredStatement" target="label.it" id="143" />
+      <edge source="metadata.label.en" target="metadata.label" id="144" />
+      <edge source="summary" target="summary.en" id="145" />
+      <edge source="summary" target="rights" id="146" />
+      <edge source="summary" target="rendering.type" id="147" />
+      <edge source="summary" target="seeAlso.type" id="148" />
+      <edge source="summary" target="provider.type" id="149" />
+      <edge source="summary.en" target="thumbnail" id="150" />
+      <edge source="rights" target="requiredStatement.value.en" id="151" />
+      <edge source="rights" target="start" id="152" />
+      <edge source="rights" target="seeAlso" id="153" />
+      <edge source="items.placeholderCanvas.items.items.type" target="items.placeholderCanvas.items.items.target" id="154" />
+      <edge source="items.placeholderCanvas.items.items.type" target="items.placeholderCanvas.items.type" id="155" />
+      <edge source="items.placeholderCanvas.items.items.body" target="items.placeholderCanvas.items.items" id="156" />
+      <edge source="items.placeholderCanvas.items.items.body" target="items.placeholderCanvas.items.items.body.format" id="157" />
+      <edge source="items.placeholderCanvas.items" target="items.placeholderCanvas.id" id="158" />
+      <edge source="items.placeholderCanvas.items" target="items.placeholderCanvas.items.id" id="159" />
+      <edge source="items.placeholderCanvas.items.type" target="items.placeholderCanvas.type" id="160" />
+      <edge source="items.placeholderCanvas.items.items.id" target="items.placeholderCanvas.items.items.body.width" id="161" />
+      <edge source="items.placeholderCanvas.items.items.id" target="items.placeholderCanvas.items.items.motivation" id="162" />
+      <edge source="items.placeholderCanvas.type" target="items.placeholderCanvas.width" id="163" />
+      <edge source="items.placeholderCanvas" target="items.placeholderCanvas.height" id="164" />
+      <edge source="items.placeholderCanvas.items.id" target="items.placeholderCanvas.items.items" id="165" />
+      <edge source="items.placeholderCanvas.items.items.body.id" target="items.placeholderCanvas.items.items.body.height" id="166" />
+      <edge source="items.placeholderCanvas.items.items.body.id" target="items.placeholderCanvas.items.items.body.type" id="167" />
+      <edge source="items.placeholderCanvas.height" target="items.placeholderCanvas.id" id="168" />
+      <edge source="items.placeholderCanvas.items.items.body.width" target="items.placeholderCanvas.items.items.body.type" id="169" />
+      <edge source="items.placeholderCanvas.items.items.body.format" target="items.placeholderCanvas.items.items.body.height" id="170" />
+      <edge source="items.placeholderCanvas.items.items.motivation" target="items.placeholderCanvas.items.items.target" id="171" />
+      <edge source="items.accompanyingCanvas" target="items.accompanyingCanvas.height" id="172" />
+      <edge source="items.accompanyingCanvas.type" target="items.accompanyingCanvas.label.en" id="173" />
+      <edge source="items.accompanyingCanvas.type" target="items.accompanyingCanvas.width" id="174" />
+      <edge source="items.accompanyingCanvas.items.items.body.format" target="items.accompanyingCanvas.items.items.body" id="175" />
+      <edge source="items.accompanyingCanvas.items.items.body.format" target="items.accompanyingCanvas.items.items.body.height" id="176" />
+      <edge source="items.accompanyingCanvas.items.type" target="items.accompanyingCanvas.items.items.type" id="177" />
+      <edge source="items.accompanyingCanvas.items.type" target="items.accompanyingCanvas.label" id="178" />
+      <edge source="items.accompanyingCanvas.items.items.body.width" target="items.accompanyingCanvas.items.items.body.type" id="179" />
+      <edge source="items.accompanyingCanvas.items.items.body.width" target="items.accompanyingCanvas.items.items.id" id="180" />
+      <edge source="items.accompanyingCanvas.items.items.body.service.profile" target="items.accompanyingCanvas.items.items.body.service.id" id="181" />
+      <edge source="items.accompanyingCanvas.items.items.body.service.profile" target="items.accompanyingCanvas.items.items.body.service.type" id="182" />
+      <edge source="items.accompanyingCanvas.items" target="items.accompanyingCanvas.id" id="183" />
+      <edge source="items.accompanyingCanvas.items" target="items.accompanyingCanvas.items.id" id="184" />
+      <edge source="items.accompanyingCanvas.items.items.body" target="items.accompanyingCanvas.items.items" id="185" />
+      <edge source="items.accompanyingCanvas.items.items.motivation" target="items.accompanyingCanvas.items.items.id" id="186" />
+      <edge source="items.accompanyingCanvas.items.items.motivation" target="items.accompanyingCanvas.items.items.target" id="187" />
+      <edge source="items.accompanyingCanvas.items.items.target" target="items.accompanyingCanvas.items.items.type" id="188" />
+      <edge source="items.accompanyingCanvas.items.id" target="items.accompanyingCanvas.items.items" id="189" />
+      <edge source="items.accompanyingCanvas.items.items.body.id" target="items.accompanyingCanvas.items.items.body.height" id="190" />
+      <edge source="items.accompanyingCanvas.items.items.body.id" target="items.accompanyingCanvas.items.items.body.service" id="191" />
+      <edge source="items.accompanyingCanvas.items.items.body.service" target="items.accompanyingCanvas.items.items.body.service.id" id="192" />
+      <edge source="items.accompanyingCanvas.id" target="items.accompanyingCanvas.height" id="193" />
+      <edge source="items.accompanyingCanvas.items.items.body.type" target="items.accompanyingCanvas.items.items.body.service.type" id="194" />
+      <edge source="items.accompanyingCanvas.label.en" target="items.accompanyingCanvas.label" id="195" />
+      <edge source="start.selector.t" target="start.selector" id="196" />
+      <edge source="start.selector.t" target="start.selector.type" id="197" />
+      <edge source="start.selector.type" target="start.source" id="198" />
+      <edge source="start.selector" target="start.id" id="199" />
+      <edge source="start" target="start.id" id="200" />
+      <edge source="start.source" target="start.type" id="201" />
+      <edge source="start.id" target="start.type" id="202" />
+      <edge source="items.rendering" target="items.rendering.format" id="203" />
+      <edge source="items.rendering" target="items.label.none" id="204" />
+      <edge source="items.rendering.format" target="items.rendering.id" id="205" />
+      <edge source="items.rendering.type" target="items.rendering.label.en" id="206" />
+      <edge source="items.rendering.type" target="items.rendering.profile" id="207" />
+      <edge source="items.rendering.label" target="items.rendering.id" id="208" />
+      <edge source="items.rendering.label" target="items.rendering.label.en" id="209" />
+      <edge source="items.rendering.label.en" target="items.rendering.profile" id="210" />
+      <edge source="items.annotations.type" target="items.annotations.items.type" id="211" />
+      <edge source="items.annotations.type" target="items.annotations.id" id="212" />
+      <edge source="items.annotations.id" target="items.annotations" id="213" />
+      <edge source="items.annotations.id" target="items.annotations.items" id="214" />
+      <edge source="items.annotations.items" target="items.annotations.items.body" id="215" />
+      <edge source="items.annotations.items.body.type" target="items.annotations.items.body.language" id="216" />
+      <edge source="items.annotations.items.body.type" target="items.annotations.items.body.value" id="217" />
+      <edge source="items.annotations.items.body.type" target="items.annotations.items.body.items.type" id="218" />
+      <edge source="items.annotations.items.body.type" target="items.annotations.items.id" id="219" />
+      <edge source="items.annotations.items.body.type" target="items.annotations.items.body.properties.label.en" id="220" />
+      <edge source="items.annotations.items.motivation" target="items.annotations.items.id" id="221" />
+      <edge source="items.annotations.items.motivation" target="items.annotations.items.target" id="222" />
+      <edge source="items.annotations.items.motivation" target="items.annotations.items.label.en" id="223" />
+      <edge source="items.annotations.items.body.value" target="items.annotations.items.id" id="224" />
+      <edge source="items.annotations.items.body.format" target="items.annotations.items.body" id="225" />
+      <edge source="items.annotations.items.body.format" target="items.annotations.items.body.language" id="226" />
+      <edge source="items.annotations.items.body.format" target="items.annotations.items.body.id" id="227" />
+      <edge source="items.annotations.items.body.language" target="items.annotations.items.body.label.en" id="228" />
+      <edge source="items.annotations.items.body.language" target="items.annotations.items.body.id" id="229" />
+      <edge source="items.annotations.items.body" target="items.annotations.items.body.items" id="230" />
+      <edge source="items.annotations.items.body" target="items.annotations.items.body.geometry" id="231" />
+      <edge source="items.annotations.items.target" target="items.annotations.items.type" id="232" />
+      <edge source="items.annotations.items.target" target="items.annotations.items.target.selector" id="233" />
+      <edge source="items.annotations.items.type" target="items.annotations.items.target.type" id="234" />
+      <edge source="items.annotations.items.id" target="items.annotations.items.label" id="235" />
+      <edge source="structures.items.items" target="structures.items.id" id="236" />
+      <edge source="structures.items.items" target="structures.items.items.id" id="237" />
+      <edge source="structures.items" target="structures.id" id="238" />
+      <edge source="structures.items" target="structures.items.id" id="239" />
+      <edge source="structures.items.items.items" target="structures.items.items.id" id="240" />
+      <edge source="structures.items.items.items" target="structures.items.items.items.id" id="241" />
+      <edge source="structures" target="structures.id" id="242" />
+      <edge source="structures" target="label.it" id="243" />
+      <edge source="structures" target="label.de" id="244" />
+      <edge source="structures.items.items.label.en" target="structures.items.items.label" id="245" />
+      <edge source="structures.items.items.label.en" target="structures.items.items.type" id="246" />
+      <edge source="structures.items.items.label.en" target="structures.items.items.label.it" id="247" />
+      <edge source="structures.items.items.id" target="structures.items.items.type" id="248" />
+      <edge source="structures.items.items.type" target="structures.items.label" id="249" />
+      <edge source="structures.items.items.type" target="structures.items.items.label.it" id="250" />
+      <edge source="structures.items.items.label" target="structures.items.items.items.type" id="251" />
+      <edge source="structures.items.label.gez" target="structures.items.label" id="252" />
+      <edge source="structures.items.label.gez" target="structures.items.type" id="253" />
+      <edge source="structures.items.items.items.id" target="structures.items.items.items.type" id="254" />
+      <edge source="structures.items.type" target="structures.label" id="255" />
+      <edge source="structures.items.type" target="structures.items.label.it" id="256" />
+      <edge source="structures.items.type" target="structures.items.label.en" id="257" />
+      <edge source="structures.label.en" target="structures.label" id="258" />
+      <edge source="structures.label.en" target="structures.type" id="259" />
+      <edge source="structures.type" target="structures.label.it" id="260" />
+      <edge source="structures.type" target="structures.label.de" id="261" />
+      <edge source="structures.items.label" target="structures.items.label.it" id="262" />
+      <edge source="structures.items.label" target="structures.items.label.de" id="263" />
+      <edge source="structures.items.label" target="structures.items.label.en" id="264" />
+      <edge source="structures.label" target="structures.label.it" id="265" />
+      <edge source="structures.label" target="structures.label.de" id="266" />
+      <edge source="label.it" target="navPlace" id="267" />
+      <edge source="items.metadata" target="items.metadata.label" id="268" />
+      <edge source="items.metadata.label.en" target="items.metadata.label" id="269" />
+      <edge source="items.metadata.label.en" target="items.metadata.value" id="270" />
+      <edge source="items.metadata.value.en" target="items.metadata.value" id="271" />
+      <edge source="structures.items.label.en" target="structures.items.label.de" id="272" />
+      <edge source="rendering.label" target="rendering.id" id="273" />
+      <edge source="rendering.label" target="rendering.label.en" id="274" />
+      <edge source="rendering.type" target="rendering.label.en" id="275" />
+      <edge source="rendering" target="rendering.format" id="276" />
+      <edge source="rendering.format" target="rendering.id" id="277" />
+      <edge source="homepage.id" target="homepage.format" id="278" />
+      <edge source="homepage.id" target="homepage.label" id="279" />
+      <edge source="homepage.language" target="homepage.label.en" id="280" />
+      <edge source="homepage.language" target="homepage.type" id="281" />
+      <edge source="homepage" target="homepage.format" id="282" />
+      <edge source="homepage.label" target="homepage.label.en" id="283" />
+      <edge source="seeAlso.type" target="seeAlso.profile" id="284" />
+      <edge source="seeAlso.type" target="thumbnail" id="285" />
+      <edge source="seeAlso" target="seeAlso.format" id="286" />
+      <edge source="seeAlso.label.en" target="seeAlso.label" id="287" />
+      <edge source="seeAlso.label.en" target="seeAlso.profile" id="288" />
+      <edge source="seeAlso.format" target="seeAlso.id" id="289" />
+      <edge source="seeAlso.label" target="seeAlso.id" id="290" />
+      <edge source="seeAlso.profile" target="seeAlso.id" id="291" />
+      <edge source="items.thumbnail" target="items.thumbnail.id" id="292" />
+      <edge source="items.thumbnail.type" target="items.thumbnail.id" id="293" />
+      <edge source="items.target.source.partOf.type" target="items.target.source.partOf.id" id="294" />
+      <edge source="items.target.source.partOf.type" target="items.target.source.type" id="295" />
+      <edge source="items.target.source.id" target="items.target.source" id="296" />
+      <edge source="items.target.source.id" target="items.target.source.partOf" id="297" />
+      <edge source="items.body" target="items.body.format" id="298" />
+      <edge source="items.target.source" target="items.target.selector.value" id="299" />
+      <edge source="items.target.selector" target="items.target" id="300" />
+      <edge source="items.target.selector" target="items.target.selector.conformsTo" id="301" />
+      <edge source="items.target" target="items.motivation" id="302" />
+      <edge source="items.body.format" target="items.body.language" id="303" />
+      <edge source="items.body.type" target="items.body.language" id="304" />
+      <edge source="items.body.type" target="items.body.value" id="305" />
+      <edge source="items.target.selector.value" target="items.target.selector.type" id="306" />
+      <edge source="items.target.selector.type" target="items.target.selector.conformsTo" id="307" />
+      <edge source="items.target.type" target="items.target.source.type" id="308" />
+      <edge source="items.target.source.partOf.id" target="items.target.source.partOf" id="309" />
+      <edge source="partOf" target="navDate" id="310" />
+      <edge source="partOf" target="partOf.id" id="311" />
+      <edge source="provider.type" target="provider.logo.width" id="312" />
+      <edge source="provider.type" target="provider.seeAlso.type" id="313" />
+      <edge source="partOf.id" target="partOf.type" id="314" />
+      <edge source="provider.id" target="provider" id="315" />
+      <edge source="provider.id" target="provider.label" id="316" />
+      <edge source="provider.id" target="provider.homepage.type" id="317" />
+      <edge source="thumbnail.id" target="thumbnail.format" id="318" />
+      <edge source="thumbnail.id" target="thumbnail.type" id="319" />
+      <edge source="thumbnail.id" target="thumbnail.height" id="320" />
+      <edge source="thumbnail.id" target="thumbnail.service" id="321" />
+      <edge source="provider.logo.type" target="provider.logo.id" id="322" />
+      <edge source="provider.logo.type" target="provider.logo.width" id="323" />
+      <edge source="provider.logo.type" target="provider.logo.service.width" id="324" />
+      <edge source="provider.logo.type" target="provider.seeAlso" id="325" />
+      <edge source="provider.label.en" target="provider.label" id="326" />
+      <edge source="provider.label.en" target="provider.logo" id="327" />
+      <edge source="thumbnail.format" target="thumbnail" id="328" />
+      <edge source="thumbnail.format" target="thumbnail.height" id="329" />
+      <edge source="thumbnail.type" target="thumbnail.service.width" id="330" />
+      <edge source="thumbnail.type" target="thumbnail.width" id="331" />
+      <edge source="thumbnail.type" target="thumbnail.service.type" id="332" />
+      <edge source="provider.logo" target="provider.logo.format" id="333" />
+      <edge source="provider.logo" target="provider.logo.id" id="334" />
+      <edge source="provider.logo.height" target="provider.logo.format" id="335" />
+      <edge source="provider.logo.height" target="provider.logo.id" id="336" />
+      <edge source="provider.logo.id" target="provider.logo.service" id="337" />
+      <edge source="partOf.type" target="provider" id="338" />
+      <edge source="provider" target="provider.homepage" id="339" />
+      <edge source="items.navDate" target="items.label.de" id="340" />
+      <edge source="items.annotations.items.body.items.label.it" target="items.annotations.items.body.items.label.en" id="341" />
+      <edge source="items.annotations.items.body.items.label.it" target="items.annotations.items.body.items.language" id="342" />
+      <edge source="items.annotations.items.body.items.label" target="items.annotations.items.body.items.id" id="343" />
+      <edge source="items.annotations.items.body.items.label" target="items.annotations.items.body.items.label.en" id="344" />
+      <edge source="items.annotations.items.body.items.format" target="items.annotations.items.body.items" id="345" />
+      <edge source="items.annotations.items.body.items.format" target="items.annotations.items.body.items.id" id="346" />
+      <edge source="items.annotations.items.body.items.type" target="items.annotations.items.body.items.language" id="347" />
+      <edge source="thumbnail.service.extraQualities" target="thumbnail.service.extraFormats" id="348" />
+      <edge source="thumbnail.service.extraQualities" target="thumbnail.service.height" id="349" />
+      <edge source="thumbnail.service.id" target="thumbnail.service.height" id="350" />
+      <edge source="thumbnail.service.id" target="thumbnail.service.profile" id="351" />
+      <edge source="thumbnail.service.id" target="thumbnail.service" id="352" />
+      <edge source="thumbnail.service.profile" target="thumbnail.service.protocol" id="353" />
+      <edge source="thumbnail.service.profile" target="thumbnail.service.type" id="354" />
+      <edge source="thumbnail.service.protocol" target="thumbnail.service.tiles" id="355" />
+      <edge source="thumbnail.service.tiles.width" target="thumbnail.service.tiles.scaleFactors" id="356" />
+      <edge source="thumbnail.service.tiles.width" target="thumbnail.service.type" id="357" />
+      <edge source="thumbnail.service.tiles.scaleFactors" target="thumbnail.service.tiles.height" id="358" />
+      <edge source="thumbnail.service.tiles.height" target="thumbnail.service.tiles" id="359" />
+      <edge source="thumbnail.service.width" target="thumbnail.service.type" id="360" />
+      <edge source="thumbnail.service.extraFormats" target="thumbnail.service" id="361" />
+      <edge source="items.annotations.items.label.en" target="items.annotations.items.label" id="362" />
+      <edge source="items.annotations.items.body.geometry" target="items.annotations.items.body.geometry.coordinates" id="363" />
+      <edge source="items.items.items.label" target="items.items.items.label.en" id="364" />
+      <edge source="items.annotations.items.body.geometry.coordinates" target="items.annotations.items.body.geometry.type" id="365" />
+      <edge source="items.annotations.items.body.geometry.type" target="items.annotations.items.body.id" id="366" />
+      <edge source="items.annotations.items.body.properties.label.en" target="items.annotations.items.body.properties.label" id="367" />
+      <edge source="items.annotations.items.body.properties" target="items.annotations.items.body.id" id="368" />
+      <edge source="items.annotations.items.body.properties" target="items.annotations.items.body.properties.label" id="369" />
+      <edge source="items.annotations.items.body.id" target="items.annotations.items.body.label" id="370" />
+      <edge source="navPlace.features.id" target="navPlace.features.geometry.type" id="371" />
+      <edge source="navPlace.features.id" target="navPlace.features.properties" id="372" />
+      <edge source="navPlace.features.properties" target="navPlace.features.properties.label" id="373" />
+      <edge source="navPlace.features.geometry.type" target="navPlace.features.geometry.coordinates" id="374" />
+      <edge source="navPlace.features.properties.label" target="navPlace.features.properties.label.en" id="375" />
+      <edge source="navPlace.features" target="navPlace" id="376" />
+      <edge source="navPlace.features" target="navPlace.features.geometry" id="377" />
+      <edge source="navPlace.features.geometry" target="navPlace.features.geometry.coordinates" id="378" />
+      <edge source="navPlace.id" target="navPlace.features.type" id="379" />
+      <edge source="navPlace.id" target="navPlace.type" id="380" />
+      <edge source="navPlace.features.properties.label.it" target="navPlace.features.properties.label.en" id="381" />
+      <edge source="navPlace.features.properties.label.it" target="navPlace.features.type" id="382" />
+      <edge source="items.annotations.items.body.label.en" target="items.annotations.items.body.label" id="383" />
+      <edge source="provider.logo.service.id" target="provider.logo.service.height" id="384" />
+      <edge source="provider.logo.service.id" target="provider.logo.service.profile" id="385" />
+      <edge source="provider.homepage.type" target="provider.homepage.language" id="386" />
+      <edge source="provider.seeAlso.format" target="provider.seeAlso" id="387" />
+      <edge source="provider.seeAlso.format" target="provider.seeAlso.id" id="388" />
+      <edge source="provider.logo.service" target="provider.logo.service.height" id="389" />
+      <edge source="provider.homepage.id" target="provider.homepage.format" id="390" />
+      <edge source="provider.homepage.id" target="provider.homepage.label" id="391" />
+      <edge source="provider.homepage.language" target="provider.homepage.label.en" id="392" />
+      <edge source="provider.logo.service.profile" target="provider.logo.service.sizes" id="393" />
+      <edge source="provider.seeAlso.profile" target="provider.seeAlso.label.en" id="394" />
+      <edge source="provider.seeAlso.profile" target="provider.seeAlso.type" id="395" />
+      <edge source="provider.seeAlso.label.en" target="provider.seeAlso.label" id="396" />
+      <edge source="provider.logo.service.sizes.height" target="provider.logo.service.sizes" id="397" />
+      <edge source="provider.logo.service.sizes.height" target="provider.logo.service.sizes.width" id="398" />
+      <edge source="provider.seeAlso.label" target="provider.seeAlso.id" id="399" />
+      <edge source="provider.homepage.format" target="provider.homepage" id="400" />
+      <edge source="provider.homepage.label.en" target="provider.homepage.label" id="401" />
+      <edge source="provider.logo.service.width" target="provider.logo.service.type" id="402" />
+      <edge source="provider.logo.service.sizes.width" target="provider.logo.service.type" id="403" />
+      <edge source="items.navPlace.features.geometry.type" target="items.navPlace.features.geometry.coordinates" id="404" />
+      <edge source="items.navPlace.features.geometry.type" target="items.navPlace.features.id" id="405" />
+      <edge source="items.navPlace.type" target="items.navPlace.id" id="406" />
+      <edge source="items.navPlace.features.type" target="items.navPlace.features.properties.label.it" id="407" />
+      <edge source="items.navPlace.features.type" target="items.navPlace.id" id="408" />
+      <edge source="items.navPlace.features.properties" target="items.navPlace.features.id" id="409" />
+      <edge source="items.navPlace.features.properties" target="items.navPlace.features.properties.label" id="410" />
+      <edge source="items.navPlace.features" target="items.navPlace" id="411" />
+      <edge source="items.navPlace.features" target="items.navPlace.features.geometry" id="412" />
+      <edge source="items.navPlace.features.geometry.coordinates" target="items.navPlace.features.geometry" id="413" />
+      <edge source="items.navPlace.features.properties.label.it" target="items.navPlace.features.properties.label.en" id="414" />
+      <edge source="items.navPlace.features.properties.label" target="items.navPlace.features.properties.label.en" id="415" />
+      <edge source="items.annotations.items.target.selector" target="items.annotations.items.target.selector.type" id="416" />
+      <edge source="items.annotations.items.target.type" target="items.annotations.items.target.source" id="417" />
+      <edge source="items.annotations.items.target.source" target="items.annotations.items.target.selector.value" id="418" />
+      <edge source="items.annotations.items.target.selector.value" target="items.annotations.items.target.selector.type" id="419" />
+      <edge source="items.items.items.body.source.service.id" target="items.items.items.body.source.service" id="420" />
+      <edge source="items.items.items.body.source.service.id" target="items.items.items.body.source.service.profile" id="421" />
+      <edge source="items.items.items.body.source.service.profile" target="items.items.items.body.source.service.type" id="422" />
+      <edge source="items.items.items.body.source.service" target="items.items.items.body.source.id" id="423" />
+      <edge source="items.items.items.body.selector.region" target="items.items.items.body.selector.@context" id="424" />
+      <edge source="items.items.items.body.selector.region" target="items.items.items.body.selector.type" id="425" />
+      <edge source="items.items.items.body.source.id" target="items.items.items.body.source.height" id="426" />
+      <edge source="items.items.items.body.source.type" target="items.items.items.body.source.service.type" id="427" />
+      <edge source="items.items.items.body.source.type" target="items.items.items.body.source.width" id="428" />
+      <edge source="items.items.items.body.source.height" target="items.items.items.body.source.format" id="429" />
+      <edge source="items.items.items.body.selector.type" target="items.items.items.body.source" id="430" />
+      <edge source="items.items.items.body.source" target="items.items.items.body.source.format" id="431" />
+      <edge source="items.items.items.body.selector.@context" target="items.items.items.body.selector" id="432" />
+    </edges>
+  </graph>
+</gexf>

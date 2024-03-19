@@ -1,0 +1,1082 @@
+# Content Similarity Report
+
+## Simplest Manifest - Single Image File
+- Similarity with Simplest Manifest - Audio: 0.36
+- Similarity with Simplest Manifest - Video: 0.40
+- Similarity with Image and Canvas with Differing Dimensions: 0.32
+- Similarity with Support Deep Viewing with Basic Use of a IIIF Image Service: 0.43
+- Similarity with Internationalization and Multi-language Values: 0.21
+- Similarity with Embedding HTML in descriptive properties: 0.24
+- Similarity with Rights statement: 0.25
+- Similarity with Simple Manifest - Book: 0.34
+- Similarity with Viewing direction and Its Effect on Navigation: 0.26
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.28
+- Similarity with Load a Preview Image Before the Main Content: 0.21
+- Similarity with Audio Presentation with Accompanying Image: 0.25
+- Similarity with Begin playback at a specific point - Time-based media: 0.17
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.19
+- Similarity with HTML in Annotations: 0.24
+- Similarity with Simple Annotation — Tagging: 0.30
+- Similarity with Table of Contents for Book Chapters: 0.27
+- Similarity with Table of Contents for A/V Content: 0.19
+- Similarity with Metadata on any Resource: 0.21
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.15
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.25
+- Similarity with Simple Collection: 0.20
+- Similarity with Providing Alternative Representations: 0.32
+- Similarity with Linking to Web Page of an Object: 0.28
+- Similarity with Linking to Structured Metadata: 0.33
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.20
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.20
+- Similarity with Basic Newspaper: 0.18
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.18
+- Similarity with Image Thumbnail for Manifest: 0.31
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.21
+- Similarity with Locate a Manifest on a Web Map: 0.24
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.32
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.18
+- Similarity with Navigation by Chronology: 0.14
+- Similarity with Acknowledge Content Contributors: 0.23
+- Similarity with Locate Multiple Canvases on a Web Map: 0.23
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.16
+- Similarity with Simplest Annotation: 0.32
+- Similarity with Embedded or referenced Annotations: 0.17
+- Similarity with Missing Images in a Sequence: 0.34
+- Similarity with Addressing a Spatial Region: 0.29
+- Similarity with Image in Annotations: 0.36
+
+## Simplest Manifest - Audio
+- Similarity with Simplest Manifest - Video: 0.35
+- Similarity with Image and Canvas with Differing Dimensions: 0.20
+- Similarity with Support Deep Viewing with Basic Use of a IIIF Image Service: 0.22
+- Similarity with Internationalization and Multi-language Values: 0.13
+- Similarity with Embedding HTML in descriptive properties: 0.15
+- Similarity with Rights statement: 0.16
+- Similarity with Simple Manifest - Book: 0.21
+- Similarity with Viewing direction and Its Effect on Navigation: 0.16
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.18
+- Similarity with Load a Preview Image Before the Main Content: 0.17
+- Similarity with Audio Presentation with Accompanying Image: 0.35
+- Similarity with Begin playback at a specific point - Time-based media: 0.16
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.18
+- Similarity with HTML in Annotations: 0.17
+- Similarity with Simple Annotation — Tagging: 0.20
+- Similarity with Table of Contents for Book Chapters: 0.18
+- Similarity with Table of Contents for A/V Content: 0.17
+- Similarity with Metadata on any Resource: 0.13
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.16
+- Similarity with Simple Collection: 0.16
+- Similarity with Providing Alternative Representations: 0.20
+- Similarity with Linking to Web Page of an Object: 0.19
+- Similarity with Linking to Structured Metadata: 0.20
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.18
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.17
+- Similarity with Basic Newspaper: 0.14
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.16
+- Similarity with Image Thumbnail for Manifest: 0.16
+- Similarity with Displaying Multiple Values with Language Maps: 0.15
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.16
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.21
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.17
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.13
+- Similarity with Locate Multiple Canvases on a Web Map: 0.16
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.18
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.21
+
+## Simplest Manifest - Video
+- Similarity with Image and Canvas with Differing Dimensions: 0.28
+- Similarity with Support Deep Viewing with Basic Use of a IIIF Image Service: 0.25
+- Similarity with Internationalization and Multi-language Values: 0.15
+- Similarity with Embedding HTML in descriptive properties: 0.17
+- Similarity with Rights statement: 0.18
+- Similarity with Simple Manifest - Book: 0.24
+- Similarity with Viewing direction and Its Effect on Navigation: 0.19
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.21
+- Similarity with Load a Preview Image Before the Main Content: 0.32
+- Similarity with Audio Presentation with Accompanying Image: 0.23
+- Similarity with Begin playback at a specific point - Time-based media: 0.28
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.30
+- Similarity with HTML in Annotations: 0.19
+- Similarity with Simple Annotation — Tagging: 0.22
+- Similarity with Table of Contents for Book Chapters: 0.21
+- Similarity with Table of Contents for A/V Content: 0.22
+- Similarity with Metadata on any Resource: 0.15
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.13
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.19
+- Similarity with Simple Collection: 0.17
+- Similarity with Providing Alternative Representations: 0.23
+- Similarity with Linking to Web Page of an Object: 0.22
+- Similarity with Linking to Structured Metadata: 0.23
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.27
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.25
+- Similarity with Basic Newspaper: 0.16
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.22
+- Similarity with Image Thumbnail for Manifest: 0.19
+- Similarity with Displaying Multiple Values with Language Maps: 0.17
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.18
+- Similarity with Locate a Manifest on a Web Map: 0.19
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.24
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.32
+- Similarity with Navigation by Chronology: 0.10
+- Similarity with Acknowledge Content Contributors: 0.16
+- Similarity with Locate Multiple Canvases on a Web Map: 0.18
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.27
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.21
+- Similarity with Addressing a Spatial Region: 0.21
+- Similarity with Image in Annotations: 0.24
+
+## Image and Canvas with Differing Dimensions
+- Similarity with Support Deep Viewing with Basic Use of a IIIF Image Service: 0.35
+- Similarity with Internationalization and Multi-language Values: 0.19
+- Similarity with Embedding HTML in descriptive properties: 0.22
+- Similarity with Rights statement: 0.23
+- Similarity with Simple Manifest - Book: 0.30
+- Similarity with Viewing direction and Its Effect on Navigation: 0.23
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.25
+- Similarity with Load a Preview Image Before the Main Content: 0.30
+- Similarity with Audio Presentation with Accompanying Image: 0.25
+- Similarity with Begin playback at a specific point - Time-based media: 0.19
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.24
+- Similarity with HTML in Annotations: 0.23
+- Similarity with Simple Annotation — Tagging: 0.28
+- Similarity with Table of Contents for Book Chapters: 0.25
+- Similarity with Table of Contents for A/V Content: 0.26
+- Similarity with Metadata on any Resource: 0.20
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.14
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.23
+- Similarity with Simple Collection: 0.19
+- Similarity with Providing Alternative Representations: 0.29
+- Similarity with Linking to Web Page of an Object: 0.26
+- Similarity with Linking to Structured Metadata: 0.29
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.31
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.29
+- Similarity with Basic Newspaper: 0.19
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.19
+- Similarity with Image Thumbnail for Manifest: 0.28
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.21
+- Similarity with Locate a Manifest on a Web Map: 0.22
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.31
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.21
+- Similarity with Navigation by Chronology: 0.13
+- Similarity with Acknowledge Content Contributors: 0.19
+- Similarity with Locate Multiple Canvases on a Web Map: 0.21
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.15
+- Similarity with Simplest Annotation: 0.33
+- Similarity with Embedded or referenced Annotations: 0.17
+- Similarity with Missing Images in a Sequence: 0.28
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.31
+
+## Support Deep Viewing with Basic Use of a IIIF Image Service
+- Similarity with Internationalization and Multi-language Values: 0.27
+- Similarity with Embedding HTML in descriptive properties: 0.38
+- Similarity with Rights statement: 0.39
+- Similarity with Simple Manifest - Book: 0.43
+- Similarity with Viewing direction and Its Effect on Navigation: 0.34
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.37
+- Similarity with Load a Preview Image Before the Main Content: 0.24
+- Similarity with Audio Presentation with Accompanying Image: 0.31
+- Similarity with Begin playback at a specific point - Time-based media: 0.21
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.23
+- Similarity with HTML in Annotations: 0.36
+- Similarity with Simple Annotation — Tagging: 0.44
+- Similarity with Table of Contents for Book Chapters: 0.35
+- Similarity with Table of Contents for A/V Content: 0.23
+- Similarity with Metadata on any Resource: 0.28
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.18
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.31
+- Similarity with Simple Collection: 0.24
+- Similarity with Providing Alternative Representations: 0.41
+- Similarity with Linking to Web Page of an Object: 0.35
+- Similarity with Linking to Structured Metadata: 0.42
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.25
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.23
+- Similarity with Basic Newspaper: 0.21
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.21
+- Similarity with Image Thumbnail for Manifest: 0.41
+- Similarity with Displaying Multiple Values with Language Maps: 0.25
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.26
+- Similarity with Locate a Manifest on a Web Map: 0.30
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.42
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.22
+- Similarity with Navigation by Chronology: 0.19
+- Similarity with Acknowledge Content Contributors: 0.28
+- Similarity with Locate Multiple Canvases on a Web Map: 0.29
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.24
+- Similarity with Simplest Annotation: 0.48
+- Similarity with Embedded or referenced Annotations: 0.20
+- Similarity with Missing Images in a Sequence: 0.43
+- Similarity with Addressing a Spatial Region: 0.36
+- Similarity with Image in Annotations: 0.54
+
+## Internationalization and Multi-language Values
+- Similarity with Embedding HTML in descriptive properties: 0.20
+- Similarity with Rights statement: 0.20
+- Similarity with Simple Manifest - Book: 0.23
+- Similarity with Viewing direction and Its Effect on Navigation: 0.18
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.19
+- Similarity with Load a Preview Image Before the Main Content: 0.14
+- Similarity with Audio Presentation with Accompanying Image: 0.18
+- Similarity with Begin playback at a specific point - Time-based media: 0.14
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.15
+- Similarity with HTML in Annotations: 0.20
+- Similarity with Simple Annotation — Tagging: 0.23
+- Similarity with Table of Contents for Book Chapters: 0.19
+- Similarity with Table of Contents for A/V Content: 0.14
+- Similarity with Metadata on any Resource: 0.20
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.11
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.17
+- Similarity with Simple Collection: 0.15
+- Similarity with Providing Alternative Representations: 0.23
+- Similarity with Linking to Web Page of an Object: 0.23
+- Similarity with Linking to Structured Metadata: 0.23
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.15
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.14
+- Similarity with Basic Newspaper: 0.18
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.21
+- Similarity with Image Thumbnail for Manifest: 0.21
+- Similarity with Displaying Multiple Values with Language Maps: 0.48
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.15
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.22
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.14
+- Similarity with Navigation by Chronology: 0.11
+- Similarity with Acknowledge Content Contributors: 0.17
+- Similarity with Locate Multiple Canvases on a Web Map: 0.16
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.25
+- Similarity with Embedded or referenced Annotations: 0.16
+- Similarity with Missing Images in a Sequence: 0.22
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.25
+
+## Embedding HTML in descriptive properties
+- Similarity with Rights statement: 0.67
+- Similarity with Simple Manifest - Book: 0.26
+- Similarity with Viewing direction and Its Effect on Navigation: 0.20
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.22
+- Similarity with Load a Preview Image Before the Main Content: 0.16
+- Similarity with Audio Presentation with Accompanying Image: 0.19
+- Similarity with Begin playback at a specific point - Time-based media: 0.26
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.15
+- Similarity with HTML in Annotations: 0.25
+- Similarity with Simple Annotation — Tagging: 0.28
+- Similarity with Table of Contents for Book Chapters: 0.21
+- Similarity with Table of Contents for A/V Content: 0.16
+- Similarity with Metadata on any Resource: 0.22
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.19
+- Similarity with Simple Collection: 0.17
+- Similarity with Providing Alternative Representations: 0.25
+- Similarity with Linking to Web Page of an Object: 0.23
+- Similarity with Linking to Structured Metadata: 0.26
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.17
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.16
+- Similarity with Basic Newspaper: 0.16
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.16
+- Similarity with Image Thumbnail for Manifest: 0.23
+- Similarity with Displaying Multiple Values with Language Maps: 0.19
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.17
+- Similarity with Locate a Manifest on a Web Map: 0.19
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.25
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.12
+- Similarity with Acknowledge Content Contributors: 0.18
+- Similarity with Locate Multiple Canvases on a Web Map: 0.18
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.16
+- Similarity with Simplest Annotation: 0.31
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.24
+- Similarity with Addressing a Spatial Region: 0.22
+- Similarity with Image in Annotations: 0.33
+
+## Rights statement
+- Similarity with Simple Manifest - Book: 0.27
+- Similarity with Viewing direction and Its Effect on Navigation: 0.21
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.22
+- Similarity with Load a Preview Image Before the Main Content: 0.17
+- Similarity with Audio Presentation with Accompanying Image: 0.20
+- Similarity with Begin playback at a specific point - Time-based media: 0.29
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.16
+- Similarity with HTML in Annotations: 0.26
+- Similarity with Simple Annotation — Tagging: 0.29
+- Similarity with Table of Contents for Book Chapters: 0.22
+- Similarity with Table of Contents for A/V Content: 0.16
+- Similarity with Metadata on any Resource: 0.21
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.20
+- Similarity with Simple Collection: 0.17
+- Similarity with Providing Alternative Representations: 0.26
+- Similarity with Linking to Web Page of an Object: 0.23
+- Similarity with Linking to Structured Metadata: 0.26
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.17
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.16
+- Similarity with Basic Newspaper: 0.17
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.19
+- Similarity with Image Thumbnail for Manifest: 0.23
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.18
+- Similarity with Locate a Manifest on a Web Map: 0.19
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.26
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.12
+- Similarity with Acknowledge Content Contributors: 0.18
+- Similarity with Locate Multiple Canvases on a Web Map: 0.19
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.16
+- Similarity with Simplest Annotation: 0.31
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.25
+- Similarity with Addressing a Spatial Region: 0.23
+- Similarity with Image in Annotations: 0.34
+
+## Simple Manifest - Book
+- Similarity with Viewing direction and Its Effect on Navigation: 0.45
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.49
+- Similarity with Load a Preview Image Before the Main Content: 0.23
+- Similarity with Audio Presentation with Accompanying Image: 0.27
+- Similarity with Begin playback at a specific point - Time-based media: 0.19
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.21
+- Similarity with HTML in Annotations: 0.27
+- Similarity with Simple Annotation — Tagging: 0.33
+- Similarity with Table of Contents for Book Chapters: 0.49
+- Similarity with Table of Contents for A/V Content: 0.22
+- Similarity with Metadata on any Resource: 0.23
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.16
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.29
+- Similarity with Simple Collection: 0.21
+- Similarity with Providing Alternative Representations: 0.38
+- Similarity with Linking to Web Page of an Object: 0.32
+- Similarity with Linking to Structured Metadata: 0.38
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.23
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.22
+- Similarity with Basic Newspaper: 0.20
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.20
+- Similarity with Image Thumbnail for Manifest: 0.33
+- Similarity with Displaying Multiple Values with Language Maps: 0.23
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.24
+- Similarity with Locate a Manifest on a Web Map: 0.27
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.48
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.21
+- Similarity with Navigation by Chronology: 0.16
+- Similarity with Acknowledge Content Contributors: 0.24
+- Similarity with Locate Multiple Canvases on a Web Map: 0.26
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.18
+- Similarity with Simplest Annotation: 0.37
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.37
+- Similarity with Addressing a Spatial Region: 0.31
+- Similarity with Image in Annotations: 0.38
+
+## Viewing direction and Its Effect on Navigation
+- Similarity with Book 'behavior' Variations (continuous, individuals): 0.37
+- Similarity with Load a Preview Image Before the Main Content: 0.17
+- Similarity with Audio Presentation with Accompanying Image: 0.21
+- Similarity with Begin playback at a specific point - Time-based media: 0.15
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.17
+- Similarity with HTML in Annotations: 0.21
+- Similarity with Simple Annotation — Tagging: 0.25
+- Similarity with Table of Contents for Book Chapters: 0.38
+- Similarity with Table of Contents for A/V Content: 0.17
+- Similarity with Metadata on any Resource: 0.20
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.22
+- Similarity with Simple Collection: 0.16
+- Similarity with Providing Alternative Representations: 0.36
+- Similarity with Linking to Web Page of an Object: 0.25
+- Similarity with Linking to Structured Metadata: 0.37
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.18
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.17
+- Similarity with Basic Newspaper: 0.15
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.16
+- Similarity with Image Thumbnail for Manifest: 0.34
+- Similarity with Displaying Multiple Values with Language Maps: 0.18
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.19
+- Similarity with Locate a Manifest on a Web Map: 0.21
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.30
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.16
+- Similarity with Navigation by Chronology: 0.13
+- Similarity with Acknowledge Content Contributors: 0.24
+- Similarity with Locate Multiple Canvases on a Web Map: 0.21
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.14
+- Similarity with Simplest Annotation: 0.29
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.28
+- Similarity with Addressing a Spatial Region: 0.24
+- Similarity with Image in Annotations: 0.30
+
+## Book 'behavior' Variations (continuous, individuals)
+- Similarity with Load a Preview Image Before the Main Content: 0.19
+- Similarity with Audio Presentation with Accompanying Image: 0.23
+- Similarity with Begin playback at a specific point - Time-based media: 0.16
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.18
+- Similarity with HTML in Annotations: 0.23
+- Similarity with Simple Annotation — Tagging: 0.27
+- Similarity with Table of Contents for Book Chapters: 0.43
+- Similarity with Table of Contents for A/V Content: 0.19
+- Similarity with Metadata on any Resource: 0.19
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.18
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.24
+- Similarity with Simple Collection: 0.18
+- Similarity with Providing Alternative Representations: 0.31
+- Similarity with Linking to Web Page of an Object: 0.27
+- Similarity with Linking to Structured Metadata: 0.32
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.20
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.19
+- Similarity with Basic Newspaper: 0.17
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.17
+- Similarity with Image Thumbnail for Manifest: 0.28
+- Similarity with Displaying Multiple Values with Language Maps: 0.19
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.20
+- Similarity with Locate a Manifest on a Web Map: 0.23
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.32
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.18
+- Similarity with Navigation by Chronology: 0.14
+- Similarity with Acknowledge Content Contributors: 0.20
+- Similarity with Locate Multiple Canvases on a Web Map: 0.22
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.15
+- Similarity with Simplest Annotation: 0.32
+- Similarity with Embedded or referenced Annotations: 0.16
+- Similarity with Missing Images in a Sequence: 0.34
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.33
+
+## Load a Preview Image Before the Main Content
+- Similarity with Audio Presentation with Accompanying Image: 0.20
+- Similarity with Begin playback at a specific point - Time-based media: 0.19
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.21
+- Similarity with HTML in Annotations: 0.18
+- Similarity with Simple Annotation — Tagging: 0.20
+- Similarity with Table of Contents for Book Chapters: 0.19
+- Similarity with Table of Contents for A/V Content: 0.22
+- Similarity with Metadata on any Resource: 0.14
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.11
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.17
+- Similarity with Simple Collection: 0.15
+- Similarity with Providing Alternative Representations: 0.22
+- Similarity with Linking to Web Page of an Object: 0.20
+- Similarity with Linking to Structured Metadata: 0.22
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.26
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.25
+- Similarity with Basic Newspaper: 0.14
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.17
+- Similarity with Image Thumbnail for Manifest: 0.19
+- Similarity with Displaying Multiple Values with Language Maps: 0.15
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.22
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.20
+- Similarity with Navigation by Chronology: 0.10
+- Similarity with Acknowledge Content Contributors: 0.15
+- Similarity with Locate Multiple Canvases on a Web Map: 0.17
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.20
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.23
+
+## Audio Presentation with Accompanying Image
+- Similarity with Begin playback at a specific point - Time-based media: 0.19
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.20
+- Similarity with HTML in Annotations: 0.21
+- Similarity with Simple Annotation — Tagging: 0.25
+- Similarity with Table of Contents for Book Chapters: 0.23
+- Similarity with Table of Contents for A/V Content: 0.19
+- Similarity with Metadata on any Resource: 0.18
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.13
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.21
+- Similarity with Simple Collection: 0.17
+- Similarity with Providing Alternative Representations: 0.26
+- Similarity with Linking to Web Page of an Object: 0.24
+- Similarity with Linking to Structured Metadata: 0.27
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.19
+- Similarity with Basic Newspaper: 0.16
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.18
+- Similarity with Image Thumbnail for Manifest: 0.22
+- Similarity with Displaying Multiple Values with Language Maps: 0.19
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.19
+- Similarity with Locate a Manifest on a Web Map: 0.20
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.27
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.18
+- Similarity with Navigation by Chronology: 0.11
+- Similarity with Acknowledge Content Contributors: 0.18
+- Similarity with Locate Multiple Canvases on a Web Map: 0.19
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.13
+- Similarity with Simplest Annotation: 0.29
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.25
+- Similarity with Addressing a Spatial Region: 0.23
+- Similarity with Image in Annotations: 0.27
+
+## Begin playback at a specific point - Time-based media
+- Similarity with Providing Access to Transcript Files of A/V Content: 0.19
+- Similarity with HTML in Annotations: 0.17
+- Similarity with Simple Annotation — Tagging: 0.18
+- Similarity with Table of Contents for Book Chapters: 0.17
+- Similarity with Table of Contents for A/V Content: 0.17
+- Similarity with Metadata on any Resource: 0.15
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.11
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.15
+- Similarity with Simple Collection: 0.15
+- Similarity with Providing Alternative Representations: 0.19
+- Similarity with Linking to Web Page of an Object: 0.18
+- Similarity with Linking to Structured Metadata: 0.19
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.19
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.18
+- Similarity with Basic Newspaper: 0.17
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.17
+- Similarity with Image Thumbnail for Manifest: 0.15
+- Similarity with Displaying Multiple Values with Language Maps: 0.16
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.15
+- Similarity with Locate a Manifest on a Web Map: 0.15
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.44
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.19
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.14
+- Similarity with Locate Multiple Canvases on a Web Map: 0.15
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.22
+- Similarity with Embedded or referenced Annotations: 0.13
+- Similarity with Missing Images in a Sequence: 0.17
+- Similarity with Addressing a Spatial Region: 0.18
+- Similarity with Image in Annotations: 0.20
+
+## Providing Access to Transcript Files of A/V Content
+- Similarity with HTML in Annotations: 0.17
+- Similarity with Simple Annotation — Tagging: 0.20
+- Similarity with Table of Contents for Book Chapters: 0.18
+- Similarity with Table of Contents for A/V Content: 0.19
+- Similarity with Metadata on any Resource: 0.14
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.16
+- Similarity with Simple Collection: 0.16
+- Similarity with Providing Alternative Representations: 0.25
+- Similarity with Linking to Web Page of an Object: 0.20
+- Similarity with Linking to Structured Metadata: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.23
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.22
+- Similarity with Basic Newspaper: 0.15
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.18
+- Similarity with Image Thumbnail for Manifest: 0.17
+- Similarity with Displaying Multiple Values with Language Maps: 0.15
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.21
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.20
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.15
+- Similarity with Locate Multiple Canvases on a Web Map: 0.16
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.19
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.21
+
+## HTML in Annotations
+- Similarity with Simple Annotation — Tagging: 0.30
+- Similarity with Table of Contents for Book Chapters: 0.23
+- Similarity with Table of Contents for A/V Content: 0.18
+- Similarity with Metadata on any Resource: 0.20
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.13
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.21
+- Similarity with Simple Collection: 0.17
+- Similarity with Providing Alternative Representations: 0.26
+- Similarity with Linking to Web Page of an Object: 0.27
+- Similarity with Linking to Structured Metadata: 0.27
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.19
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.18
+- Similarity with Basic Newspaper: 0.19
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.20
+- Similarity with Image Thumbnail for Manifest: 0.23
+- Similarity with Displaying Multiple Values with Language Maps: 0.24
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.20
+- Similarity with Locate a Manifest on a Web Map: 0.21
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.27
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.19
+- Similarity with Navigation by Chronology: 0.12
+- Similarity with Acknowledge Content Contributors: 0.21
+- Similarity with Locate Multiple Canvases on a Web Map: 0.20
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.18
+- Similarity with Simplest Annotation: 0.42
+- Similarity with Embedded or referenced Annotations: 0.32
+- Similarity with Missing Images in a Sequence: 0.25
+- Similarity with Addressing a Spatial Region: 0.23
+- Similarity with Image in Annotations: 0.47
+
+## Simple Annotation — Tagging
+- Similarity with Table of Contents for Book Chapters: 0.27
+- Similarity with Table of Contents for A/V Content: 0.20
+- Similarity with Metadata on any Resource: 0.21
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.15
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.24
+- Similarity with Simple Collection: 0.20
+- Similarity with Providing Alternative Representations: 0.31
+- Similarity with Linking to Web Page of an Object: 0.28
+- Similarity with Linking to Structured Metadata: 0.32
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.20
+- Similarity with Basic Newspaper: 0.23
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.21
+- Similarity with Image Thumbnail for Manifest: 0.27
+- Similarity with Displaying Multiple Values with Language Maps: 0.21
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.23
+- Similarity with Locate a Manifest on a Web Map: 0.24
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.31
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.19
+- Similarity with Navigation by Chronology: 0.14
+- Similarity with Acknowledge Content Contributors: 0.21
+- Similarity with Locate Multiple Canvases on a Web Map: 0.23
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.22
+- Similarity with Simplest Annotation: 0.39
+- Similarity with Embedded or referenced Annotations: 0.22
+- Similarity with Missing Images in a Sequence: 0.30
+- Similarity with Addressing a Spatial Region: 0.28
+- Similarity with Image in Annotations: 0.39
+
+## Table of Contents for Book Chapters
+- Similarity with Table of Contents for A/V Content: 0.44
+- Similarity with Metadata on any Resource: 0.20
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.14
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.25
+- Similarity with Simple Collection: 0.18
+- Similarity with Providing Alternative Representations: 0.31
+- Similarity with Linking to Web Page of an Object: 0.26
+- Similarity with Linking to Structured Metadata: 0.31
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.23
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.21
+- Similarity with Basic Newspaper: 0.17
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.18
+- Similarity with Image Thumbnail for Manifest: 0.26
+- Similarity with Displaying Multiple Values with Language Maps: 0.19
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.20
+- Similarity with Locate a Manifest on a Web Map: 0.22
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.32
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.18
+- Similarity with Navigation by Chronology: 0.13
+- Similarity with Acknowledge Content Contributors: 0.20
+- Similarity with Locate Multiple Canvases on a Web Map: 0.22
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.15
+- Similarity with Simplest Annotation: 0.31
+- Similarity with Embedded or referenced Annotations: 0.16
+- Similarity with Missing Images in a Sequence: 0.37
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.31
+
+## Table of Contents for A/V Content
+- Similarity with Metadata on any Resource: 0.16
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.12
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.19
+- Similarity with Simple Collection: 0.16
+- Similarity with Providing Alternative Representations: 0.21
+- Similarity with Linking to Web Page of an Object: 0.20
+- Similarity with Linking to Structured Metadata: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.50
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.46
+- Similarity with Basic Newspaper: 0.15
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.17
+- Similarity with Image Thumbnail for Manifest: 0.17
+- Similarity with Displaying Multiple Values with Language Maps: 0.16
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.18
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.22
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.17
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.14
+- Similarity with Locate Multiple Canvases on a Web Map: 0.17
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.19
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.22
+
+## Metadata on any Resource
+- Similarity with Multi-volume Work with Individually-bound Volumes: 0.10
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.17
+- Similarity with Simple Collection: 0.18
+- Similarity with Providing Alternative Representations: 0.24
+- Similarity with Linking to Web Page of an Object: 0.21
+- Similarity with Linking to Structured Metadata: 0.26
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.17
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.16
+- Similarity with Basic Newspaper: 0.14
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.14
+- Similarity with Image Thumbnail for Manifest: 0.23
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.17
+- Similarity with Locate a Manifest on a Web Map: 0.18
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.23
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.13
+- Similarity with Navigation by Chronology: 0.11
+- Similarity with Acknowledge Content Contributors: 0.20
+- Similarity with Locate Multiple Canvases on a Web Map: 0.20
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.13
+- Similarity with Missing Images in a Sequence: 0.23
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.29
+
+## Multi-volume Work with Individually-bound Volumes
+- Similarity with Multiple Volumes in a Single Bound Volume: 0.13
+- Similarity with Simple Collection: 0.26
+- Similarity with Providing Alternative Representations: 0.15
+- Similarity with Linking to Web Page of an Object: 0.17
+- Similarity with Linking to Structured Metadata: 0.15
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.12
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.12
+- Similarity with Basic Newspaper: 0.12
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.12
+- Similarity with Image Thumbnail for Manifest: 0.13
+- Similarity with Displaying Multiple Values with Language Maps: 0.11
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.12
+- Similarity with Locate a Manifest on a Web Map: 0.14
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.15
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.11
+- Similarity with Navigation by Chronology: 0.10
+- Similarity with Acknowledge Content Contributors: 0.11
+- Similarity with Locate Multiple Canvases on a Web Map: 0.13
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.08
+- Similarity with Simplest Annotation: 0.16
+- Similarity with Embedded or referenced Annotations: 0.11
+- Similarity with Missing Images in a Sequence: 0.14
+- Similarity with Addressing a Spatial Region: 0.15
+- Similarity with Image in Annotations: 0.15
+
+## Multiple Volumes in a Single Bound Volume
+- Similarity with Simple Collection: 0.16
+- Similarity with Providing Alternative Representations: 0.28
+- Similarity with Linking to Web Page of an Object: 0.24
+- Similarity with Linking to Structured Metadata: 0.28
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.20
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.18
+- Similarity with Basic Newspaper: 0.16
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.16
+- Similarity with Image Thumbnail for Manifest: 0.24
+- Similarity with Displaying Multiple Values with Language Maps: 0.18
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.18
+- Similarity with Locate a Manifest on a Web Map: 0.20
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.28
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.16
+- Similarity with Navigation by Chronology: 0.12
+- Similarity with Acknowledge Content Contributors: 0.18
+- Similarity with Locate Multiple Canvases on a Web Map: 0.19
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.13
+- Similarity with Simplest Annotation: 0.28
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.27
+- Similarity with Addressing a Spatial Region: 0.23
+- Similarity with Image in Annotations: 0.28
+
+## Simple Collection
+- Similarity with Providing Alternative Representations: 0.20
+- Similarity with Linking to Web Page of an Object: 0.28
+- Similarity with Linking to Structured Metadata: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.16
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.16
+- Similarity with Basic Newspaper: 0.15
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.16
+- Similarity with Image Thumbnail for Manifest: 0.18
+- Similarity with Displaying Multiple Values with Language Maps: 0.16
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.17
+- Similarity with Locate a Manifest on a Web Map: 0.21
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.19
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.20
+- Similarity with Acknowledge Content Contributors: 0.16
+- Similarity with Locate Multiple Canvases on a Web Map: 0.20
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.21
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.19
+- Similarity with Addressing a Spatial Region: 0.20
+- Similarity with Image in Annotations: 0.21
+
+## Providing Alternative Representations
+- Similarity with Linking to Web Page of an Object: 0.31
+- Similarity with Linking to Structured Metadata: 0.45
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.22
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.21
+- Similarity with Basic Newspaper: 0.19
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.20
+- Similarity with Image Thumbnail for Manifest: 0.42
+- Similarity with Displaying Multiple Values with Language Maps: 0.22
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.23
+- Similarity with Locate a Manifest on a Web Map: 0.26
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.36
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.20
+- Similarity with Navigation by Chronology: 0.16
+- Similarity with Acknowledge Content Contributors: 0.30
+- Similarity with Locate Multiple Canvases on a Web Map: 0.26
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.17
+- Similarity with Simplest Annotation: 0.36
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.35
+- Similarity with Addressing a Spatial Region: 0.30
+- Similarity with Image in Annotations: 0.37
+
+## Linking to Web Page of an Object
+- Similarity with Linking to Structured Metadata: 0.31
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.21
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.19
+- Similarity with Basic Newspaper: 0.20
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.21
+- Similarity with Image Thumbnail for Manifest: 0.27
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.22
+- Similarity with Locate a Manifest on a Web Map: 0.30
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.31
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.19
+- Similarity with Navigation by Chronology: 0.15
+- Similarity with Acknowledge Content Contributors: 0.26
+- Similarity with Locate Multiple Canvases on a Web Map: 0.27
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.15
+- Similarity with Simplest Annotation: 0.33
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.29
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.32
+
+## Linking to Structured Metadata
+- Similarity with Table of Contents for Multiple A/V Files on a Single Canvas: 0.22
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.21
+- Similarity with Basic Newspaper: 0.20
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.20
+- Similarity with Image Thumbnail for Manifest: 0.42
+- Similarity with Displaying Multiple Values with Language Maps: 0.23
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.23
+- Similarity with Locate a Manifest on a Web Map: 0.26
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.37
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.20
+- Similarity with Navigation by Chronology: 0.16
+- Similarity with Acknowledge Content Contributors: 0.34
+- Similarity with Locate Multiple Canvases on a Web Map: 0.26
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.17
+- Similarity with Simplest Annotation: 0.36
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.36
+- Similarity with Addressing a Spatial Region: 0.30
+- Similarity with Image in Annotations: 0.38
+
+## Table of Contents for Multiple A/V Files on a Single Canvas
+- Similarity with Table of Contents for Multiple A/V Files on Multiple Canvases: 0.49
+- Similarity with Basic Newspaper: 0.16
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.19
+- Similarity with Image Thumbnail for Manifest: 0.19
+- Similarity with Displaying Multiple Values with Language Maps: 0.17
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.18
+- Similarity with Locate a Manifest on a Web Map: 0.19
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.25
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.19
+- Similarity with Navigation by Chronology: 0.10
+- Similarity with Acknowledge Content Contributors: 0.15
+- Similarity with Locate Multiple Canvases on a Web Map: 0.17
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.28
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.20
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.24
+
+## Table of Contents for Multiple A/V Files on Multiple Canvases
+- Similarity with Basic Newspaper: 0.15
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.32
+- Similarity with Image Thumbnail for Manifest: 0.19
+- Similarity with Displaying Multiple Values with Language Maps: 0.16
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.23
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.18
+- Similarity with Navigation by Chronology: 0.10
+- Similarity with Acknowledge Content Contributors: 0.15
+- Similarity with Locate Multiple Canvases on a Web Map: 0.33
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.13
+- Similarity with Missing Images in a Sequence: 0.19
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.22
+
+## Basic Newspaper
+- Similarity with Using Caption and Subtitle Files in Multiple Languages with Video Content: 0.18
+- Similarity with Image Thumbnail for Manifest: 0.15
+- Similarity with Displaying Multiple Values with Language Maps: 0.17
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.16
+- Similarity with Locate a Manifest on a Web Map: 0.16
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.20
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.14
+- Similarity with Locate Multiple Canvases on a Web Map: 0.15
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.15
+- Similarity with Simplest Annotation: 0.25
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.17
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.22
+
+## Using Caption and Subtitle Files in Multiple Languages with Video Content
+- Similarity with Image Thumbnail for Manifest: 0.16
+- Similarity with Displaying Multiple Values with Language Maps: 0.16
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.15
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.21
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.23
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.15
+- Similarity with Locate Multiple Canvases on a Web Map: 0.16
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.17
+- Similarity with Missing Images in a Sequence: 0.18
+- Similarity with Addressing a Spatial Region: 0.18
+- Similarity with Image in Annotations: 0.23
+
+## Image Thumbnail for Manifest
+- Similarity with Displaying Multiple Values with Language Maps: 0.20
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.20
+- Similarity with Locate a Manifest on a Web Map: 0.23
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.31
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.16
+- Similarity with Navigation by Chronology: 0.18
+- Similarity with Acknowledge Content Contributors: 0.43
+- Similarity with Locate Multiple Canvases on a Web Map: 0.23
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.14
+- Similarity with Simplest Annotation: 0.30
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.33
+- Similarity with Addressing a Spatial Region: 0.26
+- Similarity with Image in Annotations: 0.36
+
+## Displaying Multiple Values with Language Maps
+- Similarity with Represent Canvas Fragment as a Geographic Area in a Web Mapping Client: 0.17
+- Similarity with Locate a Manifest on a Web Map: 0.17
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.23
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.11
+- Similarity with Acknowledge Content Contributors: 0.16
+- Similarity with Locate Multiple Canvases on a Web Map: 0.18
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.25
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.21
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.28
+
+## Represent Canvas Fragment as a Geographic Area in a Web Mapping Client
+- Similarity with Locate a Manifest on a Web Map: 0.21
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.24
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.15
+- Similarity with Navigation by Chronology: 0.20
+- Similarity with Acknowledge Content Contributors: 0.16
+- Similarity with Locate Multiple Canvases on a Web Map: 0.20
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.27
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.21
+- Similarity with Addressing a Spatial Region: 0.20
+- Similarity with Image in Annotations: 0.24
+
+## Locate a Manifest on a Web Map
+- Similarity with Load Manifest Beginning with a Specific Canvas: 0.25
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.16
+- Similarity with Navigation by Chronology: 0.13
+- Similarity with Acknowledge Content Contributors: 0.18
+- Similarity with Locate Multiple Canvases on a Web Map: 0.38
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.13
+- Similarity with Simplest Annotation: 0.27
+- Similarity with Embedded or referenced Annotations: 0.16
+- Similarity with Missing Images in a Sequence: 0.24
+- Similarity with Addressing a Spatial Region: 0.23
+- Similarity with Image in Annotations: 0.27
+
+## Load Manifest Beginning with a Specific Canvas
+- Similarity with Using Caption and Subtitle Files with Video Content: 0.21
+- Similarity with Navigation by Chronology: 0.15
+- Similarity with Acknowledge Content Contributors: 0.23
+- Similarity with Locate Multiple Canvases on a Web Map: 0.25
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.17
+- Similarity with Simplest Annotation: 0.39
+- Similarity with Embedded or referenced Annotations: 0.18
+- Similarity with Missing Images in a Sequence: 0.35
+- Similarity with Addressing a Spatial Region: 0.30
+- Similarity with Image in Annotations: 0.37
+
+## Using Caption and Subtitle Files with Video Content
+- Similarity with Navigation by Chronology: 0.09
+- Similarity with Acknowledge Content Contributors: 0.14
+- Similarity with Locate Multiple Canvases on a Web Map: 0.15
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.23
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.18
+- Similarity with Addressing a Spatial Region: 0.18
+- Similarity with Image in Annotations: 0.21
+
+## Navigation by Chronology
+- Similarity with Acknowledge Content Contributors: 0.12
+- Similarity with Locate Multiple Canvases on a Web Map: 0.12
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.07
+- Similarity with Simplest Annotation: 0.15
+- Similarity with Embedded or referenced Annotations: 0.08
+- Similarity with Missing Images in a Sequence: 0.15
+- Similarity with Addressing a Spatial Region: 0.14
+- Similarity with Image in Annotations: 0.16
+
+## Acknowledge Content Contributors
+- Similarity with Locate Multiple Canvases on a Web Map: 0.18
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.11
+- Similarity with Simplest Annotation: 0.24
+- Similarity with Embedded or referenced Annotations: 0.12
+- Similarity with Missing Images in a Sequence: 0.22
+- Similarity with Addressing a Spatial Region: 0.19
+- Similarity with Image in Annotations: 0.25
+
+## Locate Multiple Canvases on a Web Map
+- Similarity with Annotation with a Non-Rectangular Polygon (Updated): 0.12
+- Similarity with Simplest Annotation: 0.27
+- Similarity with Embedded or referenced Annotations: 0.15
+- Similarity with Missing Images in a Sequence: 0.24
+- Similarity with Addressing a Spatial Region: 0.22
+- Similarity with Image in Annotations: 0.27
+
+## Annotation with a Non-Rectangular Polygon (Updated)
+- Similarity with Simplest Annotation: 0.22
+- Similarity with Embedded or referenced Annotations: 0.14
+- Similarity with Missing Images in a Sequence: 0.16
+- Similarity with Addressing a Spatial Region: 0.16
+- Similarity with Image in Annotations: 0.22
+
+## Simplest Annotation
+- Similarity with Embedded or referenced Annotations: 0.32
+- Similarity with Missing Images in a Sequence: 0.33
+- Similarity with Addressing a Spatial Region: 0.30
+- Similarity with Image in Annotations: 0.53
+
+## Embedded or referenced Annotations
+- Similarity with Missing Images in a Sequence: 0.17
+- Similarity with Addressing a Spatial Region: 0.17
+- Similarity with Image in Annotations: 0.25
+
+## Missing Images in a Sequence
+- Similarity with Addressing a Spatial Region: 0.30
+- Similarity with Image in Annotations: 0.37
+
+## Addressing a Spatial Region
+- Similarity with Image in Annotations: 0.31
+
+## Image in Annotations
+

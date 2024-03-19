@@ -4,6 +4,8 @@ TBD
 
 ## IIIF Cookbook Recipes
 
+Several Python scripts to analyse IIIF Cookbook recipes and create graph...
+
 ### Viewers, Support, Properties
 
 #### Fetching Cookbok Recipes
@@ -24,6 +26,6 @@ Gist: https://gist.github.com/julsraemy/5fda62f3516e390a1203c9560574fbb4
 
 ...
 
-## Linked Art Patterns
+## Linked Art Patterns (Model Components)
 
 ...

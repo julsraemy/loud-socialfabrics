@@ -21,5 +21,5 @@ for _, row in df.iterrows():
     G.add_edge(recipe_node, viewer_node, support=row['support'], property=row['property'])
 
 # Write the graph to a GEXF file for use in Gephi
-gexf_path = os.path.join(script_dir, 'recipes', 'graph_for_gephi.gexf')
+gexf_path = os.path.join(script_dir, 'recipes', 'iiif_recipes_graph.gexf')
 nx.write_gexf(G, gexf_path)

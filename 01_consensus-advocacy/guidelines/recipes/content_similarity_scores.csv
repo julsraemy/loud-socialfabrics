@@ -1,0 +1,1981 @@
+Recipe A,Recipe B,Similarity Score
+Simplest Manifest - Single Image File,Simplest Manifest - Audio,0.357173536105836
+Simplest Manifest - Single Image File,Simplest Manifest - Video,0.40313268896039767
+Simplest Manifest - Single Image File,Image and Canvas with Differing Dimensions,0.3175514683274945
+Simplest Manifest - Single Image File,Support Deep Viewing with Basic Use of a IIIF Image Service,0.42932658433294263
+Simplest Manifest - Single Image File,Internationalization and Multi-language Values,0.21247587992787925
+Simplest Manifest - Single Image File,Embedding HTML in descriptive properties,0.24419621885408768
+Simplest Manifest - Single Image File,Rights statement,0.2512971070540739
+Simplest Manifest - Single Image File,Simple Manifest - Book,0.33762538005249454
+Simplest Manifest - Single Image File,Viewing direction and Its Effect on Navigation,0.25980138797725494
+Simplest Manifest - Single Image File,"Book 'behavior' Variations (continuous, individuals)",0.2834504425893597
+Simplest Manifest - Single Image File,Load a Preview Image Before the Main Content,0.21442034420659853
+Simplest Manifest - Single Image File,Audio Presentation with Accompanying Image,0.24834614669183416
+Simplest Manifest - Single Image File,Begin playback at a specific point - Time-based media,0.1714822501131222
+Simplest Manifest - Single Image File,Providing Access to Transcript Files of A/V Content,0.19285444277373706
+Simplest Manifest - Single Image File,HTML in Annotations,0.24095522934950458
+Simplest Manifest - Single Image File,Simple Annotation — Tagging,0.30010707735598735
+Simplest Manifest - Single Image File,Table of Contents for Book Chapters,0.27359468705676615
+Simplest Manifest - Single Image File,Table of Contents for A/V Content,0.19153993280734796
+Simplest Manifest - Single Image File,Metadata on any Resource,0.2115910534540032
+Simplest Manifest - Single Image File,Multi-volume Work with Individually-bound Volumes,0.1483366851859785
+Simplest Manifest - Single Image File,Multiple Volumes in a Single Bound Volume,0.24546911768187593
+Simplest Manifest - Single Image File,Simple Collection,0.20002139310911168
+Simplest Manifest - Single Image File,Providing Alternative Representations,0.32190072104705647
+Simplest Manifest - Single Image File,Linking to Web Page of an Object,0.27527028331197406
+Simplest Manifest - Single Image File,Linking to Structured Metadata,0.3254942981361104
+Simplest Manifest - Single Image File,Table of Contents for Multiple A/V Files on a Single Canvas,0.20492961585195113
+Simplest Manifest - Single Image File,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1974259990439125
+Simplest Manifest - Single Image File,Basic Newspaper,0.18371223281825774
+Simplest Manifest - Single Image File,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.18196796988195618
+Simplest Manifest - Single Image File,Image Thumbnail for Manifest,0.30769705887535764
+Simplest Manifest - Single Image File,Displaying Multiple Values with Language Maps,0.2021240919705353
+Simplest Manifest - Single Image File,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.2103610310570113
+Simplest Manifest - Single Image File,Locate a Manifest on a Web Map,0.23523862295428252
+Simplest Manifest - Single Image File,Load Manifest Beginning with a Specific Canvas,0.32350027608776327
+Simplest Manifest - Single Image File,Using Caption and Subtitle Files with Video Content,0.18382660836732417
+Simplest Manifest - Single Image File,Navigation by Chronology,0.14492259831856016
+Simplest Manifest - Single Image File,Acknowledge Content Contributors,0.22720280458263983
+Simplest Manifest - Single Image File,Locate Multiple Canvases on a Web Map,0.22577812941638747
+Simplest Manifest - Single Image File,Annotation with a Non-Rectangular Polygon (Updated),0.16308611526680888
+Simplest Manifest - Single Image File,Simplest Annotation,0.32303203717870077
+Simplest Manifest - Single Image File,Embedded or referenced Annotations,0.16909233313756647
+Simplest Manifest - Single Image File,Missing Images in a Sequence,0.33827747061549535
+Simplest Manifest - Single Image File,Addressing a Spatial Region,0.29028422971061124
+Simplest Manifest - Single Image File,Image in Annotations,0.3568335974821258
+Simplest Manifest - Audio,Simplest Manifest - Single Image File,0.357173536105836
+Simplest Manifest - Audio,Simplest Manifest - Video,0.34817825305259503
+Simplest Manifest - Audio,Image and Canvas with Differing Dimensions,0.20231098142966747
+Simplest Manifest - Audio,Support Deep Viewing with Basic Use of a IIIF Image Service,0.22282093401528552
+Simplest Manifest - Audio,Internationalization and Multi-language Values,0.1307717661022385
+Simplest Manifest - Audio,Embedding HTML in descriptive properties,0.15140885847705604
+Simplest Manifest - Audio,Rights statement,0.15563026374609146
+Simplest Manifest - Audio,Simple Manifest - Book,0.21151474288098512
+Simplest Manifest - Audio,Viewing direction and Its Effect on Navigation,0.16205243331233882
+Simplest Manifest - Audio,"Book 'behavior' Variations (continuous, individuals)",0.18012537073554077
+Simplest Manifest - Audio,Load a Preview Image Before the Main Content,0.1675472812314145
+Simplest Manifest - Audio,Audio Presentation with Accompanying Image,0.35257002971319423
+Simplest Manifest - Audio,Begin playback at a specific point - Time-based media,0.16051435263452157
+Simplest Manifest - Audio,Providing Access to Transcript Files of A/V Content,0.17825852476099915
+Simplest Manifest - Audio,HTML in Annotations,0.17188294977250018
+Simplest Manifest - Audio,Simple Annotation — Tagging,0.19611928790840819
+Simplest Manifest - Audio,Table of Contents for Book Chapters,0.18173918162900593
+Simplest Manifest - Audio,Table of Contents for A/V Content,0.16616067250283378
+Simplest Manifest - Audio,Metadata on any Resource,0.1294064086526015
+Simplest Manifest - Audio,Multi-volume Work with Individually-bound Volumes,0.11692432602182563
+Simplest Manifest - Audio,Multiple Volumes in a Single Bound Volume,0.16300104742779253
+Simplest Manifest - Audio,Simple Collection,0.15636159606680153
+Simplest Manifest - Audio,Providing Alternative Representations,0.2019533963268633
+Simplest Manifest - Audio,Linking to Web Page of an Object,0.19265387407250723
+Simplest Manifest - Audio,Linking to Structured Metadata,0.20413451118896492
+Simplest Manifest - Audio,Table of Contents for Multiple A/V Files on a Single Canvas,0.18389399867608888
+Simplest Manifest - Audio,Table of Contents for Multiple A/V Files on Multiple Canvases,0.16921574755888624
+Simplest Manifest - Audio,Basic Newspaper,0.1425802852596398
+Simplest Manifest - Audio,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1576699352276862
+Simplest Manifest - Audio,Image Thumbnail for Manifest,0.15852633592354423
+Simplest Manifest - Audio,Displaying Multiple Values with Language Maps,0.15329622211218796
+Simplest Manifest - Audio,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.15725883231316962
+Simplest Manifest - Audio,Locate a Manifest on a Web Map,0.1649489373700926
+Simplest Manifest - Audio,Load Manifest Beginning with a Specific Canvas,0.21278353351153945
+Simplest Manifest - Audio,Using Caption and Subtitle Files with Video Content,0.16548193754237023
+Simplest Manifest - Audio,Navigation by Chronology,0.09137703659613779
+Simplest Manifest - Audio,Acknowledge Content Contributors,0.13299400991132096
+Simplest Manifest - Audio,Locate Multiple Canvases on a Web Map,0.15678539240552677
+Simplest Manifest - Audio,Annotation with a Non-Rectangular Polygon (Updated),0.106689606100478
+Simplest Manifest - Audio,Simplest Annotation,0.23664259019307576
+Simplest Manifest - Audio,Embedded or referenced Annotations,0.13661757576907432
+Simplest Manifest - Audio,Missing Images in a Sequence,0.18243033050448274
+Simplest Manifest - Audio,Addressing a Spatial Region,0.18517618713269782
+Simplest Manifest - Audio,Image in Annotations,0.20931196163310672
+Simplest Manifest - Video,Simplest Manifest - Single Image File,0.40313268896039767
+Simplest Manifest - Video,Simplest Manifest - Audio,0.34817825305259503
+Simplest Manifest - Video,Image and Canvas with Differing Dimensions,0.28059158124826206
+Simplest Manifest - Video,Support Deep Viewing with Basic Use of a IIIF Image Service,0.25394501650374324
+Simplest Manifest - Video,Internationalization and Multi-language Values,0.14915864327505518
+Simplest Manifest - Video,Embedding HTML in descriptive properties,0.17223907761499072
+Simplest Manifest - Video,Rights statement,0.17706299698686856
+Simplest Manifest - Video,Simple Manifest - Book,0.24276630090773169
+Simplest Manifest - Video,Viewing direction and Its Effect on Navigation,0.1860417097859337
+Simplest Manifest - Video,"Book 'behavior' Variations (continuous, individuals)",0.20670782329084939
+Simplest Manifest - Video,Load a Preview Image Before the Main Content,0.3177187970408971
+Simplest Manifest - Video,Audio Presentation with Accompanying Image,0.22675227787920646
+Simplest Manifest - Video,Begin playback at a specific point - Time-based media,0.27779095106546303
+Simplest Manifest - Video,Providing Access to Transcript Files of A/V Content,0.29713348969037845
+Simplest Manifest - Video,HTML in Annotations,0.1944127897248468
+Simplest Manifest - Video,Simple Annotation — Tagging,0.22200889048342554
+Simplest Manifest - Video,Table of Contents for Book Chapters,0.20700842594338195
+Simplest Manifest - Video,Table of Contents for A/V Content,0.22054715035994646
+Simplest Manifest - Video,Metadata on any Resource,0.14792624630674722
+Simplest Manifest - Video,Multi-volume Work with Individually-bound Volumes,0.129839420420089
+Simplest Manifest - Video,Multiple Volumes in a Single Bound Volume,0.18574149095882753
+Simplest Manifest - Video,Simple Collection,0.17363280764589517
+Simplest Manifest - Video,Providing Alternative Representations,0.2316684637696254
+Simplest Manifest - Video,Linking to Web Page of an Object,0.2193320696220927
+Simplest Manifest - Video,Linking to Structured Metadata,0.2341657469416977
+Simplest Manifest - Video,Table of Contents for Multiple A/V Files on a Single Canvas,0.26977744969149425
+Simplest Manifest - Video,Table of Contents for Multiple A/V Files on Multiple Canvases,0.2523244668375092
+Simplest Manifest - Video,Basic Newspaper,0.1581927286396575
+Simplest Manifest - Video,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.21733237650447101
+Simplest Manifest - Video,Image Thumbnail for Manifest,0.18564512118236998
+Simplest Manifest - Video,Displaying Multiple Values with Language Maps,0.1728327717552106
+Simplest Manifest - Video,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.17731686660148804
+Simplest Manifest - Video,Locate a Manifest on a Web Map,0.1870065840366751
+Simplest Manifest - Video,Load Manifest Beginning with a Specific Canvas,0.24339290311441844
+Simplest Manifest - Video,Using Caption and Subtitle Files with Video Content,0.3249284126405851
+Simplest Manifest - Video,Navigation by Chronology,0.10344842604004177
+Simplest Manifest - Video,Acknowledge Content Contributors,0.15680012385430478
+Simplest Manifest - Video,Locate Multiple Canvases on a Web Map,0.17818067739342366
+Simplest Manifest - Video,Annotation with a Non-Rectangular Polygon (Updated),0.12072324098115315
+Simplest Manifest - Video,Simplest Annotation,0.2672554692543317
+Simplest Manifest - Video,Embedded or referenced Annotations,0.1517079247798536
+Simplest Manifest - Video,Missing Images in a Sequence,0.20980037574139906
+Simplest Manifest - Video,Addressing a Spatial Region,0.2102845440478907
+Simplest Manifest - Video,Image in Annotations,0.23638739116613042
+Image and Canvas with Differing Dimensions,Simplest Manifest - Single Image File,0.3175514683274945
+Image and Canvas with Differing Dimensions,Simplest Manifest - Audio,0.20231098142966747
+Image and Canvas with Differing Dimensions,Simplest Manifest - Video,0.28059158124826206
+Image and Canvas with Differing Dimensions,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3521207011095796
+Image and Canvas with Differing Dimensions,Internationalization and Multi-language Values,0.19074845533943488
+Image and Canvas with Differing Dimensions,Embedding HTML in descriptive properties,0.2220928980199616
+Image and Canvas with Differing Dimensions,Rights statement,0.22849372013461786
+Image and Canvas with Differing Dimensions,Simple Manifest - Book,0.2990386686451294
+Image and Canvas with Differing Dimensions,Viewing direction and Its Effect on Navigation,0.23180508822448403
+Image and Canvas with Differing Dimensions,"Book 'behavior' Variations (continuous, individuals)",0.2507290791817567
+Image and Canvas with Differing Dimensions,Load a Preview Image Before the Main Content,0.3039922352832752
+Image and Canvas with Differing Dimensions,Audio Presentation with Accompanying Image,0.24710556301900588
+Image and Canvas with Differing Dimensions,Begin playback at a specific point - Time-based media,0.1929139046063792
+Image and Canvas with Differing Dimensions,Providing Access to Transcript Files of A/V Content,0.23951086421787973
+Image and Canvas with Differing Dimensions,HTML in Annotations,0.2340630318958559
+Image and Canvas with Differing Dimensions,Simple Annotation — Tagging,0.2769257107957747
+Image and Canvas with Differing Dimensions,Table of Contents for Book Chapters,0.2527228717471382
+Image and Canvas with Differing Dimensions,Table of Contents for A/V Content,0.2583556806690879
+Image and Canvas with Differing Dimensions,Metadata on any Resource,0.19722515654390574
+Image and Canvas with Differing Dimensions,Multi-volume Work with Individually-bound Volumes,0.1410858629811608
+Image and Canvas with Differing Dimensions,Multiple Volumes in a Single Bound Volume,0.2265729188882273
+Image and Canvas with Differing Dimensions,Simple Collection,0.1869257702198074
+Image and Canvas with Differing Dimensions,Providing Alternative Representations,0.28780332296927374
+Image and Canvas with Differing Dimensions,Linking to Web Page of an Object,0.2615189526014321
+Image and Canvas with Differing Dimensions,Linking to Structured Metadata,0.29088329399326446
+Image and Canvas with Differing Dimensions,Table of Contents for Multiple A/V Files on a Single Canvas,0.3078954296738842
+Image and Canvas with Differing Dimensions,Table of Contents for Multiple A/V Files on Multiple Canvases,0.2871195571321691
+Image and Canvas with Differing Dimensions,Basic Newspaper,0.18807937913896672
+Image and Canvas with Differing Dimensions,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.189705431371315
+Image and Canvas with Differing Dimensions,Image Thumbnail for Manifest,0.27506252213102306
+Image and Canvas with Differing Dimensions,Displaying Multiple Values with Language Maps,0.20410128864376814
+Image and Canvas with Differing Dimensions,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.214362753099237
+Image and Canvas with Differing Dimensions,Locate a Manifest on a Web Map,0.21559302332235578
+Image and Canvas with Differing Dimensions,Load Manifest Beginning with a Specific Canvas,0.3084149288225211
+Image and Canvas with Differing Dimensions,Using Caption and Subtitle Files with Video Content,0.21444785879153688
+Image and Canvas with Differing Dimensions,Navigation by Chronology,0.1251091148433255
+Image and Canvas with Differing Dimensions,Acknowledge Content Contributors,0.19246566620061914
+Image and Canvas with Differing Dimensions,Locate Multiple Canvases on a Web Map,0.2067752515624809
+Image and Canvas with Differing Dimensions,Annotation with a Non-Rectangular Polygon (Updated),0.1501682803842481
+Image and Canvas with Differing Dimensions,Simplest Annotation,0.32646467786246663
+Image and Canvas with Differing Dimensions,Embedded or referenced Annotations,0.17089273540015637
+Image and Canvas with Differing Dimensions,Missing Images in a Sequence,0.2815411915773598
+Image and Canvas with Differing Dimensions,Addressing a Spatial Region,0.2623479974381843
+Image and Canvas with Differing Dimensions,Image in Annotations,0.3062024497629808
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simplest Manifest - Single Image File,0.42932658433294263
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simplest Manifest - Audio,0.22282093401528552
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simplest Manifest - Video,0.25394501650374324
+Support Deep Viewing with Basic Use of a IIIF Image Service,Image and Canvas with Differing Dimensions,0.3521207011095796
+Support Deep Viewing with Basic Use of a IIIF Image Service,Internationalization and Multi-language Values,0.27216367187480606
+Support Deep Viewing with Basic Use of a IIIF Image Service,Embedding HTML in descriptive properties,0.3801381918278056
+Support Deep Viewing with Basic Use of a IIIF Image Service,Rights statement,0.39074674918577923
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simple Manifest - Book,0.4342524786477221
+Support Deep Viewing with Basic Use of a IIIF Image Service,Viewing direction and Its Effect on Navigation,0.3368950464895267
+Support Deep Viewing with Basic Use of a IIIF Image Service,"Book 'behavior' Variations (continuous, individuals)",0.36566822334457677
+Support Deep Viewing with Basic Use of a IIIF Image Service,Load a Preview Image Before the Main Content,0.244399541054914
+Support Deep Viewing with Basic Use of a IIIF Image Service,Audio Presentation with Accompanying Image,0.3069069269918883
+Support Deep Viewing with Basic Use of a IIIF Image Service,Begin playback at a specific point - Time-based media,0.20542530656591113
+Support Deep Viewing with Basic Use of a IIIF Image Service,Providing Access to Transcript Files of A/V Content,0.225263202880087
+Support Deep Viewing with Basic Use of a IIIF Image Service,HTML in Annotations,0.3574301471594631
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simple Annotation — Tagging,0.4415033272865693
+Support Deep Viewing with Basic Use of a IIIF Image Service,Table of Contents for Book Chapters,0.3486233766564283
+Support Deep Viewing with Basic Use of a IIIF Image Service,Table of Contents for A/V Content,0.23017292032513634
+Support Deep Viewing with Basic Use of a IIIF Image Service,Metadata on any Resource,0.2817246303715064
+Support Deep Viewing with Basic Use of a IIIF Image Service,Multi-volume Work with Individually-bound Volumes,0.17508759162927884
+Support Deep Viewing with Basic Use of a IIIF Image Service,Multiple Volumes in a Single Bound Volume,0.3125017590760844
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simple Collection,0.2399302979478753
+Support Deep Viewing with Basic Use of a IIIF Image Service,Providing Alternative Representations,0.4149837876507735
+Support Deep Viewing with Basic Use of a IIIF Image Service,Linking to Web Page of an Object,0.350603764807691
+Support Deep Viewing with Basic Use of a IIIF Image Service,Linking to Structured Metadata,0.41970709767413344
+Support Deep Viewing with Basic Use of a IIIF Image Service,Table of Contents for Multiple A/V Files on a Single Canvas,0.24589374802826028
+Support Deep Viewing with Basic Use of a IIIF Image Service,Table of Contents for Multiple A/V Files on Multiple Canvases,0.23346220572386797
+Support Deep Viewing with Basic Use of a IIIF Image Service,Basic Newspaper,0.2147464631526082
+Support Deep Viewing with Basic Use of a IIIF Image Service,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.21487653739247425
+Support Deep Viewing with Basic Use of a IIIF Image Service,Image Thumbnail for Manifest,0.406570242583244
+Support Deep Viewing with Basic Use of a IIIF Image Service,Displaying Multiple Values with Language Maps,0.24650181621183356
+Support Deep Viewing with Basic Use of a IIIF Image Service,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.26306497224200825
+Support Deep Viewing with Basic Use of a IIIF Image Service,Locate a Manifest on a Web Map,0.29778095340273275
+Support Deep Viewing with Basic Use of a IIIF Image Service,Load Manifest Beginning with a Specific Canvas,0.41615045889622715
+Support Deep Viewing with Basic Use of a IIIF Image Service,Using Caption and Subtitle Files with Video Content,0.21638000709494715
+Support Deep Viewing with Basic Use of a IIIF Image Service,Navigation by Chronology,0.1894550053364381
+Support Deep Viewing with Basic Use of a IIIF Image Service,Acknowledge Content Contributors,0.27625505793097416
+Support Deep Viewing with Basic Use of a IIIF Image Service,Locate Multiple Canvases on a Web Map,0.28869912182316415
+Support Deep Viewing with Basic Use of a IIIF Image Service,Annotation with a Non-Rectangular Polygon (Updated),0.23832278869550325
+Support Deep Viewing with Basic Use of a IIIF Image Service,Simplest Annotation,0.47775293806070523
+Support Deep Viewing with Basic Use of a IIIF Image Service,Embedded or referenced Annotations,0.19785138380815018
+Support Deep Viewing with Basic Use of a IIIF Image Service,Missing Images in a Sequence,0.4299960414394536
+Support Deep Viewing with Basic Use of a IIIF Image Service,Addressing a Spatial Region,0.3605497147161198
+Support Deep Viewing with Basic Use of a IIIF Image Service,Image in Annotations,0.5416399649770374
+Internationalization and Multi-language Values,Simplest Manifest - Single Image File,0.21247587992787925
+Internationalization and Multi-language Values,Simplest Manifest - Audio,0.1307717661022385
+Internationalization and Multi-language Values,Simplest Manifest - Video,0.14915864327505518
+Internationalization and Multi-language Values,Image and Canvas with Differing Dimensions,0.19074845533943488
+Internationalization and Multi-language Values,Support Deep Viewing with Basic Use of a IIIF Image Service,0.27216367187480606
+Internationalization and Multi-language Values,Embedding HTML in descriptive properties,0.20199687668596314
+Internationalization and Multi-language Values,Rights statement,0.1983373415197861
+Internationalization and Multi-language Values,Simple Manifest - Book,0.22858266280968212
+Internationalization and Multi-language Values,Viewing direction and Its Effect on Navigation,0.17946354289182917
+Internationalization and Multi-language Values,"Book 'behavior' Variations (continuous, individuals)",0.19177238372612285
+Internationalization and Multi-language Values,Load a Preview Image Before the Main Content,0.13804636770831602
+Internationalization and Multi-language Values,Audio Presentation with Accompanying Image,0.17581096488424244
+Internationalization and Multi-language Values,Begin playback at a specific point - Time-based media,0.1360858561335215
+Internationalization and Multi-language Values,Providing Access to Transcript Files of A/V Content,0.14820416735496766
+Internationalization and Multi-language Values,HTML in Annotations,0.20022689575197575
+Internationalization and Multi-language Values,Simple Annotation — Tagging,0.2273766606707545
+Internationalization and Multi-language Values,Table of Contents for Book Chapters,0.18867493972371205
+Internationalization and Multi-language Values,Table of Contents for A/V Content,0.1372783200803007
+Internationalization and Multi-language Values,Metadata on any Resource,0.19928384096125074
+Internationalization and Multi-language Values,Multi-volume Work with Individually-bound Volumes,0.10528995918998996
+Internationalization and Multi-language Values,Multiple Volumes in a Single Bound Volume,0.17253940117120897
+Internationalization and Multi-language Values,Simple Collection,0.15444615678555723
+Internationalization and Multi-language Values,Providing Alternative Representations,0.2251714488933777
+Internationalization and Multi-language Values,Linking to Web Page of an Object,0.234943580008198
+Internationalization and Multi-language Values,Linking to Structured Metadata,0.22912433176572256
+Internationalization and Multi-language Values,Table of Contents for Multiple A/V Files on a Single Canvas,0.14909183230787978
+Internationalization and Multi-language Values,Table of Contents for Multiple A/V Files on Multiple Canvases,0.14407434685086004
+Internationalization and Multi-language Values,Basic Newspaper,0.18311971840807245
+Internationalization and Multi-language Values,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.20834226188436852
+Internationalization and Multi-language Values,Image Thumbnail for Manifest,0.20579243401314412
+Internationalization and Multi-language Values,Displaying Multiple Values with Language Maps,0.4769555561155623
+Internationalization and Multi-language Values,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.15366360988792077
+Internationalization and Multi-language Values,Locate a Manifest on a Web Map,0.16644965053500393
+Internationalization and Multi-language Values,Load Manifest Beginning with a Specific Canvas,0.21829352100925434
+Internationalization and Multi-language Values,Using Caption and Subtitle Files with Video Content,0.14468781456964663
+Internationalization and Multi-language Values,Navigation by Chronology,0.11263588966781322
+Internationalization and Multi-language Values,Acknowledge Content Contributors,0.17466351080215287
+Internationalization and Multi-language Values,Locate Multiple Canvases on a Web Map,0.16235899235069282
+Internationalization and Multi-language Values,Annotation with a Non-Rectangular Polygon (Updated),0.1247065147950598
+Internationalization and Multi-language Values,Simplest Annotation,0.24583128338861202
+Internationalization and Multi-language Values,Embedded or referenced Annotations,0.16111983972961338
+Internationalization and Multi-language Values,Missing Images in a Sequence,0.2185576702843173
+Internationalization and Multi-language Values,Addressing a Spatial Region,0.1947570143617638
+Internationalization and Multi-language Values,Image in Annotations,0.24986035999648645
+Embedding HTML in descriptive properties,Simplest Manifest - Single Image File,0.24419621885408768
+Embedding HTML in descriptive properties,Simplest Manifest - Audio,0.15140885847705604
+Embedding HTML in descriptive properties,Simplest Manifest - Video,0.17223907761499072
+Embedding HTML in descriptive properties,Image and Canvas with Differing Dimensions,0.2220928980199616
+Embedding HTML in descriptive properties,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3801381918278056
+Embedding HTML in descriptive properties,Internationalization and Multi-language Values,0.20199687668596314
+Embedding HTML in descriptive properties,Rights statement,0.6723175254546202
+Embedding HTML in descriptive properties,Simple Manifest - Book,0.2597637442262045
+Embedding HTML in descriptive properties,Viewing direction and Its Effect on Navigation,0.20189166869001138
+Embedding HTML in descriptive properties,"Book 'behavior' Variations (continuous, individuals)",0.21854530668770508
+Embedding HTML in descriptive properties,Load a Preview Image Before the Main Content,0.1613797663049386
+Embedding HTML in descriptive properties,Audio Presentation with Accompanying Image,0.19443817744291067
+Embedding HTML in descriptive properties,Begin playback at a specific point - Time-based media,0.26151215234313735
+Embedding HTML in descriptive properties,Providing Access to Transcript Files of A/V Content,0.15483838819641674
+Embedding HTML in descriptive properties,HTML in Annotations,0.2543966675601166
+Embedding HTML in descriptive properties,Simple Annotation — Tagging,0.28338214060193195
+Embedding HTML in descriptive properties,Table of Contents for Book Chapters,0.21377863274317932
+Embedding HTML in descriptive properties,Table of Contents for A/V Content,0.15721482511038
+Embedding HTML in descriptive properties,Metadata on any Resource,0.21704492250608615
+Embedding HTML in descriptive properties,Multi-volume Work with Individually-bound Volumes,0.12063248337604184
+Embedding HTML in descriptive properties,Multiple Volumes in a Single Bound Volume,0.19067943538742074
+Embedding HTML in descriptive properties,Simple Collection,0.17220411786793785
+Embedding HTML in descriptive properties,Providing Alternative Representations,0.25084366131529795
+Embedding HTML in descriptive properties,Linking to Web Page of an Object,0.22906435213508683
+Embedding HTML in descriptive properties,Linking to Structured Metadata,0.2552286841829367
+Embedding HTML in descriptive properties,Table of Contents for Multiple A/V Files on a Single Canvas,0.1690707106194827
+Embedding HTML in descriptive properties,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1635812527284535
+Embedding HTML in descriptive properties,Basic Newspaper,0.16126846932703973
+Embedding HTML in descriptive properties,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.16032868548163878
+Embedding HTML in descriptive properties,Image Thumbnail for Manifest,0.22654422844536326
+Embedding HTML in descriptive properties,Displaying Multiple Values with Language Maps,0.1899439632550134
+Embedding HTML in descriptive properties,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1731531764265328
+Embedding HTML in descriptive properties,Locate a Manifest on a Web Map,0.1899313842014576
+Embedding HTML in descriptive properties,Load Manifest Beginning with a Specific Canvas,0.24757566264480202
+Embedding HTML in descriptive properties,Using Caption and Subtitle Files with Video Content,0.14848162049876437
+Embedding HTML in descriptive properties,Navigation by Chronology,0.1168946382600831
+Embedding HTML in descriptive properties,Acknowledge Content Contributors,0.17752428384858074
+Embedding HTML in descriptive properties,Locate Multiple Canvases on a Web Map,0.18304830655053644
+Embedding HTML in descriptive properties,Annotation with a Non-Rectangular Polygon (Updated),0.15830871259090049
+Embedding HTML in descriptive properties,Simplest Annotation,0.30532643495751394
+Embedding HTML in descriptive properties,Embedded or referenced Annotations,0.13758463928469836
+Embedding HTML in descriptive properties,Missing Images in a Sequence,0.24431192992676495
+Embedding HTML in descriptive properties,Addressing a Spatial Region,0.22309413450256843
+Embedding HTML in descriptive properties,Image in Annotations,0.32628429047046587
+Rights statement,Simplest Manifest - Single Image File,0.2512971070540739
+Rights statement,Simplest Manifest - Audio,0.15563026374609146
+Rights statement,Simplest Manifest - Video,0.17706299698686856
+Rights statement,Image and Canvas with Differing Dimensions,0.22849372013461786
+Rights statement,Support Deep Viewing with Basic Use of a IIIF Image Service,0.39074674918577923
+Rights statement,Internationalization and Multi-language Values,0.1983373415197861
+Rights statement,Embedding HTML in descriptive properties,0.6723175254546202
+Rights statement,Simple Manifest - Book,0.26807876705822514
+Rights statement,Viewing direction and Its Effect on Navigation,0.2073721496516412
+Rights statement,"Book 'behavior' Variations (continuous, individuals)",0.22463895767189956
+Rights statement,Load a Preview Image Before the Main Content,0.1662638356957466
+Rights statement,Audio Presentation with Accompanying Image,0.19946775102790912
+Rights statement,Begin playback at a specific point - Time-based media,0.29410818810500033
+Rights statement,Providing Access to Transcript Files of A/V Content,0.15853395084278876
+Rights statement,HTML in Annotations,0.2642696106753542
+Rights statement,Simple Annotation — Tagging,0.29101415605152037
+Rights statement,Table of Contents for Book Chapters,0.21940616966027568
+Rights statement,Table of Contents for A/V Content,0.16097890754444183
+Rights statement,Metadata on any Resource,0.20780088376079794
+Rights statement,Multi-volume Work with Individually-bound Volumes,0.12292815701581802
+Rights statement,Multiple Volumes in a Single Bound Volume,0.19822005723556502
+Rights statement,Simple Collection,0.17357257976221419
+Rights statement,Providing Alternative Representations,0.2574566521932493
+Rights statement,Linking to Web Page of an Object,0.22556688250456203
+Rights statement,Linking to Structured Metadata,0.2605083102599811
+Rights statement,Table of Contents for Multiple A/V Files on a Single Canvas,0.17073267650510388
+Rights statement,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1648972708088268
+Rights statement,Basic Newspaper,0.16586909854416196
+Rights statement,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.19456799242411307
+Rights statement,Image Thumbnail for Manifest,0.232582305878067
+Rights statement,Displaying Multiple Values with Language Maps,0.19836651218259327
+Rights statement,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.17783318571543819
+Rights statement,Locate a Manifest on a Web Map,0.19475683160558474
+Rights statement,Load Manifest Beginning with a Specific Canvas,0.2555164002702367
+Rights statement,Using Caption and Subtitle Files with Video Content,0.15217117009306302
+Rights statement,Navigation by Chronology,0.11894700209523035
+Rights statement,Acknowledge Content Contributors,0.18060931186224372
+Rights statement,Locate Multiple Canvases on a Web Map,0.18755332925662654
+Rights statement,Annotation with a Non-Rectangular Polygon (Updated),0.16404735296727926
+Rights statement,Simplest Annotation,0.3135830011540182
+Rights statement,Embedded or referenced Annotations,0.13990947483697813
+Rights statement,Missing Images in a Sequence,0.2488015286812567
+Rights statement,Addressing a Spatial Region,0.2297798937224666
+Rights statement,Image in Annotations,0.335149096229359
+Simple Manifest - Book,Simplest Manifest - Single Image File,0.33762538005249454
+Simple Manifest - Book,Simplest Manifest - Audio,0.21151474288098512
+Simple Manifest - Book,Simplest Manifest - Video,0.24276630090773169
+Simple Manifest - Book,Image and Canvas with Differing Dimensions,0.2990386686451294
+Simple Manifest - Book,Support Deep Viewing with Basic Use of a IIIF Image Service,0.4342524786477221
+Simple Manifest - Book,Internationalization and Multi-language Values,0.22858266280968212
+Simple Manifest - Book,Embedding HTML in descriptive properties,0.2597637442262045
+Simple Manifest - Book,Rights statement,0.26807876705822514
+Simple Manifest - Book,Viewing direction and Its Effect on Navigation,0.4472704000300483
+Simple Manifest - Book,"Book 'behavior' Variations (continuous, individuals)",0.487281706801904
+Simple Manifest - Book,Load a Preview Image Before the Main Content,0.2254676376078376
+Simple Manifest - Book,Audio Presentation with Accompanying Image,0.27424310903417726
+Simple Manifest - Book,Begin playback at a specific point - Time-based media,0.19293377014550284
+Simple Manifest - Book,Providing Access to Transcript Files of A/V Content,0.21464453742732767
+Simple Manifest - Book,HTML in Annotations,0.2720851503401876
+Simple Manifest - Book,Simple Annotation — Tagging,0.32647149061970976
+Simple Manifest - Book,Table of Contents for Book Chapters,0.48694508978271017
+Simple Manifest - Book,Table of Contents for A/V Content,0.21766180201702673
+Simple Manifest - Book,Metadata on any Resource,0.2340173945025029
+Simple Manifest - Book,Multi-volume Work with Individually-bound Volumes,0.15936838802152706
+Simple Manifest - Book,Multiple Volumes in a Single Bound Volume,0.2894205793408112
+Simple Manifest - Book,Simple Collection,0.21414916620717683
+Simple Manifest - Book,Providing Alternative Representations,0.3771183409371379
+Simple Manifest - Book,Linking to Web Page of an Object,0.3169466357844159
+Simple Manifest - Book,Linking to Structured Metadata,0.38140738497106497
+Simple Manifest - Book,Table of Contents for Multiple A/V Files on a Single Canvas,0.22974584259446004
+Simple Manifest - Book,Table of Contents for Multiple A/V Files on Multiple Canvases,0.217901286480432
+Simple Manifest - Book,Basic Newspaper,0.19837827942307312
+Simple Manifest - Book,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.20466997429784597
+Simple Manifest - Book,Image Thumbnail for Manifest,0.3296232777550387
+Simple Manifest - Book,Displaying Multiple Values with Language Maps,0.22568169817741626
+Simple Manifest - Book,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.23526716155331942
+Simple Manifest - Book,Locate a Manifest on a Web Map,0.2673791847125683
+Simple Manifest - Book,Load Manifest Beginning with a Specific Canvas,0.4833333237220933
+Simple Manifest - Book,Using Caption and Subtitle Files with Video Content,0.20701767248055605
+Simple Manifest - Book,Navigation by Chronology,0.16191955349869724
+Simple Manifest - Book,Acknowledge Content Contributors,0.23989576301199794
+Simple Manifest - Book,Locate Multiple Canvases on a Web Map,0.261248361780787
+Simple Manifest - Book,Annotation with a Non-Rectangular Polygon (Updated),0.17689341590814503
+Simple Manifest - Book,Simplest Annotation,0.3717291618984709
+Simple Manifest - Book,Embedded or referenced Annotations,0.1848136313820556
+Simple Manifest - Book,Missing Images in a Sequence,0.3680043619144831
+Simple Manifest - Book,Addressing a Spatial Region,0.31375634126954655
+Simple Manifest - Book,Image in Annotations,0.38314930479888915
+Viewing direction and Its Effect on Navigation,Simplest Manifest - Single Image File,0.25980138797725494
+Viewing direction and Its Effect on Navigation,Simplest Manifest - Audio,0.16205243331233882
+Viewing direction and Its Effect on Navigation,Simplest Manifest - Video,0.1860417097859337
+Viewing direction and Its Effect on Navigation,Image and Canvas with Differing Dimensions,0.23180508822448403
+Viewing direction and Its Effect on Navigation,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3368950464895267
+Viewing direction and Its Effect on Navigation,Internationalization and Multi-language Values,0.17946354289182917
+Viewing direction and Its Effect on Navigation,Embedding HTML in descriptive properties,0.20189166869001138
+Viewing direction and Its Effect on Navigation,Rights statement,0.2073721496516412
+Viewing direction and Its Effect on Navigation,Simple Manifest - Book,0.4472704000300483
+Viewing direction and Its Effect on Navigation,"Book 'behavior' Variations (continuous, individuals)",0.3683019770426431
+Viewing direction and Its Effect on Navigation,Load a Preview Image Before the Main Content,0.17431142554676265
+Viewing direction and Its Effect on Navigation,Audio Presentation with Accompanying Image,0.212336497827683
+Viewing direction and Its Effect on Navigation,Begin playback at a specific point - Time-based media,0.14994017843557297
+Viewing direction and Its Effect on Navigation,Providing Access to Transcript Files of A/V Content,0.16581724566280054
+Viewing direction and Its Effect on Navigation,HTML in Annotations,0.21333775197344382
+Viewing direction and Its Effect on Navigation,Simple Annotation — Tagging,0.25167109545589994
+Viewing direction and Its Effect on Navigation,Table of Contents for Book Chapters,0.3755434344265231
+Viewing direction and Its Effect on Navigation,Table of Contents for A/V Content,0.1685143322789685
+Viewing direction and Its Effect on Navigation,Metadata on any Resource,0.19751093341583983
+Viewing direction and Its Effect on Navigation,Multi-volume Work with Individually-bound Volumes,0.12093961238706795
+Viewing direction and Its Effect on Navigation,Multiple Volumes in a Single Bound Volume,0.22328848119211556
+Viewing direction and Its Effect on Navigation,Simple Collection,0.1634312792397833
+Viewing direction and Its Effect on Navigation,Providing Alternative Representations,0.362226358738234
+Viewing direction and Its Effect on Navigation,Linking to Web Page of an Object,0.24552283134810032
+Viewing direction and Its Effect on Navigation,Linking to Structured Metadata,0.3668875638081903
+Viewing direction and Its Effect on Navigation,Table of Contents for Multiple A/V Files on a Single Canvas,0.17800981725607432
+Viewing direction and Its Effect on Navigation,Table of Contents for Multiple A/V Files on Multiple Canvases,0.16891239191001348
+Viewing direction and Its Effect on Navigation,Basic Newspaper,0.15292602615958786
+Viewing direction and Its Effect on Navigation,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.158042457001892
+Viewing direction and Its Effect on Navigation,Image Thumbnail for Manifest,0.34207352157999427
+Viewing direction and Its Effect on Navigation,Displaying Multiple Values with Language Maps,0.17909288989209096
+Viewing direction and Its Effect on Navigation,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1853831536031786
+Viewing direction and Its Effect on Navigation,Locate a Manifest on a Web Map,0.20750294764833152
+Viewing direction and Its Effect on Navigation,Load Manifest Beginning with a Specific Canvas,0.2988704333790679
+Viewing direction and Its Effect on Navigation,Using Caption and Subtitle Files with Video Content,0.15950589372413204
+Viewing direction and Its Effect on Navigation,Navigation by Chronology,0.1298480879937424
+Viewing direction and Its Effect on Navigation,Acknowledge Content Contributors,0.23562469680282147
+Viewing direction and Its Effect on Navigation,Locate Multiple Canvases on a Web Map,0.20623170918788286
+Viewing direction and Its Effect on Navigation,Annotation with a Non-Rectangular Polygon (Updated),0.13636744400558587
+Viewing direction and Its Effect on Navigation,Simplest Annotation,0.2875520283038469
+Viewing direction and Its Effect on Navigation,Embedded or referenced Annotations,0.14266916730136697
+Viewing direction and Its Effect on Navigation,Missing Images in a Sequence,0.2836502644550137
+Viewing direction and Its Effect on Navigation,Addressing a Spatial Region,0.24161245723569683
+Viewing direction and Its Effect on Navigation,Image in Annotations,0.3008392540651136
+"Book 'behavior' Variations (continuous, individuals)",Simplest Manifest - Single Image File,0.2834504425893597
+"Book 'behavior' Variations (continuous, individuals)",Simplest Manifest - Audio,0.18012537073554077
+"Book 'behavior' Variations (continuous, individuals)",Simplest Manifest - Video,0.20670782329084939
+"Book 'behavior' Variations (continuous, individuals)",Image and Canvas with Differing Dimensions,0.2507290791817567
+"Book 'behavior' Variations (continuous, individuals)",Support Deep Viewing with Basic Use of a IIIF Image Service,0.36566822334457677
+"Book 'behavior' Variations (continuous, individuals)",Internationalization and Multi-language Values,0.19177238372612285
+"Book 'behavior' Variations (continuous, individuals)",Embedding HTML in descriptive properties,0.21854530668770508
+"Book 'behavior' Variations (continuous, individuals)",Rights statement,0.22463895767189956
+"Book 'behavior' Variations (continuous, individuals)",Simple Manifest - Book,0.487281706801904
+"Book 'behavior' Variations (continuous, individuals)",Viewing direction and Its Effect on Navigation,0.3683019770426431
+"Book 'behavior' Variations (continuous, individuals)",Load a Preview Image Before the Main Content,0.19319457855467068
+"Book 'behavior' Variations (continuous, individuals)",Audio Presentation with Accompanying Image,0.23121154150942652
+"Book 'behavior' Variations (continuous, individuals)",Begin playback at a specific point - Time-based media,0.1648814338796726
+"Book 'behavior' Variations (continuous, individuals)",Providing Access to Transcript Files of A/V Content,0.18279039150430773
+"Book 'behavior' Variations (continuous, individuals)",HTML in Annotations,0.23289630348985266
+"Book 'behavior' Variations (continuous, individuals)",Simple Annotation — Tagging,0.2725662815503356
+"Book 'behavior' Variations (continuous, individuals)",Table of Contents for Book Chapters,0.430570312179567
+"Book 'behavior' Variations (continuous, individuals)",Table of Contents for A/V Content,0.18666865624086354
+"Book 'behavior' Variations (continuous, individuals)",Metadata on any Resource,0.19489729468850486
+"Book 'behavior' Variations (continuous, individuals)",Multi-volume Work with Individually-bound Volumes,0.17914847624210684
+"Book 'behavior' Variations (continuous, individuals)",Multiple Volumes in a Single Bound Volume,0.23901803393774534
+"Book 'behavior' Variations (continuous, individuals)",Simple Collection,0.1804822855122574
+"Book 'behavior' Variations (continuous, individuals)",Providing Alternative Representations,0.3115386660739693
+"Book 'behavior' Variations (continuous, individuals)",Linking to Web Page of an Object,0.2692381861219696
+"Book 'behavior' Variations (continuous, individuals)",Linking to Structured Metadata,0.3151000418201292
+"Book 'behavior' Variations (continuous, individuals)",Table of Contents for Multiple A/V Files on a Single Canvas,0.19667008869029223
+"Book 'behavior' Variations (continuous, individuals)",Table of Contents for Multiple A/V Files on Multiple Canvases,0.1864879738097044
+"Book 'behavior' Variations (continuous, individuals)",Basic Newspaper,0.1681372935270582
+"Book 'behavior' Variations (continuous, individuals)",Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17425791187466363
+"Book 'behavior' Variations (continuous, individuals)",Image Thumbnail for Manifest,0.2810333137731984
+"Book 'behavior' Variations (continuous, individuals)",Displaying Multiple Values with Language Maps,0.19166982597509652
+"Book 'behavior' Variations (continuous, individuals)",Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.20136005817791083
+"Book 'behavior' Variations (continuous, individuals)",Locate a Manifest on a Web Map,0.22862378066376787
+"Book 'behavior' Variations (continuous, individuals)",Load Manifest Beginning with a Specific Canvas,0.3204663141332121
+"Book 'behavior' Variations (continuous, individuals)",Using Caption and Subtitle Files with Video Content,0.17655248460075607
+"Book 'behavior' Variations (continuous, individuals)",Navigation by Chronology,0.13843137438467257
+"Book 'behavior' Variations (continuous, individuals)",Acknowledge Content Contributors,0.2044479851648168
+"Book 'behavior' Variations (continuous, individuals)",Locate Multiple Canvases on a Web Map,0.22309463188842454
+"Book 'behavior' Variations (continuous, individuals)",Annotation with a Non-Rectangular Polygon (Updated),0.14777631146302878
+"Book 'behavior' Variations (continuous, individuals)",Simplest Annotation,0.31801160157126035
+"Book 'behavior' Variations (continuous, individuals)",Embedded or referenced Annotations,0.1589560400804444
+"Book 'behavior' Variations (continuous, individuals)",Missing Images in a Sequence,0.33821293430305804
+"Book 'behavior' Variations (continuous, individuals)",Addressing a Spatial Region,0.26172032899161085
+"Book 'behavior' Variations (continuous, individuals)",Image in Annotations,0.32749878922429393
+Load a Preview Image Before the Main Content,Simplest Manifest - Single Image File,0.21442034420659853
+Load a Preview Image Before the Main Content,Simplest Manifest - Audio,0.1675472812314145
+Load a Preview Image Before the Main Content,Simplest Manifest - Video,0.3177187970408971
+Load a Preview Image Before the Main Content,Image and Canvas with Differing Dimensions,0.3039922352832752
+Load a Preview Image Before the Main Content,Support Deep Viewing with Basic Use of a IIIF Image Service,0.244399541054914
+Load a Preview Image Before the Main Content,Internationalization and Multi-language Values,0.13804636770831602
+Load a Preview Image Before the Main Content,Embedding HTML in descriptive properties,0.1613797663049386
+Load a Preview Image Before the Main Content,Rights statement,0.1662638356957466
+Load a Preview Image Before the Main Content,Simple Manifest - Book,0.2254676376078376
+Load a Preview Image Before the Main Content,Viewing direction and Its Effect on Navigation,0.17431142554676265
+Load a Preview Image Before the Main Content,"Book 'behavior' Variations (continuous, individuals)",0.19319457855467068
+Load a Preview Image Before the Main Content,Audio Presentation with Accompanying Image,0.1951907796572958
+Load a Preview Image Before the Main Content,Begin playback at a specific point - Time-based media,0.18770529535301433
+Load a Preview Image Before the Main Content,Providing Access to Transcript Files of A/V Content,0.2051908653968834
+Load a Preview Image Before the Main Content,HTML in Annotations,0.18224586105703766
+Load a Preview Image Before the Main Content,Simple Annotation — Tagging,0.2040491398455064
+Load a Preview Image Before the Main Content,Table of Contents for Book Chapters,0.19288437934178138
+Load a Preview Image Before the Main Content,Table of Contents for A/V Content,0.21551264540795043
+Load a Preview Image Before the Main Content,Metadata on any Resource,0.13995005819591835
+Load a Preview Image Before the Main Content,Multi-volume Work with Individually-bound Volumes,0.11400387912832105
+Load a Preview Image Before the Main Content,Multiple Volumes in a Single Bound Volume,0.1720092368140003
+Load a Preview Image Before the Main Content,Simple Collection,0.14868167942418864
+Load a Preview Image Before the Main Content,Providing Alternative Representations,0.2170059220689566
+Load a Preview Image Before the Main Content,Linking to Web Page of an Object,0.19661105683381325
+Load a Preview Image Before the Main Content,Linking to Structured Metadata,0.21928627952182259
+Load a Preview Image Before the Main Content,Table of Contents for Multiple A/V Files on a Single Canvas,0.2608653138971357
+Load a Preview Image Before the Main Content,Table of Contents for Multiple A/V Files on Multiple Canvases,0.2474781647506249
+Load a Preview Image Before the Main Content,Basic Newspaper,0.14292316615580147
+Load a Preview Image Before the Main Content,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.16740070127720236
+Load a Preview Image Before the Main Content,Image Thumbnail for Manifest,0.19482161473948892
+Load a Preview Image Before the Main Content,Displaying Multiple Values with Language Maps,0.1538011102086322
+Load a Preview Image Before the Main Content,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.15881798838709468
+Load a Preview Image Before the Main Content,Locate a Manifest on a Web Map,0.17165550843405988
+Load a Preview Image Before the Main Content,Load Manifest Beginning with a Specific Canvas,0.22459756506830691
+Load a Preview Image Before the Main Content,Using Caption and Subtitle Files with Video Content,0.19842711730976634
+Load a Preview Image Before the Main Content,Navigation by Chronology,0.09591409371493968
+Load a Preview Image Before the Main Content,Acknowledge Content Contributors,0.14976384355312541
+Load a Preview Image Before the Main Content,Locate Multiple Canvases on a Web Map,0.16573619189678473
+Load a Preview Image Before the Main Content,Annotation with a Non-Rectangular Polygon (Updated),0.11085526455033318
+Load a Preview Image Before the Main Content,Simplest Annotation,0.24284544369145014
+Load a Preview Image Before the Main Content,Embedded or referenced Annotations,0.13619676009760306
+Load a Preview Image Before the Main Content,Missing Images in a Sequence,0.20267966944527363
+Load a Preview Image Before the Main Content,Addressing a Spatial Region,0.19256056558387824
+Load a Preview Image Before the Main Content,Image in Annotations,0.22712519108407853
+Audio Presentation with Accompanying Image,Simplest Manifest - Single Image File,0.24834614669183416
+Audio Presentation with Accompanying Image,Simplest Manifest - Audio,0.35257002971319423
+Audio Presentation with Accompanying Image,Simplest Manifest - Video,0.22675227787920646
+Audio Presentation with Accompanying Image,Image and Canvas with Differing Dimensions,0.24710556301900588
+Audio Presentation with Accompanying Image,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3069069269918883
+Audio Presentation with Accompanying Image,Internationalization and Multi-language Values,0.17581096488424244
+Audio Presentation with Accompanying Image,Embedding HTML in descriptive properties,0.19443817744291067
+Audio Presentation with Accompanying Image,Rights statement,0.19946775102790912
+Audio Presentation with Accompanying Image,Simple Manifest - Book,0.27424310903417726
+Audio Presentation with Accompanying Image,Viewing direction and Its Effect on Navigation,0.212336497827683
+Audio Presentation with Accompanying Image,"Book 'behavior' Variations (continuous, individuals)",0.23121154150942652
+Audio Presentation with Accompanying Image,Load a Preview Image Before the Main Content,0.1951907796572958
+Audio Presentation with Accompanying Image,Begin playback at a specific point - Time-based media,0.1924121829183168
+Audio Presentation with Accompanying Image,Providing Access to Transcript Files of A/V Content,0.19725601632043116
+Audio Presentation with Accompanying Image,HTML in Annotations,0.20703110780265208
+Audio Presentation with Accompanying Image,Simple Annotation — Tagging,0.24670331742399157
+Audio Presentation with Accompanying Image,Table of Contents for Book Chapters,0.2296497763629996
+Audio Presentation with Accompanying Image,Table of Contents for A/V Content,0.18623319483342338
+Audio Presentation with Accompanying Image,Metadata on any Resource,0.17742452528716438
+Audio Presentation with Accompanying Image,Multi-volume Work with Individually-bound Volumes,0.12683252677634935
+Audio Presentation with Accompanying Image,Multiple Volumes in a Single Bound Volume,0.20600793498469905
+Audio Presentation with Accompanying Image,Simple Collection,0.16990422552501108
+Audio Presentation with Accompanying Image,Providing Alternative Representations,0.26369198282540474
+Audio Presentation with Accompanying Image,Linking to Web Page of an Object,0.23667347014190224
+Audio Presentation with Accompanying Image,Linking to Structured Metadata,0.2666107831398701
+Audio Presentation with Accompanying Image,Table of Contents for Multiple A/V Files on a Single Canvas,0.20723238559156046
+Audio Presentation with Accompanying Image,Table of Contents for Multiple A/V Files on Multiple Canvases,0.19075541609490124
+Audio Presentation with Accompanying Image,Basic Newspaper,0.16350092065812027
+Audio Presentation with Accompanying Image,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17574650671444472
+Audio Presentation with Accompanying Image,Image Thumbnail for Manifest,0.22494229590133732
+Audio Presentation with Accompanying Image,Displaying Multiple Values with Language Maps,0.19058326407693058
+Audio Presentation with Accompanying Image,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.18639941748497801
+Audio Presentation with Accompanying Image,Locate a Manifest on a Web Map,0.19917275777819027
+Audio Presentation with Accompanying Image,Load Manifest Beginning with a Specific Canvas,0.2731910113709589
+Audio Presentation with Accompanying Image,Using Caption and Subtitle Files with Video Content,0.18244781771408622
+Audio Presentation with Accompanying Image,Navigation by Chronology,0.1136690631494004
+Audio Presentation with Accompanying Image,Acknowledge Content Contributors,0.17700609750457297
+Audio Presentation with Accompanying Image,Locate Multiple Canvases on a Web Map,0.19327504462282458
+Audio Presentation with Accompanying Image,Annotation with a Non-Rectangular Polygon (Updated),0.1337986802357501
+Audio Presentation with Accompanying Image,Simplest Annotation,0.29015436142223844
+Audio Presentation with Accompanying Image,Embedded or referenced Annotations,0.15109561186716752
+Audio Presentation with Accompanying Image,Missing Images in a Sequence,0.24861166387378514
+Audio Presentation with Accompanying Image,Addressing a Spatial Region,0.2312344161628314
+Audio Presentation with Accompanying Image,Image in Annotations,0.27459264212272694
+Begin playback at a specific point - Time-based media,Simplest Manifest - Single Image File,0.1714822501131222
+Begin playback at a specific point - Time-based media,Simplest Manifest - Audio,0.16051435263452157
+Begin playback at a specific point - Time-based media,Simplest Manifest - Video,0.27779095106546303
+Begin playback at a specific point - Time-based media,Image and Canvas with Differing Dimensions,0.1929139046063792
+Begin playback at a specific point - Time-based media,Support Deep Viewing with Basic Use of a IIIF Image Service,0.20542530656591113
+Begin playback at a specific point - Time-based media,Internationalization and Multi-language Values,0.1360858561335215
+Begin playback at a specific point - Time-based media,Embedding HTML in descriptive properties,0.26151215234313735
+Begin playback at a specific point - Time-based media,Rights statement,0.29410818810500033
+Begin playback at a specific point - Time-based media,Simple Manifest - Book,0.19293377014550284
+Begin playback at a specific point - Time-based media,Viewing direction and Its Effect on Navigation,0.14994017843557297
+Begin playback at a specific point - Time-based media,"Book 'behavior' Variations (continuous, individuals)",0.1648814338796726
+Begin playback at a specific point - Time-based media,Load a Preview Image Before the Main Content,0.18770529535301433
+Begin playback at a specific point - Time-based media,Audio Presentation with Accompanying Image,0.1924121829183168
+Begin playback at a specific point - Time-based media,Providing Access to Transcript Files of A/V Content,0.19441089768710976
+Begin playback at a specific point - Time-based media,HTML in Annotations,0.1699039432658717
+Begin playback at a specific point - Time-based media,Simple Annotation — Tagging,0.18172163198488103
+Begin playback at a specific point - Time-based media,Table of Contents for Book Chapters,0.16722265007319392
+Begin playback at a specific point - Time-based media,Table of Contents for A/V Content,0.16646525255607977
+Begin playback at a specific point - Time-based media,Metadata on any Resource,0.15033026982675735
+Begin playback at a specific point - Time-based media,Multi-volume Work with Individually-bound Volumes,0.1088388942492184
+Begin playback at a specific point - Time-based media,Multiple Volumes in a Single Bound Volume,0.14894343036634017
+Begin playback at a specific point - Time-based media,Simple Collection,0.1479019982312307
+Begin playback at a specific point - Time-based media,Providing Alternative Representations,0.18703595305001366
+Begin playback at a specific point - Time-based media,Linking to Web Page of an Object,0.1778664344543509
+Begin playback at a specific point - Time-based media,Linking to Structured Metadata,0.18986757646291186
+Begin playback at a specific point - Time-based media,Table of Contents for Multiple A/V Files on a Single Canvas,0.1922937059274005
+Begin playback at a specific point - Time-based media,Table of Contents for Multiple A/V Files on Multiple Canvases,0.18129528368353573
+Begin playback at a specific point - Time-based media,Basic Newspaper,0.16565407055700648
+Begin playback at a specific point - Time-based media,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.16886204798860496
+Begin playback at a specific point - Time-based media,Image Thumbnail for Manifest,0.15003364856892296
+Begin playback at a specific point - Time-based media,Displaying Multiple Values with Language Maps,0.1642122226918905
+Begin playback at a specific point - Time-based media,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.14756360260711324
+Begin playback at a specific point - Time-based media,Locate a Manifest on a Web Map,0.15352857648779966
+Begin playback at a specific point - Time-based media,Load Manifest Beginning with a Specific Canvas,0.4379069744954912
+Begin playback at a specific point - Time-based media,Using Caption and Subtitle Files with Video Content,0.19484334073844248
+Begin playback at a specific point - Time-based media,Navigation by Chronology,0.09258371117069826
+Begin playback at a specific point - Time-based media,Acknowledge Content Contributors,0.13675395947215913
+Begin playback at a specific point - Time-based media,Locate Multiple Canvases on a Web Map,0.14721094280755287
+Begin playback at a specific point - Time-based media,Annotation with a Non-Rectangular Polygon (Updated),0.10959017786928446
+Begin playback at a specific point - Time-based media,Simplest Annotation,0.21540048732090403
+Begin playback at a specific point - Time-based media,Embedded or referenced Annotations,0.1268010631183187
+Begin playback at a specific point - Time-based media,Missing Images in a Sequence,0.168278886039892
+Begin playback at a specific point - Time-based media,Addressing a Spatial Region,0.17802681699102635
+Begin playback at a specific point - Time-based media,Image in Annotations,0.19597911943492496
+Providing Access to Transcript Files of A/V Content,Simplest Manifest - Single Image File,0.19285444277373706
+Providing Access to Transcript Files of A/V Content,Simplest Manifest - Audio,0.17825852476099915
+Providing Access to Transcript Files of A/V Content,Simplest Manifest - Video,0.29713348969037845
+Providing Access to Transcript Files of A/V Content,Image and Canvas with Differing Dimensions,0.23951086421787973
+Providing Access to Transcript Files of A/V Content,Support Deep Viewing with Basic Use of a IIIF Image Service,0.225263202880087
+Providing Access to Transcript Files of A/V Content,Internationalization and Multi-language Values,0.14820416735496766
+Providing Access to Transcript Files of A/V Content,Embedding HTML in descriptive properties,0.15483838819641674
+Providing Access to Transcript Files of A/V Content,Rights statement,0.15853395084278876
+Providing Access to Transcript Files of A/V Content,Simple Manifest - Book,0.21464453742732767
+Providing Access to Transcript Files of A/V Content,Viewing direction and Its Effect on Navigation,0.16581724566280054
+Providing Access to Transcript Files of A/V Content,"Book 'behavior' Variations (continuous, individuals)",0.18279039150430773
+Providing Access to Transcript Files of A/V Content,Load a Preview Image Before the Main Content,0.2051908653968834
+Providing Access to Transcript Files of A/V Content,Audio Presentation with Accompanying Image,0.19725601632043116
+Providing Access to Transcript Files of A/V Content,Begin playback at a specific point - Time-based media,0.19441089768710976
+Providing Access to Transcript Files of A/V Content,HTML in Annotations,0.17471090596721267
+Providing Access to Transcript Files of A/V Content,Simple Annotation — Tagging,0.1993727529131357
+Providing Access to Transcript Files of A/V Content,Table of Contents for Book Chapters,0.1836763831351379
+Providing Access to Transcript Files of A/V Content,Table of Contents for A/V Content,0.19337191424721373
+Providing Access to Transcript Files of A/V Content,Metadata on any Resource,0.13801960181454676
+Providing Access to Transcript Files of A/V Content,Multi-volume Work with Individually-bound Volumes,0.11676308624493709
+Providing Access to Transcript Files of A/V Content,Multiple Volumes in a Single Bound Volume,0.16446269762350152
+Providing Access to Transcript Files of A/V Content,Simple Collection,0.1564927925933613
+Providing Access to Transcript Files of A/V Content,Providing Alternative Representations,0.24544936906929762
+Providing Access to Transcript Files of A/V Content,Linking to Web Page of an Object,0.2027743079015512
+Providing Access to Transcript Files of A/V Content,Linking to Structured Metadata,0.21076073533653364
+Providing Access to Transcript Files of A/V Content,Table of Contents for Multiple A/V Files on a Single Canvas,0.22693432735686342
+Providing Access to Transcript Files of A/V Content,Table of Contents for Multiple A/V Files on Multiple Canvases,0.2166465427579083
+Providing Access to Transcript Files of A/V Content,Basic Newspaper,0.1479801079876179
+Providing Access to Transcript Files of A/V Content,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1840446268105677
+Providing Access to Transcript Files of A/V Content,Image Thumbnail for Manifest,0.16801951023653464
+Providing Access to Transcript Files of A/V Content,Displaying Multiple Values with Language Maps,0.15433708479627897
+Providing Access to Transcript Files of A/V Content,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1594960134236452
+Providing Access to Transcript Files of A/V Content,Locate a Manifest on a Web Map,0.1665977019643569
+Providing Access to Transcript Files of A/V Content,Load Manifest Beginning with a Specific Canvas,0.2139040770883907
+Providing Access to Transcript Files of A/V Content,Using Caption and Subtitle Files with Video Content,0.19988846287490147
+Providing Access to Transcript Files of A/V Content,Navigation by Chronology,0.09330525294545093
+Providing Access to Transcript Files of A/V Content,Acknowledge Content Contributors,0.15024554399472223
+Providing Access to Transcript Files of A/V Content,Locate Multiple Canvases on a Web Map,0.15897609805634882
+Providing Access to Transcript Files of A/V Content,Annotation with a Non-Rectangular Polygon (Updated),0.108534246949103
+Providing Access to Transcript Files of A/V Content,Simplest Annotation,0.23714484920893075
+Providing Access to Transcript Files of A/V Content,Embedded or referenced Annotations,0.13996299299202414
+Providing Access to Transcript Files of A/V Content,Missing Images in a Sequence,0.1863184645430689
+Providing Access to Transcript Files of A/V Content,Addressing a Spatial Region,0.18604437640254334
+Providing Access to Transcript Files of A/V Content,Image in Annotations,0.20861314024217412
+HTML in Annotations,Simplest Manifest - Single Image File,0.24095522934950458
+HTML in Annotations,Simplest Manifest - Audio,0.17188294977250018
+HTML in Annotations,Simplest Manifest - Video,0.1944127897248468
+HTML in Annotations,Image and Canvas with Differing Dimensions,0.2340630318958559
+HTML in Annotations,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3574301471594631
+HTML in Annotations,Internationalization and Multi-language Values,0.20022689575197575
+HTML in Annotations,Embedding HTML in descriptive properties,0.2543966675601166
+HTML in Annotations,Rights statement,0.2642696106753542
+HTML in Annotations,Simple Manifest - Book,0.2720851503401876
+HTML in Annotations,Viewing direction and Its Effect on Navigation,0.21333775197344382
+HTML in Annotations,"Book 'behavior' Variations (continuous, individuals)",0.23289630348985266
+HTML in Annotations,Load a Preview Image Before the Main Content,0.18224586105703766
+HTML in Annotations,Audio Presentation with Accompanying Image,0.20703110780265208
+HTML in Annotations,Begin playback at a specific point - Time-based media,0.1699039432658717
+HTML in Annotations,Providing Access to Transcript Files of A/V Content,0.17471090596721267
+HTML in Annotations,Simple Annotation — Tagging,0.30487700135252027
+HTML in Annotations,Table of Contents for Book Chapters,0.2293510791335101
+HTML in Annotations,Table of Contents for A/V Content,0.17909848133329323
+HTML in Annotations,Metadata on any Resource,0.2000497365512206
+HTML in Annotations,Multi-volume Work with Individually-bound Volumes,0.12915658494753837
+HTML in Annotations,Multiple Volumes in a Single Bound Volume,0.20712331330346084
+HTML in Annotations,Simple Collection,0.17369007731915423
+HTML in Annotations,Providing Alternative Representations,0.2649354141951341
+HTML in Annotations,Linking to Web Page of an Object,0.27274490057695494
+HTML in Annotations,Linking to Structured Metadata,0.26790305577318657
+HTML in Annotations,Table of Contents for Multiple A/V Files on a Single Canvas,0.19400458369194543
+HTML in Annotations,Table of Contents for Multiple A/V Files on Multiple Canvases,0.17878390018926463
+HTML in Annotations,Basic Newspaper,0.19364563536454496
+HTML in Annotations,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.20452527060986453
+HTML in Annotations,Image Thumbnail for Manifest,0.23359604116443072
+HTML in Annotations,Displaying Multiple Values with Language Maps,0.24220394159928157
+HTML in Annotations,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1982231805554618
+HTML in Annotations,Locate a Manifest on a Web Map,0.2094197766878226
+HTML in Annotations,Load Manifest Beginning with a Specific Canvas,0.27102046686772535
+HTML in Annotations,Using Caption and Subtitle Files with Video Content,0.18918607049880487
+HTML in Annotations,Navigation by Chronology,0.11680352321786935
+HTML in Annotations,Acknowledge Content Contributors,0.21215201746475382
+HTML in Annotations,Locate Multiple Canvases on a Web Map,0.20263716699592785
+HTML in Annotations,Annotation with a Non-Rectangular Polygon (Updated),0.17852310707079377
+HTML in Annotations,Simplest Annotation,0.4208072115514983
+HTML in Annotations,Embedded or referenced Annotations,0.3160275911640481
+HTML in Annotations,Missing Images in a Sequence,0.24609053139575995
+HTML in Annotations,Addressing a Spatial Region,0.22830463928185685
+HTML in Annotations,Image in Annotations,0.47034248459823874
+Simple Annotation — Tagging,Simplest Manifest - Single Image File,0.30010707735598735
+Simple Annotation — Tagging,Simplest Manifest - Audio,0.19611928790840819
+Simple Annotation — Tagging,Simplest Manifest - Video,0.22200889048342554
+Simple Annotation — Tagging,Image and Canvas with Differing Dimensions,0.2769257107957747
+Simple Annotation — Tagging,Support Deep Viewing with Basic Use of a IIIF Image Service,0.4415033272865693
+Simple Annotation — Tagging,Internationalization and Multi-language Values,0.2273766606707545
+Simple Annotation — Tagging,Embedding HTML in descriptive properties,0.28338214060193195
+Simple Annotation — Tagging,Rights statement,0.29101415605152037
+Simple Annotation — Tagging,Simple Manifest - Book,0.32647149061970976
+Simple Annotation — Tagging,Viewing direction and Its Effect on Navigation,0.25167109545589994
+Simple Annotation — Tagging,"Book 'behavior' Variations (continuous, individuals)",0.2725662815503356
+Simple Annotation — Tagging,Load a Preview Image Before the Main Content,0.2040491398455064
+Simple Annotation — Tagging,Audio Presentation with Accompanying Image,0.24670331742399157
+Simple Annotation — Tagging,Begin playback at a specific point - Time-based media,0.18172163198488103
+Simple Annotation — Tagging,Providing Access to Transcript Files of A/V Content,0.1993727529131357
+Simple Annotation — Tagging,HTML in Annotations,0.30487700135252027
+Simple Annotation — Tagging,Table of Contents for Book Chapters,0.2695465557218572
+Simple Annotation — Tagging,Table of Contents for A/V Content,0.20103825440433268
+Simple Annotation — Tagging,Metadata on any Resource,0.21225989074424617
+Simple Annotation — Tagging,Multi-volume Work with Individually-bound Volumes,0.1509175430592423
+Simple Annotation — Tagging,Multiple Volumes in a Single Bound Volume,0.24305339901064793
+Simple Annotation — Tagging,Simple Collection,0.20101378139816584
+Simple Annotation — Tagging,Providing Alternative Representations,0.31228825310400316
+Simple Annotation — Tagging,Linking to Web Page of an Object,0.27752206074106034
+Simple Annotation — Tagging,Linking to Structured Metadata,0.31579015144877776
+Simple Annotation — Tagging,Table of Contents for Multiple A/V Files on a Single Canvas,0.2094873598058159
+Simple Annotation — Tagging,Table of Contents for Multiple A/V Files on Multiple Canvases,0.19906586969839785
+Simple Annotation — Tagging,Basic Newspaper,0.2262213054431075
+Simple Annotation — Tagging,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.2064197314910058
+Simple Annotation — Tagging,Image Thumbnail for Manifest,0.26595965889098566
+Simple Annotation — Tagging,Displaying Multiple Values with Language Maps,0.20927098814859169
+Simple Annotation — Tagging,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.2319583384597653
+Simple Annotation — Tagging,Locate a Manifest on a Web Map,0.23579855683786224
+Simple Annotation — Tagging,Load Manifest Beginning with a Specific Canvas,0.313006512751844
+Simple Annotation — Tagging,Using Caption and Subtitle Files with Video Content,0.19456792105964305
+Simple Annotation — Tagging,Navigation by Chronology,0.1374159281652418
+Simple Annotation — Tagging,Acknowledge Content Contributors,0.20602365799904834
+Simple Annotation — Tagging,Locate Multiple Canvases on a Web Map,0.2269690099519313
+Simple Annotation — Tagging,Annotation with a Non-Rectangular Polygon (Updated),0.216633588909462
+Simple Annotation — Tagging,Simplest Annotation,0.3911317767908972
+Simple Annotation — Tagging,Embedded or referenced Annotations,0.22067003147878458
+Simple Annotation — Tagging,Missing Images in a Sequence,0.29669002648390674
+Simple Annotation — Tagging,Addressing a Spatial Region,0.284525953339442
+Simple Annotation — Tagging,Image in Annotations,0.39290233046185064
+Table of Contents for Book Chapters,Simplest Manifest - Single Image File,0.27359468705676615
+Table of Contents for Book Chapters,Simplest Manifest - Audio,0.18173918162900593
+Table of Contents for Book Chapters,Simplest Manifest - Video,0.20700842594338195
+Table of Contents for Book Chapters,Image and Canvas with Differing Dimensions,0.2527228717471382
+Table of Contents for Book Chapters,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3486233766564283
+Table of Contents for Book Chapters,Internationalization and Multi-language Values,0.18867493972371205
+Table of Contents for Book Chapters,Embedding HTML in descriptive properties,0.21377863274317932
+Table of Contents for Book Chapters,Rights statement,0.21940616966027568
+Table of Contents for Book Chapters,Simple Manifest - Book,0.48694508978271017
+Table of Contents for Book Chapters,Viewing direction and Its Effect on Navigation,0.3755434344265231
+Table of Contents for Book Chapters,"Book 'behavior' Variations (continuous, individuals)",0.430570312179567
+Table of Contents for Book Chapters,Load a Preview Image Before the Main Content,0.19288437934178138
+Table of Contents for Book Chapters,Audio Presentation with Accompanying Image,0.2296497763629996
+Table of Contents for Book Chapters,Begin playback at a specific point - Time-based media,0.16722265007319392
+Table of Contents for Book Chapters,Providing Access to Transcript Files of A/V Content,0.1836763831351379
+Table of Contents for Book Chapters,HTML in Annotations,0.2293510791335101
+Table of Contents for Book Chapters,Simple Annotation — Tagging,0.2695465557218572
+Table of Contents for Book Chapters,Table of Contents for A/V Content,0.44069490709082354
+Table of Contents for Book Chapters,Metadata on any Resource,0.19513697299998417
+Table of Contents for Book Chapters,Multi-volume Work with Individually-bound Volumes,0.13574919297503393
+Table of Contents for Book Chapters,Multiple Volumes in a Single Bound Volume,0.2490867088217119
+Table of Contents for Book Chapters,Simple Collection,0.18068375552940522
+Table of Contents for Book Chapters,Providing Alternative Representations,0.3066684915984527
+Table of Contents for Book Chapters,Linking to Web Page of an Object,0.2615606194883351
+Table of Contents for Book Chapters,Linking to Structured Metadata,0.3100811195029585
+Table of Contents for Book Chapters,Table of Contents for Multiple A/V Files on a Single Canvas,0.22615667777855422
+Table of Contents for Book Chapters,Table of Contents for Multiple A/V Files on Multiple Canvases,0.20955013131849148
+Table of Contents for Book Chapters,Basic Newspaper,0.17186433583694102
+Table of Contents for Book Chapters,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17557050652132214
+Table of Contents for Book Chapters,Image Thumbnail for Manifest,0.2610167148385022
+Table of Contents for Book Chapters,Displaying Multiple Values with Language Maps,0.1923164713915149
+Table of Contents for Book Chapters,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.20036375421825903
+Table of Contents for Book Chapters,Locate a Manifest on a Web Map,0.22297071170744792
+Table of Contents for Book Chapters,Load Manifest Beginning with a Specific Canvas,0.32038419365550863
+Table of Contents for Book Chapters,Using Caption and Subtitle Files with Video Content,0.1785516098787462
+Table of Contents for Book Chapters,Navigation by Chronology,0.13155929725916393
+Table of Contents for Book Chapters,Acknowledge Content Contributors,0.19701084156258072
+Table of Contents for Book Chapters,Locate Multiple Canvases on a Web Map,0.21753148627808977
+Table of Contents for Book Chapters,Annotation with a Non-Rectangular Polygon (Updated),0.1462036046393128
+Table of Contents for Book Chapters,Simplest Annotation,0.3135904275651314
+Table of Contents for Book Chapters,Embedded or referenced Annotations,0.15925550881674438
+Table of Contents for Book Chapters,Missing Images in a Sequence,0.3711070224792394
+Table of Contents for Book Chapters,Addressing a Spatial Region,0.2625889741903586
+Table of Contents for Book Chapters,Image in Annotations,0.31149095436552526
+Table of Contents for A/V Content,Simplest Manifest - Single Image File,0.19153993280734796
+Table of Contents for A/V Content,Simplest Manifest - Audio,0.16616067250283378
+Table of Contents for A/V Content,Simplest Manifest - Video,0.22054715035994646
+Table of Contents for A/V Content,Image and Canvas with Differing Dimensions,0.2583556806690879
+Table of Contents for A/V Content,Support Deep Viewing with Basic Use of a IIIF Image Service,0.23017292032513634
+Table of Contents for A/V Content,Internationalization and Multi-language Values,0.1372783200803007
+Table of Contents for A/V Content,Embedding HTML in descriptive properties,0.15721482511038
+Table of Contents for A/V Content,Rights statement,0.16097890754444183
+Table of Contents for A/V Content,Simple Manifest - Book,0.21766180201702673
+Table of Contents for A/V Content,Viewing direction and Its Effect on Navigation,0.1685143322789685
+Table of Contents for A/V Content,"Book 'behavior' Variations (continuous, individuals)",0.18666865624086354
+Table of Contents for A/V Content,Load a Preview Image Before the Main Content,0.21551264540795043
+Table of Contents for A/V Content,Audio Presentation with Accompanying Image,0.18623319483342338
+Table of Contents for A/V Content,Begin playback at a specific point - Time-based media,0.16646525255607977
+Table of Contents for A/V Content,Providing Access to Transcript Files of A/V Content,0.19337191424721373
+Table of Contents for A/V Content,HTML in Annotations,0.17909848133329323
+Table of Contents for A/V Content,Simple Annotation — Tagging,0.20103825440433268
+Table of Contents for A/V Content,Table of Contents for Book Chapters,0.44069490709082354
+Table of Contents for A/V Content,Metadata on any Resource,0.15543017404271353
+Table of Contents for A/V Content,Multi-volume Work with Individually-bound Volumes,0.12176665794315647
+Table of Contents for A/V Content,Multiple Volumes in a Single Bound Volume,0.19082731607689554
+Table of Contents for A/V Content,Simple Collection,0.15986991411214216
+Table of Contents for A/V Content,Providing Alternative Representations,0.20988354108940513
+Table of Contents for A/V Content,Linking to Web Page of an Object,0.19609709723503638
+Table of Contents for A/V Content,Linking to Structured Metadata,0.21207421881755303
+Table of Contents for A/V Content,Table of Contents for Multiple A/V Files on a Single Canvas,0.502609357877486
+Table of Contents for A/V Content,Table of Contents for Multiple A/V Files on Multiple Canvases,0.4558978570299534
+Table of Contents for A/V Content,Basic Newspaper,0.1466633946917519
+Table of Contents for A/V Content,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17289558877608288
+Table of Contents for A/V Content,Image Thumbnail for Manifest,0.16585416416463825
+Table of Contents for A/V Content,Displaying Multiple Values with Language Maps,0.1559519090087018
+Table of Contents for A/V Content,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.16128218233667613
+Table of Contents for A/V Content,Locate a Manifest on a Web Map,0.18371701291403886
+Table of Contents for A/V Content,Load Manifest Beginning with a Specific Canvas,0.21885579796493504
+Table of Contents for A/V Content,Using Caption and Subtitle Files with Video Content,0.1684837044658032
+Table of Contents for A/V Content,Navigation by Chronology,0.09384561179367733
+Table of Contents for A/V Content,Acknowledge Content Contributors,0.14473892705530514
+Table of Contents for A/V Content,Locate Multiple Canvases on a Web Map,0.16827361255318013
+Table of Contents for A/V Content,Annotation with a Non-Rectangular Polygon (Updated),0.10943798852692879
+Table of Contents for A/V Content,Simplest Annotation,0.2415858193616752
+Table of Contents for A/V Content,Embedded or referenced Annotations,0.13700021843380497
+Table of Contents for A/V Content,Missing Images in a Sequence,0.19021011800245077
+Table of Contents for A/V Content,Addressing a Spatial Region,0.18846823653097378
+Table of Contents for A/V Content,Image in Annotations,0.21529414750463952
+Metadata on any Resource,Simplest Manifest - Single Image File,0.2115910534540032
+Metadata on any Resource,Simplest Manifest - Audio,0.1294064086526015
+Metadata on any Resource,Simplest Manifest - Video,0.14792624630674722
+Metadata on any Resource,Image and Canvas with Differing Dimensions,0.19722515654390574
+Metadata on any Resource,Support Deep Viewing with Basic Use of a IIIF Image Service,0.2817246303715064
+Metadata on any Resource,Internationalization and Multi-language Values,0.19928384096125074
+Metadata on any Resource,Embedding HTML in descriptive properties,0.21704492250608615
+Metadata on any Resource,Rights statement,0.20780088376079794
+Metadata on any Resource,Simple Manifest - Book,0.2340173945025029
+Metadata on any Resource,Viewing direction and Its Effect on Navigation,0.19751093341583983
+Metadata on any Resource,"Book 'behavior' Variations (continuous, individuals)",0.19489729468850486
+Metadata on any Resource,Load a Preview Image Before the Main Content,0.13995005819591835
+Metadata on any Resource,Audio Presentation with Accompanying Image,0.17742452528716438
+Metadata on any Resource,Begin playback at a specific point - Time-based media,0.15033026982675735
+Metadata on any Resource,Providing Access to Transcript Files of A/V Content,0.13801960181454676
+Metadata on any Resource,HTML in Annotations,0.2000497365512206
+Metadata on any Resource,Simple Annotation — Tagging,0.21225989074424617
+Metadata on any Resource,Table of Contents for Book Chapters,0.19513697299998417
+Metadata on any Resource,Table of Contents for A/V Content,0.15543017404271353
+Metadata on any Resource,Multi-volume Work with Individually-bound Volumes,0.10338408278154927
+Metadata on any Resource,Multiple Volumes in a Single Bound Volume,0.17312646182787078
+Metadata on any Resource,Simple Collection,0.18003076496710244
+Metadata on any Resource,Providing Alternative Representations,0.24142439013458186
+Metadata on any Resource,Linking to Web Page of an Object,0.21189997944803468
+Metadata on any Resource,Linking to Structured Metadata,0.25506798957071186
+Metadata on any Resource,Table of Contents for Multiple A/V Files on a Single Canvas,0.17494037656386657
+Metadata on any Resource,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1633296518316947
+Metadata on any Resource,Basic Newspaper,0.13702447759919298
+Metadata on any Resource,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1441010673689987
+Metadata on any Resource,Image Thumbnail for Manifest,0.23335588801161194
+Metadata on any Resource,Displaying Multiple Values with Language Maps,0.20393410595927203
+Metadata on any Resource,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.16506002393148284
+Metadata on any Resource,Locate a Manifest on a Web Map,0.17869322445706745
+Metadata on any Resource,Load Manifest Beginning with a Specific Canvas,0.22713292656421197
+Metadata on any Resource,Using Caption and Subtitle Files with Video Content,0.1314872214999848
+Metadata on any Resource,Navigation by Chronology,0.11027366368824487
+Metadata on any Resource,Acknowledge Content Contributors,0.20321357202723922
+Metadata on any Resource,Locate Multiple Canvases on a Web Map,0.20231944008156885
+Metadata on any Resource,Annotation with a Non-Rectangular Polygon (Updated),0.12065604944866203
+Metadata on any Resource,Simplest Annotation,0.2377146001736917
+Metadata on any Resource,Embedded or referenced Annotations,0.12613703397515877
+Metadata on any Resource,Missing Images in a Sequence,0.2324326833669164
+Metadata on any Resource,Addressing a Spatial Region,0.1926571075529977
+Metadata on any Resource,Image in Annotations,0.2868135077579823
+Multi-volume Work with Individually-bound Volumes,Simplest Manifest - Single Image File,0.1483366851859785
+Multi-volume Work with Individually-bound Volumes,Simplest Manifest - Audio,0.11692432602182563
+Multi-volume Work with Individually-bound Volumes,Simplest Manifest - Video,0.129839420420089
+Multi-volume Work with Individually-bound Volumes,Image and Canvas with Differing Dimensions,0.1410858629811608
+Multi-volume Work with Individually-bound Volumes,Support Deep Viewing with Basic Use of a IIIF Image Service,0.17508759162927884
+Multi-volume Work with Individually-bound Volumes,Internationalization and Multi-language Values,0.10528995918998996
+Multi-volume Work with Individually-bound Volumes,Embedding HTML in descriptive properties,0.12063248337604184
+Multi-volume Work with Individually-bound Volumes,Rights statement,0.12292815701581802
+Multi-volume Work with Individually-bound Volumes,Simple Manifest - Book,0.15936838802152706
+Multi-volume Work with Individually-bound Volumes,Viewing direction and Its Effect on Navigation,0.12093961238706795
+Multi-volume Work with Individually-bound Volumes,"Book 'behavior' Variations (continuous, individuals)",0.17914847624210684
+Multi-volume Work with Individually-bound Volumes,Load a Preview Image Before the Main Content,0.11400387912832105
+Multi-volume Work with Individually-bound Volumes,Audio Presentation with Accompanying Image,0.12683252677634935
+Multi-volume Work with Individually-bound Volumes,Begin playback at a specific point - Time-based media,0.1088388942492184
+Multi-volume Work with Individually-bound Volumes,Providing Access to Transcript Files of A/V Content,0.11676308624493709
+Multi-volume Work with Individually-bound Volumes,HTML in Annotations,0.12915658494753837
+Multi-volume Work with Individually-bound Volumes,Simple Annotation — Tagging,0.1509175430592423
+Multi-volume Work with Individually-bound Volumes,Table of Contents for Book Chapters,0.13574919297503393
+Multi-volume Work with Individually-bound Volumes,Table of Contents for A/V Content,0.12176665794315647
+Multi-volume Work with Individually-bound Volumes,Metadata on any Resource,0.10338408278154927
+Multi-volume Work with Individually-bound Volumes,Multiple Volumes in a Single Bound Volume,0.1315191209621012
+Multi-volume Work with Individually-bound Volumes,Simple Collection,0.26023410452495
+Multi-volume Work with Individually-bound Volumes,Providing Alternative Representations,0.15081691974767425
+Multi-volume Work with Individually-bound Volumes,Linking to Web Page of an Object,0.1680400468377266
+Multi-volume Work with Individually-bound Volumes,Linking to Structured Metadata,0.15253288419873645
+Multi-volume Work with Individually-bound Volumes,Table of Contents for Multiple A/V Files on a Single Canvas,0.1177487128033753
+Multi-volume Work with Individually-bound Volumes,Table of Contents for Multiple A/V Files on Multiple Canvases,0.11622087708973224
+Multi-volume Work with Individually-bound Volumes,Basic Newspaper,0.11561777769172432
+Multi-volume Work with Individually-bound Volumes,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.11543473778680438
+Multi-volume Work with Individually-bound Volumes,Image Thumbnail for Manifest,0.12652943070823403
+Multi-volume Work with Individually-bound Volumes,Displaying Multiple Values with Language Maps,0.11377600975618757
+Multi-volume Work with Individually-bound Volumes,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.12479573288351872
+Multi-volume Work with Individually-bound Volumes,Locate a Manifest on a Web Map,0.14394645596310626
+Multi-volume Work with Individually-bound Volumes,Load Manifest Beginning with a Specific Canvas,0.14584463575895482
+Multi-volume Work with Individually-bound Volumes,Using Caption and Subtitle Files with Video Content,0.11017691684311479
+Multi-volume Work with Individually-bound Volumes,Navigation by Chronology,0.10038365116464389
+Multi-volume Work with Individually-bound Volumes,Acknowledge Content Contributors,0.10778016669358281
+Multi-volume Work with Individually-bound Volumes,Locate Multiple Canvases on a Web Map,0.13276282243809756
+Multi-volume Work with Individually-bound Volumes,Annotation with a Non-Rectangular Polygon (Updated),0.08251182801445076
+Multi-volume Work with Individually-bound Volumes,Simplest Annotation,0.15974361469255347
+Multi-volume Work with Individually-bound Volumes,Embedded or referenced Annotations,0.10913777391989773
+Multi-volume Work with Individually-bound Volumes,Missing Images in a Sequence,0.13788868027356238
+Multi-volume Work with Individually-bound Volumes,Addressing a Spatial Region,0.15016074825404305
+Multi-volume Work with Individually-bound Volumes,Image in Annotations,0.153383528701978
+Multiple Volumes in a Single Bound Volume,Simplest Manifest - Single Image File,0.24546911768187593
+Multiple Volumes in a Single Bound Volume,Simplest Manifest - Audio,0.16300104742779253
+Multiple Volumes in a Single Bound Volume,Simplest Manifest - Video,0.18574149095882753
+Multiple Volumes in a Single Bound Volume,Image and Canvas with Differing Dimensions,0.2265729188882273
+Multiple Volumes in a Single Bound Volume,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3125017590760844
+Multiple Volumes in a Single Bound Volume,Internationalization and Multi-language Values,0.17253940117120897
+Multiple Volumes in a Single Bound Volume,Embedding HTML in descriptive properties,0.19067943538742074
+Multiple Volumes in a Single Bound Volume,Rights statement,0.19822005723556502
+Multiple Volumes in a Single Bound Volume,Simple Manifest - Book,0.2894205793408112
+Multiple Volumes in a Single Bound Volume,Viewing direction and Its Effect on Navigation,0.22328848119211556
+Multiple Volumes in a Single Bound Volume,"Book 'behavior' Variations (continuous, individuals)",0.23901803393774534
+Multiple Volumes in a Single Bound Volume,Load a Preview Image Before the Main Content,0.1720092368140003
+Multiple Volumes in a Single Bound Volume,Audio Presentation with Accompanying Image,0.20600793498469905
+Multiple Volumes in a Single Bound Volume,Begin playback at a specific point - Time-based media,0.14894343036634017
+Multiple Volumes in a Single Bound Volume,Providing Access to Transcript Files of A/V Content,0.16446269762350152
+Multiple Volumes in a Single Bound Volume,HTML in Annotations,0.20712331330346084
+Multiple Volumes in a Single Bound Volume,Simple Annotation — Tagging,0.24305339901064793
+Multiple Volumes in a Single Bound Volume,Table of Contents for Book Chapters,0.2490867088217119
+Multiple Volumes in a Single Bound Volume,Table of Contents for A/V Content,0.19082731607689554
+Multiple Volumes in a Single Bound Volume,Metadata on any Resource,0.17312646182787078
+Multiple Volumes in a Single Bound Volume,Multi-volume Work with Individually-bound Volumes,0.1315191209621012
+Multiple Volumes in a Single Bound Volume,Simple Collection,0.1596426644164665
+Multiple Volumes in a Single Bound Volume,Providing Alternative Representations,0.2765158988667381
+Multiple Volumes in a Single Bound Volume,Linking to Web Page of an Object,0.23633762947446427
+Multiple Volumes in a Single Bound Volume,Linking to Structured Metadata,0.2795959494491316
+Multiple Volumes in a Single Bound Volume,Table of Contents for Multiple A/V Files on a Single Canvas,0.1976602798495356
+Multiple Volumes in a Single Bound Volume,Table of Contents for Multiple A/V Files on Multiple Canvases,0.18296091472909032
+Multiple Volumes in a Single Bound Volume,Basic Newspaper,0.16301760729117168
+Multiple Volumes in a Single Bound Volume,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.15681047877613888
+Multiple Volumes in a Single Bound Volume,Image Thumbnail for Manifest,0.23869996752266315
+Multiple Volumes in a Single Bound Volume,Displaying Multiple Values with Language Maps,0.17656141201230566
+Multiple Volumes in a Single Bound Volume,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.17909822774759052
+Multiple Volumes in a Single Bound Volume,Locate a Manifest on a Web Map,0.20006641536543765
+Multiple Volumes in a Single Bound Volume,Load Manifest Beginning with a Specific Canvas,0.28275177062026147
+Multiple Volumes in a Single Bound Volume,Using Caption and Subtitle Files with Video Content,0.15961821860546913
+Multiple Volumes in a Single Bound Volume,Navigation by Chronology,0.11717846189587824
+Multiple Volumes in a Single Bound Volume,Acknowledge Content Contributors,0.1791985274164275
+Multiple Volumes in a Single Bound Volume,Locate Multiple Canvases on a Web Map,0.19470759365990994
+Multiple Volumes in a Single Bound Volume,Annotation with a Non-Rectangular Polygon (Updated),0.13180217313044035
+Multiple Volumes in a Single Bound Volume,Simplest Annotation,0.28221561884743795
+Multiple Volumes in a Single Bound Volume,Embedded or referenced Annotations,0.1450192197235059
+Multiple Volumes in a Single Bound Volume,Missing Images in a Sequence,0.26500171659218935
+Multiple Volumes in a Single Bound Volume,Addressing a Spatial Region,0.2309976124909895
+Multiple Volumes in a Single Bound Volume,Image in Annotations,0.27873433562268535
+Simple Collection,Simplest Manifest - Single Image File,0.20002139310911168
+Simple Collection,Simplest Manifest - Audio,0.15636159606680153
+Simple Collection,Simplest Manifest - Video,0.17363280764589517
+Simple Collection,Image and Canvas with Differing Dimensions,0.1869257702198074
+Simple Collection,Support Deep Viewing with Basic Use of a IIIF Image Service,0.2399302979478753
+Simple Collection,Internationalization and Multi-language Values,0.15444615678555723
+Simple Collection,Embedding HTML in descriptive properties,0.17220411786793785
+Simple Collection,Rights statement,0.17357257976221419
+Simple Collection,Simple Manifest - Book,0.21414916620717683
+Simple Collection,Viewing direction and Its Effect on Navigation,0.1634312792397833
+Simple Collection,"Book 'behavior' Variations (continuous, individuals)",0.1804822855122574
+Simple Collection,Load a Preview Image Before the Main Content,0.14868167942418864
+Simple Collection,Audio Presentation with Accompanying Image,0.16990422552501108
+Simple Collection,Begin playback at a specific point - Time-based media,0.1479019982312307
+Simple Collection,Providing Access to Transcript Files of A/V Content,0.1564927925933613
+Simple Collection,HTML in Annotations,0.17369007731915423
+Simple Collection,Simple Annotation — Tagging,0.20101378139816584
+Simple Collection,Table of Contents for Book Chapters,0.18068375552940522
+Simple Collection,Table of Contents for A/V Content,0.15986991411214216
+Simple Collection,Metadata on any Resource,0.18003076496710244
+Simple Collection,Multi-volume Work with Individually-bound Volumes,0.26023410452495
+Simple Collection,Multiple Volumes in a Single Bound Volume,0.1596426644164665
+Simple Collection,Providing Alternative Representations,0.20427503748143094
+Simple Collection,Linking to Web Page of an Object,0.27911702466423705
+Simple Collection,Linking to Structured Metadata,0.2065842380487492
+Simple Collection,Table of Contents for Multiple A/V Files on a Single Canvas,0.15763409603217943
+Simple Collection,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1578480568946108
+Simple Collection,Basic Newspaper,0.15327528385594452
+Simple Collection,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.15764034911627842
+Simple Collection,Image Thumbnail for Manifest,0.17797190438623076
+Simple Collection,Displaying Multiple Values with Language Maps,0.16091085062434649
+Simple Collection,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.173158199954701
+Simple Collection,Locate a Manifest on a Web Map,0.21144174281180955
+Simple Collection,Load Manifest Beginning with a Specific Canvas,0.1948918304874286
+Simple Collection,Using Caption and Subtitle Files with Video Content,0.14728955214423162
+Simple Collection,Navigation by Chronology,0.19588803707656774
+Simple Collection,Acknowledge Content Contributors,0.15528145604919158
+Simple Collection,Locate Multiple Canvases on a Web Map,0.19788946850636066
+Simple Collection,Annotation with a Non-Rectangular Polygon (Updated),0.10977064013190181
+Simple Collection,Simplest Annotation,0.21276961837999717
+Simple Collection,Embedded or referenced Annotations,0.13892448395782164
+Simple Collection,Missing Images in a Sequence,0.1877013116849967
+Simple Collection,Addressing a Spatial Region,0.1991547892318617
+Simple Collection,Image in Annotations,0.20975826760336927
+Providing Alternative Representations,Simplest Manifest - Single Image File,0.32190072104705647
+Providing Alternative Representations,Simplest Manifest - Audio,0.2019533963268633
+Providing Alternative Representations,Simplest Manifest - Video,0.2316684637696254
+Providing Alternative Representations,Image and Canvas with Differing Dimensions,0.28780332296927374
+Providing Alternative Representations,Support Deep Viewing with Basic Use of a IIIF Image Service,0.4149837876507735
+Providing Alternative Representations,Internationalization and Multi-language Values,0.2251714488933777
+Providing Alternative Representations,Embedding HTML in descriptive properties,0.25084366131529795
+Providing Alternative Representations,Rights statement,0.2574566521932493
+Providing Alternative Representations,Simple Manifest - Book,0.3771183409371379
+Providing Alternative Representations,Viewing direction and Its Effect on Navigation,0.362226358738234
+Providing Alternative Representations,"Book 'behavior' Variations (continuous, individuals)",0.3115386660739693
+Providing Alternative Representations,Load a Preview Image Before the Main Content,0.2170059220689566
+Providing Alternative Representations,Audio Presentation with Accompanying Image,0.26369198282540474
+Providing Alternative Representations,Begin playback at a specific point - Time-based media,0.18703595305001366
+Providing Alternative Representations,Providing Access to Transcript Files of A/V Content,0.24544936906929762
+Providing Alternative Representations,HTML in Annotations,0.2649354141951341
+Providing Alternative Representations,Simple Annotation — Tagging,0.31228825310400316
+Providing Alternative Representations,Table of Contents for Book Chapters,0.3066684915984527
+Providing Alternative Representations,Table of Contents for A/V Content,0.20988354108940513
+Providing Alternative Representations,Metadata on any Resource,0.24142439013458186
+Providing Alternative Representations,Multi-volume Work with Individually-bound Volumes,0.15081691974767425
+Providing Alternative Representations,Multiple Volumes in a Single Bound Volume,0.2765158988667381
+Providing Alternative Representations,Simple Collection,0.20427503748143094
+Providing Alternative Representations,Linking to Web Page of an Object,0.3059443197873644
+Providing Alternative Representations,Linking to Structured Metadata,0.4525135556385855
+Providing Alternative Representations,Table of Contents for Multiple A/V Files on a Single Canvas,0.22203312266454026
+Providing Alternative Representations,Table of Contents for Multiple A/V Files on Multiple Canvases,0.21118344803613331
+Providing Alternative Representations,Basic Newspaper,0.19133582186714734
+Providing Alternative Representations,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.19841919105916475
+Providing Alternative Representations,Image Thumbnail for Manifest,0.4193466596992869
+Providing Alternative Representations,Displaying Multiple Values with Language Maps,0.22422363657549402
+Providing Alternative Representations,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.2300279535286292
+Providing Alternative Representations,Locate a Manifest on a Web Map,0.2575854297739384
+Providing Alternative Representations,Load Manifest Beginning with a Specific Canvas,0.3624477307308587
+Providing Alternative Representations,Using Caption and Subtitle Files with Video Content,0.19991502515913812
+Providing Alternative Representations,Navigation by Chronology,0.1613365704359184
+Providing Alternative Representations,Acknowledge Content Contributors,0.30008811648039
+Providing Alternative Representations,Locate Multiple Canvases on a Web Map,0.25590863351853543
+Providing Alternative Representations,Annotation with a Non-Rectangular Polygon (Updated),0.1692636396062495
+Providing Alternative Representations,Simplest Annotation,0.3562962233448977
+Providing Alternative Representations,Embedded or referenced Annotations,0.1780541432283307
+Providing Alternative Representations,Missing Images in a Sequence,0.35082745589689485
+Providing Alternative Representations,Addressing a Spatial Region,0.29934325455836513
+Providing Alternative Representations,Image in Annotations,0.3719612907566273
+Linking to Web Page of an Object,Simplest Manifest - Single Image File,0.27527028331197406
+Linking to Web Page of an Object,Simplest Manifest - Audio,0.19265387407250723
+Linking to Web Page of an Object,Simplest Manifest - Video,0.2193320696220927
+Linking to Web Page of an Object,Image and Canvas with Differing Dimensions,0.2615189526014321
+Linking to Web Page of an Object,Support Deep Viewing with Basic Use of a IIIF Image Service,0.350603764807691
+Linking to Web Page of an Object,Internationalization and Multi-language Values,0.234943580008198
+Linking to Web Page of an Object,Embedding HTML in descriptive properties,0.22906435213508683
+Linking to Web Page of an Object,Rights statement,0.22556688250456203
+Linking to Web Page of an Object,Simple Manifest - Book,0.3169466357844159
+Linking to Web Page of an Object,Viewing direction and Its Effect on Navigation,0.24552283134810032
+Linking to Web Page of an Object,"Book 'behavior' Variations (continuous, individuals)",0.2692381861219696
+Linking to Web Page of an Object,Load a Preview Image Before the Main Content,0.19661105683381325
+Linking to Web Page of an Object,Audio Presentation with Accompanying Image,0.23667347014190224
+Linking to Web Page of an Object,Begin playback at a specific point - Time-based media,0.1778664344543509
+Linking to Web Page of an Object,Providing Access to Transcript Files of A/V Content,0.2027743079015512
+Linking to Web Page of an Object,HTML in Annotations,0.27274490057695494
+Linking to Web Page of an Object,Simple Annotation — Tagging,0.27752206074106034
+Linking to Web Page of an Object,Table of Contents for Book Chapters,0.2615606194883351
+Linking to Web Page of an Object,Table of Contents for A/V Content,0.19609709723503638
+Linking to Web Page of an Object,Metadata on any Resource,0.21189997944803468
+Linking to Web Page of an Object,Multi-volume Work with Individually-bound Volumes,0.1680400468377266
+Linking to Web Page of an Object,Multiple Volumes in a Single Bound Volume,0.23633762947446427
+Linking to Web Page of an Object,Simple Collection,0.27911702466423705
+Linking to Web Page of an Object,Providing Alternative Representations,0.3059443197873644
+Linking to Web Page of an Object,Linking to Structured Metadata,0.31058909533170936
+Linking to Web Page of an Object,Table of Contents for Multiple A/V Files on a Single Canvas,0.20887419131757978
+Linking to Web Page of an Object,Table of Contents for Multiple A/V Files on Multiple Canvases,0.19496817617398682
+Linking to Web Page of an Object,Basic Newspaper,0.19621403386435876
+Linking to Web Page of an Object,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.21031555705010066
+Linking to Web Page of an Object,Image Thumbnail for Manifest,0.27189102922154196
+Linking to Web Page of an Object,Displaying Multiple Values with Language Maps,0.20364681578813204
+Linking to Web Page of an Object,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.21539943371271347
+Linking to Web Page of an Object,Locate a Manifest on a Web Map,0.30164078951629475
+Linking to Web Page of an Object,Load Manifest Beginning with a Specific Canvas,0.30982348508902335
+Linking to Web Page of an Object,Using Caption and Subtitle Files with Video Content,0.1934475853145734
+Linking to Web Page of an Object,Navigation by Chronology,0.1496987617953454
+Linking to Web Page of an Object,Acknowledge Content Contributors,0.2576633541811881
+Linking to Web Page of an Object,Locate Multiple Canvases on a Web Map,0.26527544026650096
+Linking to Web Page of an Object,Annotation with a Non-Rectangular Polygon (Updated),0.1542464335200272
+Linking to Web Page of an Object,Simplest Annotation,0.32635243827958865
+Linking to Web Page of an Object,Embedded or referenced Annotations,0.1772810450059015
+Linking to Web Page of an Object,Missing Images in a Sequence,0.28863950084242357
+Linking to Web Page of an Object,Addressing a Spatial Region,0.2605856049370683
+Linking to Web Page of an Object,Image in Annotations,0.31608284539916437
+Linking to Structured Metadata,Simplest Manifest - Single Image File,0.3254942981361104
+Linking to Structured Metadata,Simplest Manifest - Audio,0.20413451118896492
+Linking to Structured Metadata,Simplest Manifest - Video,0.2341657469416977
+Linking to Structured Metadata,Image and Canvas with Differing Dimensions,0.29088329399326446
+Linking to Structured Metadata,Support Deep Viewing with Basic Use of a IIIF Image Service,0.41970709767413344
+Linking to Structured Metadata,Internationalization and Multi-language Values,0.22912433176572256
+Linking to Structured Metadata,Embedding HTML in descriptive properties,0.2552286841829367
+Linking to Structured Metadata,Rights statement,0.2605083102599811
+Linking to Structured Metadata,Simple Manifest - Book,0.38140738497106497
+Linking to Structured Metadata,Viewing direction and Its Effect on Navigation,0.3668875638081903
+Linking to Structured Metadata,"Book 'behavior' Variations (continuous, individuals)",0.3151000418201292
+Linking to Structured Metadata,Load a Preview Image Before the Main Content,0.21928627952182259
+Linking to Structured Metadata,Audio Presentation with Accompanying Image,0.2666107831398701
+Linking to Structured Metadata,Begin playback at a specific point - Time-based media,0.18986757646291186
+Linking to Structured Metadata,Providing Access to Transcript Files of A/V Content,0.21076073533653364
+Linking to Structured Metadata,HTML in Annotations,0.26790305577318657
+Linking to Structured Metadata,Simple Annotation — Tagging,0.31579015144877776
+Linking to Structured Metadata,Table of Contents for Book Chapters,0.3100811195029585
+Linking to Structured Metadata,Table of Contents for A/V Content,0.21207421881755303
+Linking to Structured Metadata,Metadata on any Resource,0.25506798957071186
+Linking to Structured Metadata,Multi-volume Work with Individually-bound Volumes,0.15253288419873645
+Linking to Structured Metadata,Multiple Volumes in a Single Bound Volume,0.2795959494491316
+Linking to Structured Metadata,Simple Collection,0.2065842380487492
+Linking to Structured Metadata,Providing Alternative Representations,0.4525135556385855
+Linking to Structured Metadata,Linking to Web Page of an Object,0.31058909533170936
+Linking to Structured Metadata,Table of Contents for Multiple A/V Files on a Single Canvas,0.224984521032447
+Linking to Structured Metadata,Table of Contents for Multiple A/V Files on Multiple Canvases,0.2139226559509775
+Linking to Structured Metadata,Basic Newspaper,0.19538772003767843
+Linking to Structured Metadata,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.20057235473506596
+Linking to Structured Metadata,Image Thumbnail for Manifest,0.42420592111216576
+Linking to Structured Metadata,Displaying Multiple Values with Language Maps,0.22662249150859431
+Linking to Structured Metadata,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.23264106297323164
+Linking to Structured Metadata,Locate a Manifest on a Web Map,0.260596793010912
+Linking to Structured Metadata,Load Manifest Beginning with a Specific Canvas,0.3665422988112348
+Linking to Structured Metadata,Using Caption and Subtitle Files with Video Content,0.20202574083327163
+Linking to Structured Metadata,Navigation by Chronology,0.16328401008050283
+Linking to Structured Metadata,Acknowledge Content Contributors,0.33805441480098597
+Linking to Structured Metadata,Locate Multiple Canvases on a Web Map,0.25882616149618337
+Linking to Structured Metadata,Annotation with a Non-Rectangular Polygon (Updated),0.17220018882791982
+Linking to Structured Metadata,Simplest Annotation,0.3602644330417075
+Linking to Structured Metadata,Embedded or referenced Annotations,0.18007314429314275
+Linking to Structured Metadata,Missing Images in a Sequence,0.35548177686046556
+Linking to Structured Metadata,Addressing a Spatial Region,0.3028627862765035
+Linking to Structured Metadata,Image in Annotations,0.3760481747206987
+Table of Contents for Multiple A/V Files on a Single Canvas,Simplest Manifest - Single Image File,0.20492961585195113
+Table of Contents for Multiple A/V Files on a Single Canvas,Simplest Manifest - Audio,0.18389399867608888
+Table of Contents for Multiple A/V Files on a Single Canvas,Simplest Manifest - Video,0.26977744969149425
+Table of Contents for Multiple A/V Files on a Single Canvas,Image and Canvas with Differing Dimensions,0.3078954296738842
+Table of Contents for Multiple A/V Files on a Single Canvas,Support Deep Viewing with Basic Use of a IIIF Image Service,0.24589374802826028
+Table of Contents for Multiple A/V Files on a Single Canvas,Internationalization and Multi-language Values,0.14909183230787978
+Table of Contents for Multiple A/V Files on a Single Canvas,Embedding HTML in descriptive properties,0.1690707106194827
+Table of Contents for Multiple A/V Files on a Single Canvas,Rights statement,0.17073267650510388
+Table of Contents for Multiple A/V Files on a Single Canvas,Simple Manifest - Book,0.22974584259446004
+Table of Contents for Multiple A/V Files on a Single Canvas,Viewing direction and Its Effect on Navigation,0.17800981725607432
+Table of Contents for Multiple A/V Files on a Single Canvas,"Book 'behavior' Variations (continuous, individuals)",0.19667008869029223
+Table of Contents for Multiple A/V Files on a Single Canvas,Load a Preview Image Before the Main Content,0.2608653138971357
+Table of Contents for Multiple A/V Files on a Single Canvas,Audio Presentation with Accompanying Image,0.20723238559156046
+Table of Contents for Multiple A/V Files on a Single Canvas,Begin playback at a specific point - Time-based media,0.1922937059274005
+Table of Contents for Multiple A/V Files on a Single Canvas,Providing Access to Transcript Files of A/V Content,0.22693432735686342
+Table of Contents for Multiple A/V Files on a Single Canvas,HTML in Annotations,0.19400458369194543
+Table of Contents for Multiple A/V Files on a Single Canvas,Simple Annotation — Tagging,0.2094873598058159
+Table of Contents for Multiple A/V Files on a Single Canvas,Table of Contents for Book Chapters,0.22615667777855422
+Table of Contents for Multiple A/V Files on a Single Canvas,Table of Contents for A/V Content,0.502609357877486
+Table of Contents for Multiple A/V Files on a Single Canvas,Metadata on any Resource,0.17494037656386657
+Table of Contents for Multiple A/V Files on a Single Canvas,Multi-volume Work with Individually-bound Volumes,0.1177487128033753
+Table of Contents for Multiple A/V Files on a Single Canvas,Multiple Volumes in a Single Bound Volume,0.1976602798495356
+Table of Contents for Multiple A/V Files on a Single Canvas,Simple Collection,0.15763409603217943
+Table of Contents for Multiple A/V Files on a Single Canvas,Providing Alternative Representations,0.22203312266454026
+Table of Contents for Multiple A/V Files on a Single Canvas,Linking to Web Page of an Object,0.20887419131757978
+Table of Contents for Multiple A/V Files on a Single Canvas,Linking to Structured Metadata,0.224984521032447
+Table of Contents for Multiple A/V Files on a Single Canvas,Table of Contents for Multiple A/V Files on Multiple Canvases,0.48626065523474465
+Table of Contents for Multiple A/V Files on a Single Canvas,Basic Newspaper,0.1576476254824381
+Table of Contents for Multiple A/V Files on a Single Canvas,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.18529642522641895
+Table of Contents for Multiple A/V Files on a Single Canvas,Image Thumbnail for Manifest,0.18850401115254753
+Table of Contents for Multiple A/V Files on a Single Canvas,Displaying Multiple Values with Language Maps,0.17410154774531308
+Table of Contents for Multiple A/V Files on a Single Canvas,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.17957399021894205
+Table of Contents for Multiple A/V Files on a Single Canvas,Locate a Manifest on a Web Map,0.18525740777084057
+Table of Contents for Multiple A/V Files on a Single Canvas,Load Manifest Beginning with a Specific Canvas,0.2469131182146086
+Table of Contents for Multiple A/V Files on a Single Canvas,Using Caption and Subtitle Files with Video Content,0.1939897300086178
+Table of Contents for Multiple A/V Files on a Single Canvas,Navigation by Chronology,0.09581227636928095
+Table of Contents for Multiple A/V Files on a Single Canvas,Acknowledge Content Contributors,0.1524195503857124
+Table of Contents for Multiple A/V Files on a Single Canvas,Locate Multiple Canvases on a Web Map,0.17306236979152914
+Table of Contents for Multiple A/V Files on a Single Canvas,Annotation with a Non-Rectangular Polygon (Updated),0.11438798458952663
+Table of Contents for Multiple A/V Files on a Single Canvas,Simplest Annotation,0.2789893616402969
+Table of Contents for Multiple A/V Files on a Single Canvas,Embedded or referenced Annotations,0.14437140942770313
+Table of Contents for Multiple A/V Files on a Single Canvas,Missing Images in a Sequence,0.20466881437487902
+Table of Contents for Multiple A/V Files on a Single Canvas,Addressing a Spatial Region,0.1934212267899445
+Table of Contents for Multiple A/V Files on a Single Canvas,Image in Annotations,0.23559665271971103
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simplest Manifest - Single Image File,0.1974259990439125
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simplest Manifest - Audio,0.16921574755888624
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simplest Manifest - Video,0.2523244668375092
+Table of Contents for Multiple A/V Files on Multiple Canvases,Image and Canvas with Differing Dimensions,0.2871195571321691
+Table of Contents for Multiple A/V Files on Multiple Canvases,Support Deep Viewing with Basic Use of a IIIF Image Service,0.23346220572386797
+Table of Contents for Multiple A/V Files on Multiple Canvases,Internationalization and Multi-language Values,0.14407434685086004
+Table of Contents for Multiple A/V Files on Multiple Canvases,Embedding HTML in descriptive properties,0.1635812527284535
+Table of Contents for Multiple A/V Files on Multiple Canvases,Rights statement,0.1648972708088268
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simple Manifest - Book,0.217901286480432
+Table of Contents for Multiple A/V Files on Multiple Canvases,Viewing direction and Its Effect on Navigation,0.16891239191001348
+Table of Contents for Multiple A/V Files on Multiple Canvases,"Book 'behavior' Variations (continuous, individuals)",0.1864879738097044
+Table of Contents for Multiple A/V Files on Multiple Canvases,Load a Preview Image Before the Main Content,0.2474781647506249
+Table of Contents for Multiple A/V Files on Multiple Canvases,Audio Presentation with Accompanying Image,0.19075541609490124
+Table of Contents for Multiple A/V Files on Multiple Canvases,Begin playback at a specific point - Time-based media,0.18129528368353573
+Table of Contents for Multiple A/V Files on Multiple Canvases,Providing Access to Transcript Files of A/V Content,0.2166465427579083
+Table of Contents for Multiple A/V Files on Multiple Canvases,HTML in Annotations,0.17878390018926463
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simple Annotation — Tagging,0.19906586969839785
+Table of Contents for Multiple A/V Files on Multiple Canvases,Table of Contents for Book Chapters,0.20955013131849148
+Table of Contents for Multiple A/V Files on Multiple Canvases,Table of Contents for A/V Content,0.4558978570299534
+Table of Contents for Multiple A/V Files on Multiple Canvases,Metadata on any Resource,0.1633296518316947
+Table of Contents for Multiple A/V Files on Multiple Canvases,Multi-volume Work with Individually-bound Volumes,0.11622087708973224
+Table of Contents for Multiple A/V Files on Multiple Canvases,Multiple Volumes in a Single Bound Volume,0.18296091472909032
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simple Collection,0.1578480568946108
+Table of Contents for Multiple A/V Files on Multiple Canvases,Providing Alternative Representations,0.21118344803613331
+Table of Contents for Multiple A/V Files on Multiple Canvases,Linking to Web Page of an Object,0.19496817617398682
+Table of Contents for Multiple A/V Files on Multiple Canvases,Linking to Structured Metadata,0.2139226559509775
+Table of Contents for Multiple A/V Files on Multiple Canvases,Table of Contents for Multiple A/V Files on a Single Canvas,0.48626065523474465
+Table of Contents for Multiple A/V Files on Multiple Canvases,Basic Newspaper,0.1454591535136098
+Table of Contents for Multiple A/V Files on Multiple Canvases,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.3201462249741412
+Table of Contents for Multiple A/V Files on Multiple Canvases,Image Thumbnail for Manifest,0.19438871518538828
+Table of Contents for Multiple A/V Files on Multiple Canvases,Displaying Multiple Values with Language Maps,0.15816327432662566
+Table of Contents for Multiple A/V Files on Multiple Canvases,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.16020411178371155
+Table of Contents for Multiple A/V Files on Multiple Canvases,Locate a Manifest on a Web Map,0.1742027938395909
+Table of Contents for Multiple A/V Files on Multiple Canvases,Load Manifest Beginning with a Specific Canvas,0.22637351730997485
+Table of Contents for Multiple A/V Files on Multiple Canvases,Using Caption and Subtitle Files with Video Content,0.18017314101400203
+Table of Contents for Multiple A/V Files on Multiple Canvases,Navigation by Chronology,0.09788385516919378
+Table of Contents for Multiple A/V Files on Multiple Canvases,Acknowledge Content Contributors,0.14980749291702578
+Table of Contents for Multiple A/V Files on Multiple Canvases,Locate Multiple Canvases on a Web Map,0.33281620731446504
+Table of Contents for Multiple A/V Files on Multiple Canvases,Annotation with a Non-Rectangular Polygon (Updated),0.10877517573859755
+Table of Contents for Multiple A/V Files on Multiple Canvases,Simplest Annotation,0.23975358804501606
+Table of Contents for Multiple A/V Files on Multiple Canvases,Embedded or referenced Annotations,0.13337307511674487
+Table of Contents for Multiple A/V Files on Multiple Canvases,Missing Images in a Sequence,0.19483058162029376
+Table of Contents for Multiple A/V Files on Multiple Canvases,Addressing a Spatial Region,0.18523117292034466
+Table of Contents for Multiple A/V Files on Multiple Canvases,Image in Annotations,0.21855535022951503
+Basic Newspaper,Simplest Manifest - Single Image File,0.18371223281825774
+Basic Newspaper,Simplest Manifest - Audio,0.1425802852596398
+Basic Newspaper,Simplest Manifest - Video,0.1581927286396575
+Basic Newspaper,Image and Canvas with Differing Dimensions,0.18807937913896672
+Basic Newspaper,Support Deep Viewing with Basic Use of a IIIF Image Service,0.2147464631526082
+Basic Newspaper,Internationalization and Multi-language Values,0.18311971840807245
+Basic Newspaper,Embedding HTML in descriptive properties,0.16126846932703973
+Basic Newspaper,Rights statement,0.16586909854416196
+Basic Newspaper,Simple Manifest - Book,0.19837827942307312
+Basic Newspaper,Viewing direction and Its Effect on Navigation,0.15292602615958786
+Basic Newspaper,"Book 'behavior' Variations (continuous, individuals)",0.1681372935270582
+Basic Newspaper,Load a Preview Image Before the Main Content,0.14292316615580147
+Basic Newspaper,Audio Presentation with Accompanying Image,0.16350092065812027
+Basic Newspaper,Begin playback at a specific point - Time-based media,0.16565407055700648
+Basic Newspaper,Providing Access to Transcript Files of A/V Content,0.1479801079876179
+Basic Newspaper,HTML in Annotations,0.19364563536454496
+Basic Newspaper,Simple Annotation — Tagging,0.2262213054431075
+Basic Newspaper,Table of Contents for Book Chapters,0.17186433583694102
+Basic Newspaper,Table of Contents for A/V Content,0.1466633946917519
+Basic Newspaper,Metadata on any Resource,0.13702447759919298
+Basic Newspaper,Multi-volume Work with Individually-bound Volumes,0.11561777769172432
+Basic Newspaper,Multiple Volumes in a Single Bound Volume,0.16301760729117168
+Basic Newspaper,Simple Collection,0.15327528385594452
+Basic Newspaper,Providing Alternative Representations,0.19133582186714734
+Basic Newspaper,Linking to Web Page of an Object,0.19621403386435876
+Basic Newspaper,Linking to Structured Metadata,0.19538772003767843
+Basic Newspaper,Table of Contents for Multiple A/V Files on a Single Canvas,0.1576476254824381
+Basic Newspaper,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1454591535136098
+Basic Newspaper,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1838952072719673
+Basic Newspaper,Image Thumbnail for Manifest,0.14903934580034187
+Basic Newspaper,Displaying Multiple Values with Language Maps,0.16764595346711217
+Basic Newspaper,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.15732091645178717
+Basic Newspaper,Locate a Manifest on a Web Map,0.15815266932416794
+Basic Newspaper,Load Manifest Beginning with a Specific Canvas,0.19582348336360633
+Basic Newspaper,Using Caption and Subtitle Files with Video Content,0.1508456059804542
+Basic Newspaper,Navigation by Chronology,0.09034297452099181
+Basic Newspaper,Acknowledge Content Contributors,0.14021516778003637
+Basic Newspaper,Locate Multiple Canvases on a Web Map,0.15034462809835195
+Basic Newspaper,Annotation with a Non-Rectangular Polygon (Updated),0.1542313577596943
+Basic Newspaper,Simplest Annotation,0.2474462004467503
+Basic Newspaper,Embedded or referenced Annotations,0.18393387157819724
+Basic Newspaper,Missing Images in a Sequence,0.17437794245822688
+Basic Newspaper,Addressing a Spatial Region,0.26355029184932693
+Basic Newspaper,Image in Annotations,0.22064980532132847
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simplest Manifest - Single Image File,0.18196796988195618
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simplest Manifest - Audio,0.1576699352276862
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simplest Manifest - Video,0.21733237650447101
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Image and Canvas with Differing Dimensions,0.189705431371315
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Support Deep Viewing with Basic Use of a IIIF Image Service,0.21487653739247425
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Internationalization and Multi-language Values,0.20834226188436852
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Embedding HTML in descriptive properties,0.16032868548163878
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Rights statement,0.19456799242411307
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simple Manifest - Book,0.20466997429784597
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Viewing direction and Its Effect on Navigation,0.158042457001892
+Using Caption and Subtitle Files in Multiple Languages with Video Content,"Book 'behavior' Variations (continuous, individuals)",0.17425791187466363
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Load a Preview Image Before the Main Content,0.16740070127720236
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Audio Presentation with Accompanying Image,0.17574650671444472
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Begin playback at a specific point - Time-based media,0.16886204798860496
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Providing Access to Transcript Files of A/V Content,0.1840446268105677
+Using Caption and Subtitle Files in Multiple Languages with Video Content,HTML in Annotations,0.20452527060986453
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simple Annotation — Tagging,0.2064197314910058
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Table of Contents for Book Chapters,0.17557050652132214
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Table of Contents for A/V Content,0.17289558877608288
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Metadata on any Resource,0.1441010673689987
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Multi-volume Work with Individually-bound Volumes,0.11543473778680438
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Multiple Volumes in a Single Bound Volume,0.15681047877613888
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simple Collection,0.15764034911627842
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Providing Alternative Representations,0.19841919105916475
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Linking to Web Page of an Object,0.21031555705010066
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Linking to Structured Metadata,0.20057235473506596
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Table of Contents for Multiple A/V Files on a Single Canvas,0.18529642522641895
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Table of Contents for Multiple A/V Files on Multiple Canvases,0.3201462249741412
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Basic Newspaper,0.1838952072719673
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Image Thumbnail for Manifest,0.15885122036594293
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Displaying Multiple Values with Language Maps,0.15768137641305807
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1533134828940223
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Locate a Manifest on a Web Map,0.17138877005050296
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Load Manifest Beginning with a Specific Canvas,0.2081191841339812
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Using Caption and Subtitle Files with Video Content,0.22655136802275302
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Navigation by Chronology,0.09163725820255934
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Acknowledge Content Contributors,0.1519652960554893
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Locate Multiple Canvases on a Web Map,0.1582155656578079
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Annotation with a Non-Rectangular Polygon (Updated),0.11402188724976589
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Simplest Annotation,0.24050802049708817
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Embedded or referenced Annotations,0.17254316398290304
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Missing Images in a Sequence,0.17847053705874252
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Addressing a Spatial Region,0.1778984299701932
+Using Caption and Subtitle Files in Multiple Languages with Video Content,Image in Annotations,0.23010399542127802
+Image Thumbnail for Manifest,Simplest Manifest - Single Image File,0.30769705887535764
+Image Thumbnail for Manifest,Simplest Manifest - Audio,0.15852633592354423
+Image Thumbnail for Manifest,Simplest Manifest - Video,0.18564512118236998
+Image Thumbnail for Manifest,Image and Canvas with Differing Dimensions,0.27506252213102306
+Image Thumbnail for Manifest,Support Deep Viewing with Basic Use of a IIIF Image Service,0.406570242583244
+Image Thumbnail for Manifest,Internationalization and Multi-language Values,0.20579243401314412
+Image Thumbnail for Manifest,Embedding HTML in descriptive properties,0.22654422844536326
+Image Thumbnail for Manifest,Rights statement,0.232582305878067
+Image Thumbnail for Manifest,Simple Manifest - Book,0.3296232777550387
+Image Thumbnail for Manifest,Viewing direction and Its Effect on Navigation,0.34207352157999427
+Image Thumbnail for Manifest,"Book 'behavior' Variations (continuous, individuals)",0.2810333137731984
+Image Thumbnail for Manifest,Load a Preview Image Before the Main Content,0.19482161473948892
+Image Thumbnail for Manifest,Audio Presentation with Accompanying Image,0.22494229590133732
+Image Thumbnail for Manifest,Begin playback at a specific point - Time-based media,0.15003364856892296
+Image Thumbnail for Manifest,Providing Access to Transcript Files of A/V Content,0.16801951023653464
+Image Thumbnail for Manifest,HTML in Annotations,0.23359604116443072
+Image Thumbnail for Manifest,Simple Annotation — Tagging,0.26595965889098566
+Image Thumbnail for Manifest,Table of Contents for Book Chapters,0.2610167148385022
+Image Thumbnail for Manifest,Table of Contents for A/V Content,0.16585416416463825
+Image Thumbnail for Manifest,Metadata on any Resource,0.23335588801161194
+Image Thumbnail for Manifest,Multi-volume Work with Individually-bound Volumes,0.12652943070823403
+Image Thumbnail for Manifest,Multiple Volumes in a Single Bound Volume,0.23869996752266315
+Image Thumbnail for Manifest,Simple Collection,0.17797190438623076
+Image Thumbnail for Manifest,Providing Alternative Representations,0.4193466596992869
+Image Thumbnail for Manifest,Linking to Web Page of an Object,0.27189102922154196
+Image Thumbnail for Manifest,Linking to Structured Metadata,0.42420592111216576
+Image Thumbnail for Manifest,Table of Contents for Multiple A/V Files on a Single Canvas,0.18850401115254753
+Image Thumbnail for Manifest,Table of Contents for Multiple A/V Files on Multiple Canvases,0.19438871518538828
+Image Thumbnail for Manifest,Basic Newspaper,0.14903934580034187
+Image Thumbnail for Manifest,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.15885122036594293
+Image Thumbnail for Manifest,Displaying Multiple Values with Language Maps,0.19696432752960988
+Image Thumbnail for Manifest,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.20427385345051735
+Image Thumbnail for Manifest,Locate a Manifest on a Web Map,0.2290704547630841
+Image Thumbnail for Manifest,Load Manifest Beginning with a Specific Canvas,0.3102698326277012
+Image Thumbnail for Manifest,Using Caption and Subtitle Files with Video Content,0.1572688421619863
+Image Thumbnail for Manifest,Navigation by Chronology,0.1777989012191337
+Image Thumbnail for Manifest,Acknowledge Content Contributors,0.4281374099630993
+Image Thumbnail for Manifest,Locate Multiple Canvases on a Web Map,0.23374409447776284
+Image Thumbnail for Manifest,Annotation with a Non-Rectangular Polygon (Updated),0.14438508558660598
+Image Thumbnail for Manifest,Simplest Annotation,0.29849854541054055
+Image Thumbnail for Manifest,Embedded or referenced Annotations,0.14043766944407926
+Image Thumbnail for Manifest,Missing Images in a Sequence,0.3264898301381517
+Image Thumbnail for Manifest,Addressing a Spatial Region,0.26090472339313453
+Image Thumbnail for Manifest,Image in Annotations,0.35797583129229704
+Displaying Multiple Values with Language Maps,Simplest Manifest - Single Image File,0.2021240919705353
+Displaying Multiple Values with Language Maps,Simplest Manifest - Audio,0.15329622211218796
+Displaying Multiple Values with Language Maps,Simplest Manifest - Video,0.1728327717552106
+Displaying Multiple Values with Language Maps,Image and Canvas with Differing Dimensions,0.20410128864376814
+Displaying Multiple Values with Language Maps,Support Deep Viewing with Basic Use of a IIIF Image Service,0.24650181621183356
+Displaying Multiple Values with Language Maps,Internationalization and Multi-language Values,0.4769555561155623
+Displaying Multiple Values with Language Maps,Embedding HTML in descriptive properties,0.1899439632550134
+Displaying Multiple Values with Language Maps,Rights statement,0.19836651218259327
+Displaying Multiple Values with Language Maps,Simple Manifest - Book,0.22568169817741626
+Displaying Multiple Values with Language Maps,Viewing direction and Its Effect on Navigation,0.17909288989209096
+Displaying Multiple Values with Language Maps,"Book 'behavior' Variations (continuous, individuals)",0.19166982597509652
+Displaying Multiple Values with Language Maps,Load a Preview Image Before the Main Content,0.1538011102086322
+Displaying Multiple Values with Language Maps,Audio Presentation with Accompanying Image,0.19058326407693058
+Displaying Multiple Values with Language Maps,Begin playback at a specific point - Time-based media,0.1642122226918905
+Displaying Multiple Values with Language Maps,Providing Access to Transcript Files of A/V Content,0.15433708479627897
+Displaying Multiple Values with Language Maps,HTML in Annotations,0.24220394159928157
+Displaying Multiple Values with Language Maps,Simple Annotation — Tagging,0.20927098814859169
+Displaying Multiple Values with Language Maps,Table of Contents for Book Chapters,0.1923164713915149
+Displaying Multiple Values with Language Maps,Table of Contents for A/V Content,0.1559519090087018
+Displaying Multiple Values with Language Maps,Metadata on any Resource,0.20393410595927203
+Displaying Multiple Values with Language Maps,Multi-volume Work with Individually-bound Volumes,0.11377600975618757
+Displaying Multiple Values with Language Maps,Multiple Volumes in a Single Bound Volume,0.17656141201230566
+Displaying Multiple Values with Language Maps,Simple Collection,0.16091085062434649
+Displaying Multiple Values with Language Maps,Providing Alternative Representations,0.22422363657549402
+Displaying Multiple Values with Language Maps,Linking to Web Page of an Object,0.20364681578813204
+Displaying Multiple Values with Language Maps,Linking to Structured Metadata,0.22662249150859431
+Displaying Multiple Values with Language Maps,Table of Contents for Multiple A/V Files on a Single Canvas,0.17410154774531308
+Displaying Multiple Values with Language Maps,Table of Contents for Multiple A/V Files on Multiple Canvases,0.15816327432662566
+Displaying Multiple Values with Language Maps,Basic Newspaper,0.16764595346711217
+Displaying Multiple Values with Language Maps,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.15768137641305807
+Displaying Multiple Values with Language Maps,Image Thumbnail for Manifest,0.19696432752960988
+Displaying Multiple Values with Language Maps,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.17175680112198385
+Displaying Multiple Values with Language Maps,Locate a Manifest on a Web Map,0.169984852609499
+Displaying Multiple Values with Language Maps,Load Manifest Beginning with a Specific Canvas,0.22864040049233172
+Displaying Multiple Values with Language Maps,Using Caption and Subtitle Files with Video Content,0.15321545661019534
+Displaying Multiple Values with Language Maps,Navigation by Chronology,0.10839431233691176
+Displaying Multiple Values with Language Maps,Acknowledge Content Contributors,0.16118791577932204
+Displaying Multiple Values with Language Maps,Locate Multiple Canvases on a Web Map,0.17936413089072026
+Displaying Multiple Values with Language Maps,Annotation with a Non-Rectangular Polygon (Updated),0.11690081006336901
+Displaying Multiple Values with Language Maps,Simplest Annotation,0.2545727656130869
+Displaying Multiple Values with Language Maps,Embedded or referenced Annotations,0.14904854577677962
+Displaying Multiple Values with Language Maps,Missing Images in a Sequence,0.2068000952136201
+Displaying Multiple Values with Language Maps,Addressing a Spatial Region,0.1898169165666301
+Displaying Multiple Values with Language Maps,Image in Annotations,0.27529006679093915
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simplest Manifest - Single Image File,0.2103610310570113
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simplest Manifest - Audio,0.15725883231316962
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simplest Manifest - Video,0.17731686660148804
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Image and Canvas with Differing Dimensions,0.214362753099237
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Support Deep Viewing with Basic Use of a IIIF Image Service,0.26306497224200825
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Internationalization and Multi-language Values,0.15366360988792077
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Embedding HTML in descriptive properties,0.1731531764265328
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Rights statement,0.17783318571543819
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simple Manifest - Book,0.23526716155331942
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Viewing direction and Its Effect on Navigation,0.1853831536031786
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,"Book 'behavior' Variations (continuous, individuals)",0.20136005817791083
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Load a Preview Image Before the Main Content,0.15881798838709468
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Audio Presentation with Accompanying Image,0.18639941748497801
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Begin playback at a specific point - Time-based media,0.14756360260711324
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Providing Access to Transcript Files of A/V Content,0.1594960134236452
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,HTML in Annotations,0.1982231805554618
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simple Annotation — Tagging,0.2319583384597653
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Table of Contents for Book Chapters,0.20036375421825903
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Table of Contents for A/V Content,0.16128218233667613
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Metadata on any Resource,0.16506002393148284
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Multi-volume Work with Individually-bound Volumes,0.12479573288351872
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Multiple Volumes in a Single Bound Volume,0.17909822774759052
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simple Collection,0.173158199954701
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Providing Alternative Representations,0.2300279535286292
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Linking to Web Page of an Object,0.21539943371271347
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Linking to Structured Metadata,0.23264106297323164
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Table of Contents for Multiple A/V Files on a Single Canvas,0.17957399021894205
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Table of Contents for Multiple A/V Files on Multiple Canvases,0.16020411178371155
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Basic Newspaper,0.15732091645178717
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1533134828940223
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Image Thumbnail for Manifest,0.20427385345051735
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Displaying Multiple Values with Language Maps,0.17175680112198385
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Locate a Manifest on a Web Map,0.21349496202269286
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Load Manifest Beginning with a Specific Canvas,0.24149955524406663
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Using Caption and Subtitle Files with Video Content,0.1533019142665552
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Navigation by Chronology,0.20450305782291467
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Acknowledge Content Contributors,0.16322791480313717
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Locate Multiple Canvases on a Web Map,0.19581649479241522
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Annotation with a Non-Rectangular Polygon (Updated),0.11654795021048958
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Simplest Annotation,0.2678248422894249
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Embedded or referenced Annotations,0.14810675772840737
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Missing Images in a Sequence,0.21451899535106653
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Addressing a Spatial Region,0.20097130885999825
+Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,Image in Annotations,0.24496774979278477
+Locate a Manifest on a Web Map,Simplest Manifest - Single Image File,0.23523862295428252
+Locate a Manifest on a Web Map,Simplest Manifest - Audio,0.1649489373700926
+Locate a Manifest on a Web Map,Simplest Manifest - Video,0.1870065840366751
+Locate a Manifest on a Web Map,Image and Canvas with Differing Dimensions,0.21559302332235578
+Locate a Manifest on a Web Map,Support Deep Viewing with Basic Use of a IIIF Image Service,0.29778095340273275
+Locate a Manifest on a Web Map,Internationalization and Multi-language Values,0.16644965053500393
+Locate a Manifest on a Web Map,Embedding HTML in descriptive properties,0.1899313842014576
+Locate a Manifest on a Web Map,Rights statement,0.19475683160558474
+Locate a Manifest on a Web Map,Simple Manifest - Book,0.2673791847125683
+Locate a Manifest on a Web Map,Viewing direction and Its Effect on Navigation,0.20750294764833152
+Locate a Manifest on a Web Map,"Book 'behavior' Variations (continuous, individuals)",0.22862378066376787
+Locate a Manifest on a Web Map,Load a Preview Image Before the Main Content,0.17165550843405988
+Locate a Manifest on a Web Map,Audio Presentation with Accompanying Image,0.19917275777819027
+Locate a Manifest on a Web Map,Begin playback at a specific point - Time-based media,0.15352857648779966
+Locate a Manifest on a Web Map,Providing Access to Transcript Files of A/V Content,0.1665977019643569
+Locate a Manifest on a Web Map,HTML in Annotations,0.2094197766878226
+Locate a Manifest on a Web Map,Simple Annotation — Tagging,0.23579855683786224
+Locate a Manifest on a Web Map,Table of Contents for Book Chapters,0.22297071170744792
+Locate a Manifest on a Web Map,Table of Contents for A/V Content,0.18371701291403886
+Locate a Manifest on a Web Map,Metadata on any Resource,0.17869322445706745
+Locate a Manifest on a Web Map,Multi-volume Work with Individually-bound Volumes,0.14394645596310626
+Locate a Manifest on a Web Map,Multiple Volumes in a Single Bound Volume,0.20006641536543765
+Locate a Manifest on a Web Map,Simple Collection,0.21144174281180955
+Locate a Manifest on a Web Map,Providing Alternative Representations,0.2575854297739384
+Locate a Manifest on a Web Map,Linking to Web Page of an Object,0.30164078951629475
+Locate a Manifest on a Web Map,Linking to Structured Metadata,0.260596793010912
+Locate a Manifest on a Web Map,Table of Contents for Multiple A/V Files on a Single Canvas,0.18525740777084057
+Locate a Manifest on a Web Map,Table of Contents for Multiple A/V Files on Multiple Canvases,0.1742027938395909
+Locate a Manifest on a Web Map,Basic Newspaper,0.15815266932416794
+Locate a Manifest on a Web Map,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17138877005050296
+Locate a Manifest on a Web Map,Image Thumbnail for Manifest,0.2290704547630841
+Locate a Manifest on a Web Map,Displaying Multiple Values with Language Maps,0.169984852609499
+Locate a Manifest on a Web Map,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.21349496202269286
+Locate a Manifest on a Web Map,Load Manifest Beginning with a Specific Canvas,0.25472786485617976
+Locate a Manifest on a Web Map,Using Caption and Subtitle Files with Video Content,0.16009809946649353
+Locate a Manifest on a Web Map,Navigation by Chronology,0.12637495816851893
+Locate a Manifest on a Web Map,Acknowledge Content Contributors,0.17846882575619685
+Locate a Manifest on a Web Map,Locate Multiple Canvases on a Web Map,0.38202592818167086
+Locate a Manifest on a Web Map,Annotation with a Non-Rectangular Polygon (Updated),0.12861983020496265
+Locate a Manifest on a Web Map,Simplest Annotation,0.2736642673582804
+Locate a Manifest on a Web Map,Embedded or referenced Annotations,0.15743620361126645
+Locate a Manifest on a Web Map,Missing Images in a Sequence,0.2423009570669487
+Locate a Manifest on a Web Map,Addressing a Spatial Region,0.22845958536281966
+Locate a Manifest on a Web Map,Image in Annotations,0.27309677216051675
+Load Manifest Beginning with a Specific Canvas,Simplest Manifest - Single Image File,0.32350027608776327
+Load Manifest Beginning with a Specific Canvas,Simplest Manifest - Audio,0.21278353351153945
+Load Manifest Beginning with a Specific Canvas,Simplest Manifest - Video,0.24339290311441844
+Load Manifest Beginning with a Specific Canvas,Image and Canvas with Differing Dimensions,0.3084149288225211
+Load Manifest Beginning with a Specific Canvas,Support Deep Viewing with Basic Use of a IIIF Image Service,0.41615045889622715
+Load Manifest Beginning with a Specific Canvas,Internationalization and Multi-language Values,0.21829352100925434
+Load Manifest Beginning with a Specific Canvas,Embedding HTML in descriptive properties,0.24757566264480202
+Load Manifest Beginning with a Specific Canvas,Rights statement,0.2555164002702367
+Load Manifest Beginning with a Specific Canvas,Simple Manifest - Book,0.4833333237220933
+Load Manifest Beginning with a Specific Canvas,Viewing direction and Its Effect on Navigation,0.2988704333790679
+Load Manifest Beginning with a Specific Canvas,"Book 'behavior' Variations (continuous, individuals)",0.3204663141332121
+Load Manifest Beginning with a Specific Canvas,Load a Preview Image Before the Main Content,0.22459756506830691
+Load Manifest Beginning with a Specific Canvas,Audio Presentation with Accompanying Image,0.2731910113709589
+Load Manifest Beginning with a Specific Canvas,Begin playback at a specific point - Time-based media,0.4379069744954912
+Load Manifest Beginning with a Specific Canvas,Providing Access to Transcript Files of A/V Content,0.2139040770883907
+Load Manifest Beginning with a Specific Canvas,HTML in Annotations,0.27102046686772535
+Load Manifest Beginning with a Specific Canvas,Simple Annotation — Tagging,0.313006512751844
+Load Manifest Beginning with a Specific Canvas,Table of Contents for Book Chapters,0.32038419365550863
+Load Manifest Beginning with a Specific Canvas,Table of Contents for A/V Content,0.21885579796493504
+Load Manifest Beginning with a Specific Canvas,Metadata on any Resource,0.22713292656421197
+Load Manifest Beginning with a Specific Canvas,Multi-volume Work with Individually-bound Volumes,0.14584463575895482
+Load Manifest Beginning with a Specific Canvas,Multiple Volumes in a Single Bound Volume,0.28275177062026147
+Load Manifest Beginning with a Specific Canvas,Simple Collection,0.1948918304874286
+Load Manifest Beginning with a Specific Canvas,Providing Alternative Representations,0.3624477307308587
+Load Manifest Beginning with a Specific Canvas,Linking to Web Page of an Object,0.30982348508902335
+Load Manifest Beginning with a Specific Canvas,Linking to Structured Metadata,0.3665422988112348
+Load Manifest Beginning with a Specific Canvas,Table of Contents for Multiple A/V Files on a Single Canvas,0.2469131182146086
+Load Manifest Beginning with a Specific Canvas,Table of Contents for Multiple A/V Files on Multiple Canvases,0.22637351730997485
+Load Manifest Beginning with a Specific Canvas,Basic Newspaper,0.19582348336360633
+Load Manifest Beginning with a Specific Canvas,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.2081191841339812
+Load Manifest Beginning with a Specific Canvas,Image Thumbnail for Manifest,0.3102698326277012
+Load Manifest Beginning with a Specific Canvas,Displaying Multiple Values with Language Maps,0.22864040049233172
+Load Manifest Beginning with a Specific Canvas,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.24149955524406663
+Load Manifest Beginning with a Specific Canvas,Locate a Manifest on a Web Map,0.25472786485617976
+Load Manifest Beginning with a Specific Canvas,Using Caption and Subtitle Files with Video Content,0.20849089973081295
+Load Manifest Beginning with a Specific Canvas,Navigation by Chronology,0.14911532201839137
+Load Manifest Beginning with a Specific Canvas,Acknowledge Content Contributors,0.22715428650478048
+Load Manifest Beginning with a Specific Canvas,Locate Multiple Canvases on a Web Map,0.24949627794308638
+Load Manifest Beginning with a Specific Canvas,Annotation with a Non-Rectangular Polygon (Updated),0.16951938573069053
+Load Manifest Beginning with a Specific Canvas,Simplest Annotation,0.38902229565118523
+Load Manifest Beginning with a Specific Canvas,Embedded or referenced Annotations,0.1826017751827947
+Load Manifest Beginning with a Specific Canvas,Missing Images in a Sequence,0.3533769163501784
+Load Manifest Beginning with a Specific Canvas,Addressing a Spatial Region,0.29981259744013716
+Load Manifest Beginning with a Specific Canvas,Image in Annotations,0.3732447950207826
+Using Caption and Subtitle Files with Video Content,Simplest Manifest - Single Image File,0.18382660836732417
+Using Caption and Subtitle Files with Video Content,Simplest Manifest - Audio,0.16548193754237023
+Using Caption and Subtitle Files with Video Content,Simplest Manifest - Video,0.3249284126405851
+Using Caption and Subtitle Files with Video Content,Image and Canvas with Differing Dimensions,0.21444785879153688
+Using Caption and Subtitle Files with Video Content,Support Deep Viewing with Basic Use of a IIIF Image Service,0.21638000709494715
+Using Caption and Subtitle Files with Video Content,Internationalization and Multi-language Values,0.14468781456964663
+Using Caption and Subtitle Files with Video Content,Embedding HTML in descriptive properties,0.14848162049876437
+Using Caption and Subtitle Files with Video Content,Rights statement,0.15217117009306302
+Using Caption and Subtitle Files with Video Content,Simple Manifest - Book,0.20701767248055605
+Using Caption and Subtitle Files with Video Content,Viewing direction and Its Effect on Navigation,0.15950589372413204
+Using Caption and Subtitle Files with Video Content,"Book 'behavior' Variations (continuous, individuals)",0.17655248460075607
+Using Caption and Subtitle Files with Video Content,Load a Preview Image Before the Main Content,0.19842711730976634
+Using Caption and Subtitle Files with Video Content,Audio Presentation with Accompanying Image,0.18244781771408622
+Using Caption and Subtitle Files with Video Content,Begin playback at a specific point - Time-based media,0.19484334073844248
+Using Caption and Subtitle Files with Video Content,Providing Access to Transcript Files of A/V Content,0.19988846287490147
+Using Caption and Subtitle Files with Video Content,HTML in Annotations,0.18918607049880487
+Using Caption and Subtitle Files with Video Content,Simple Annotation — Tagging,0.19456792105964305
+Using Caption and Subtitle Files with Video Content,Table of Contents for Book Chapters,0.1785516098787462
+Using Caption and Subtitle Files with Video Content,Table of Contents for A/V Content,0.1684837044658032
+Using Caption and Subtitle Files with Video Content,Metadata on any Resource,0.1314872214999848
+Using Caption and Subtitle Files with Video Content,Multi-volume Work with Individually-bound Volumes,0.11017691684311479
+Using Caption and Subtitle Files with Video Content,Multiple Volumes in a Single Bound Volume,0.15961821860546913
+Using Caption and Subtitle Files with Video Content,Simple Collection,0.14728955214423162
+Using Caption and Subtitle Files with Video Content,Providing Alternative Representations,0.19991502515913812
+Using Caption and Subtitle Files with Video Content,Linking to Web Page of an Object,0.1934475853145734
+Using Caption and Subtitle Files with Video Content,Linking to Structured Metadata,0.20202574083327163
+Using Caption and Subtitle Files with Video Content,Table of Contents for Multiple A/V Files on a Single Canvas,0.1939897300086178
+Using Caption and Subtitle Files with Video Content,Table of Contents for Multiple A/V Files on Multiple Canvases,0.18017314101400203
+Using Caption and Subtitle Files with Video Content,Basic Newspaper,0.1508456059804542
+Using Caption and Subtitle Files with Video Content,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.22655136802275302
+Using Caption and Subtitle Files with Video Content,Image Thumbnail for Manifest,0.1572688421619863
+Using Caption and Subtitle Files with Video Content,Displaying Multiple Values with Language Maps,0.15321545661019534
+Using Caption and Subtitle Files with Video Content,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.1533019142665552
+Using Caption and Subtitle Files with Video Content,Locate a Manifest on a Web Map,0.16009809946649353
+Using Caption and Subtitle Files with Video Content,Load Manifest Beginning with a Specific Canvas,0.20849089973081295
+Using Caption and Subtitle Files with Video Content,Navigation by Chronology,0.08779612624630047
+Using Caption and Subtitle Files with Video Content,Acknowledge Content Contributors,0.13962803806559518
+Using Caption and Subtitle Files with Video Content,Locate Multiple Canvases on a Web Map,0.1533728020520604
+Using Caption and Subtitle Files with Video Content,Annotation with a Non-Rectangular Polygon (Updated),0.10568929450590869
+Using Caption and Subtitle Files with Video Content,Simplest Annotation,0.2336768281833845
+Using Caption and Subtitle Files with Video Content,Embedded or referenced Annotations,0.1466246866858868
+Using Caption and Subtitle Files with Video Content,Missing Images in a Sequence,0.17981748599893438
+Using Caption and Subtitle Files with Video Content,Addressing a Spatial Region,0.17846513463625838
+Using Caption and Subtitle Files with Video Content,Image in Annotations,0.21346298373147704
+Navigation by Chronology,Simplest Manifest - Single Image File,0.14492259831856016
+Navigation by Chronology,Simplest Manifest - Audio,0.09137703659613779
+Navigation by Chronology,Simplest Manifest - Video,0.10344842604004177
+Navigation by Chronology,Image and Canvas with Differing Dimensions,0.1251091148433255
+Navigation by Chronology,Support Deep Viewing with Basic Use of a IIIF Image Service,0.1894550053364381
+Navigation by Chronology,Internationalization and Multi-language Values,0.11263588966781322
+Navigation by Chronology,Embedding HTML in descriptive properties,0.1168946382600831
+Navigation by Chronology,Rights statement,0.11894700209523035
+Navigation by Chronology,Simple Manifest - Book,0.16191955349869724
+Navigation by Chronology,Viewing direction and Its Effect on Navigation,0.1298480879937424
+Navigation by Chronology,"Book 'behavior' Variations (continuous, individuals)",0.13843137438467257
+Navigation by Chronology,Load a Preview Image Before the Main Content,0.09591409371493968
+Navigation by Chronology,Audio Presentation with Accompanying Image,0.1136690631494004
+Navigation by Chronology,Begin playback at a specific point - Time-based media,0.09258371117069826
+Navigation by Chronology,Providing Access to Transcript Files of A/V Content,0.09330525294545093
+Navigation by Chronology,HTML in Annotations,0.11680352321786935
+Navigation by Chronology,Simple Annotation — Tagging,0.1374159281652418
+Navigation by Chronology,Table of Contents for Book Chapters,0.13155929725916393
+Navigation by Chronology,Table of Contents for A/V Content,0.09384561179367733
+Navigation by Chronology,Metadata on any Resource,0.11027366368824487
+Navigation by Chronology,Multi-volume Work with Individually-bound Volumes,0.10038365116464389
+Navigation by Chronology,Multiple Volumes in a Single Bound Volume,0.11717846189587824
+Navigation by Chronology,Simple Collection,0.19588803707656774
+Navigation by Chronology,Providing Alternative Representations,0.1613365704359184
+Navigation by Chronology,Linking to Web Page of an Object,0.1496987617953454
+Navigation by Chronology,Linking to Structured Metadata,0.16328401008050283
+Navigation by Chronology,Table of Contents for Multiple A/V Files on a Single Canvas,0.09581227636928095
+Navigation by Chronology,Table of Contents for Multiple A/V Files on Multiple Canvases,0.09788385516919378
+Navigation by Chronology,Basic Newspaper,0.09034297452099181
+Navigation by Chronology,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.09163725820255934
+Navigation by Chronology,Image Thumbnail for Manifest,0.1777989012191337
+Navigation by Chronology,Displaying Multiple Values with Language Maps,0.10839431233691176
+Navigation by Chronology,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.20450305782291467
+Navigation by Chronology,Locate a Manifest on a Web Map,0.12637495816851893
+Navigation by Chronology,Load Manifest Beginning with a Specific Canvas,0.14911532201839137
+Navigation by Chronology,Using Caption and Subtitle Files with Video Content,0.08779612624630047
+Navigation by Chronology,Acknowledge Content Contributors,0.12442496272118053
+Navigation by Chronology,Locate Multiple Canvases on a Web Map,0.12425437496022435
+Navigation by Chronology,Annotation with a Non-Rectangular Polygon (Updated),0.07489091507416107
+Navigation by Chronology,Simplest Annotation,0.1483403047692535
+Navigation by Chronology,Embedded or referenced Annotations,0.08123106462018176
+Navigation by Chronology,Missing Images in a Sequence,0.15258597137725113
+Navigation by Chronology,Addressing a Spatial Region,0.13812491504890057
+Navigation by Chronology,Image in Annotations,0.16333231961555666
+Acknowledge Content Contributors,Simplest Manifest - Single Image File,0.22720280458263983
+Acknowledge Content Contributors,Simplest Manifest - Audio,0.13299400991132096
+Acknowledge Content Contributors,Simplest Manifest - Video,0.15680012385430478
+Acknowledge Content Contributors,Image and Canvas with Differing Dimensions,0.19246566620061914
+Acknowledge Content Contributors,Support Deep Viewing with Basic Use of a IIIF Image Service,0.27625505793097416
+Acknowledge Content Contributors,Internationalization and Multi-language Values,0.17466351080215287
+Acknowledge Content Contributors,Embedding HTML in descriptive properties,0.17752428384858074
+Acknowledge Content Contributors,Rights statement,0.18060931186224372
+Acknowledge Content Contributors,Simple Manifest - Book,0.23989576301199794
+Acknowledge Content Contributors,Viewing direction and Its Effect on Navigation,0.23562469680282147
+Acknowledge Content Contributors,"Book 'behavior' Variations (continuous, individuals)",0.2044479851648168
+Acknowledge Content Contributors,Load a Preview Image Before the Main Content,0.14976384355312541
+Acknowledge Content Contributors,Audio Presentation with Accompanying Image,0.17700609750457297
+Acknowledge Content Contributors,Begin playback at a specific point - Time-based media,0.13675395947215913
+Acknowledge Content Contributors,Providing Access to Transcript Files of A/V Content,0.15024554399472223
+Acknowledge Content Contributors,HTML in Annotations,0.21215201746475382
+Acknowledge Content Contributors,Simple Annotation — Tagging,0.20602365799904834
+Acknowledge Content Contributors,Table of Contents for Book Chapters,0.19701084156258072
+Acknowledge Content Contributors,Table of Contents for A/V Content,0.14473892705530514
+Acknowledge Content Contributors,Metadata on any Resource,0.20321357202723922
+Acknowledge Content Contributors,Multi-volume Work with Individually-bound Volumes,0.10778016669358281
+Acknowledge Content Contributors,Multiple Volumes in a Single Bound Volume,0.1791985274164275
+Acknowledge Content Contributors,Simple Collection,0.15528145604919158
+Acknowledge Content Contributors,Providing Alternative Representations,0.30008811648039
+Acknowledge Content Contributors,Linking to Web Page of an Object,0.2576633541811881
+Acknowledge Content Contributors,Linking to Structured Metadata,0.33805441480098597
+Acknowledge Content Contributors,Table of Contents for Multiple A/V Files on a Single Canvas,0.1524195503857124
+Acknowledge Content Contributors,Table of Contents for Multiple A/V Files on Multiple Canvases,0.14980749291702578
+Acknowledge Content Contributors,Basic Newspaper,0.14021516778003637
+Acknowledge Content Contributors,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1519652960554893
+Acknowledge Content Contributors,Image Thumbnail for Manifest,0.4281374099630993
+Acknowledge Content Contributors,Displaying Multiple Values with Language Maps,0.16118791577932204
+Acknowledge Content Contributors,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.16322791480313717
+Acknowledge Content Contributors,Locate a Manifest on a Web Map,0.17846882575619685
+Acknowledge Content Contributors,Load Manifest Beginning with a Specific Canvas,0.22715428650478048
+Acknowledge Content Contributors,Using Caption and Subtitle Files with Video Content,0.13962803806559518
+Acknowledge Content Contributors,Navigation by Chronology,0.12442496272118053
+Acknowledge Content Contributors,Locate Multiple Canvases on a Web Map,0.18275139568082038
+Acknowledge Content Contributors,Annotation with a Non-Rectangular Polygon (Updated),0.1144622286585654
+Acknowledge Content Contributors,Simplest Annotation,0.23848189084714116
+Acknowledge Content Contributors,Embedded or referenced Annotations,0.12094497201784854
+Acknowledge Content Contributors,Missing Images in a Sequence,0.22236029249798717
+Acknowledge Content Contributors,Addressing a Spatial Region,0.19471721331656563
+Acknowledge Content Contributors,Image in Annotations,0.25154690977030963
+Locate Multiple Canvases on a Web Map,Simplest Manifest - Single Image File,0.22577812941638747
+Locate Multiple Canvases on a Web Map,Simplest Manifest - Audio,0.15678539240552677
+Locate Multiple Canvases on a Web Map,Simplest Manifest - Video,0.17818067739342366
+Locate Multiple Canvases on a Web Map,Image and Canvas with Differing Dimensions,0.2067752515624809
+Locate Multiple Canvases on a Web Map,Support Deep Viewing with Basic Use of a IIIF Image Service,0.28869912182316415
+Locate Multiple Canvases on a Web Map,Internationalization and Multi-language Values,0.16235899235069282
+Locate Multiple Canvases on a Web Map,Embedding HTML in descriptive properties,0.18304830655053644
+Locate Multiple Canvases on a Web Map,Rights statement,0.18755332925662654
+Locate Multiple Canvases on a Web Map,Simple Manifest - Book,0.261248361780787
+Locate Multiple Canvases on a Web Map,Viewing direction and Its Effect on Navigation,0.20623170918788286
+Locate Multiple Canvases on a Web Map,"Book 'behavior' Variations (continuous, individuals)",0.22309463188842454
+Locate Multiple Canvases on a Web Map,Load a Preview Image Before the Main Content,0.16573619189678473
+Locate Multiple Canvases on a Web Map,Audio Presentation with Accompanying Image,0.19327504462282458
+Locate Multiple Canvases on a Web Map,Begin playback at a specific point - Time-based media,0.14721094280755287
+Locate Multiple Canvases on a Web Map,Providing Access to Transcript Files of A/V Content,0.15897609805634882
+Locate Multiple Canvases on a Web Map,HTML in Annotations,0.20263716699592785
+Locate Multiple Canvases on a Web Map,Simple Annotation — Tagging,0.2269690099519313
+Locate Multiple Canvases on a Web Map,Table of Contents for Book Chapters,0.21753148627808977
+Locate Multiple Canvases on a Web Map,Table of Contents for A/V Content,0.16827361255318013
+Locate Multiple Canvases on a Web Map,Metadata on any Resource,0.20231944008156885
+Locate Multiple Canvases on a Web Map,Multi-volume Work with Individually-bound Volumes,0.13276282243809756
+Locate Multiple Canvases on a Web Map,Multiple Volumes in a Single Bound Volume,0.19470759365990994
+Locate Multiple Canvases on a Web Map,Simple Collection,0.19788946850636066
+Locate Multiple Canvases on a Web Map,Providing Alternative Representations,0.25590863351853543
+Locate Multiple Canvases on a Web Map,Linking to Web Page of an Object,0.26527544026650096
+Locate Multiple Canvases on a Web Map,Linking to Structured Metadata,0.25882616149618337
+Locate Multiple Canvases on a Web Map,Table of Contents for Multiple A/V Files on a Single Canvas,0.17306236979152914
+Locate Multiple Canvases on a Web Map,Table of Contents for Multiple A/V Files on Multiple Canvases,0.33281620731446504
+Locate Multiple Canvases on a Web Map,Basic Newspaper,0.15034462809835195
+Locate Multiple Canvases on a Web Map,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1582155656578079
+Locate Multiple Canvases on a Web Map,Image Thumbnail for Manifest,0.23374409447776284
+Locate Multiple Canvases on a Web Map,Displaying Multiple Values with Language Maps,0.17936413089072026
+Locate Multiple Canvases on a Web Map,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.19581649479241522
+Locate Multiple Canvases on a Web Map,Locate a Manifest on a Web Map,0.38202592818167086
+Locate Multiple Canvases on a Web Map,Load Manifest Beginning with a Specific Canvas,0.24949627794308638
+Locate Multiple Canvases on a Web Map,Using Caption and Subtitle Files with Video Content,0.1533728020520604
+Locate Multiple Canvases on a Web Map,Navigation by Chronology,0.12425437496022435
+Locate Multiple Canvases on a Web Map,Acknowledge Content Contributors,0.18275139568082038
+Locate Multiple Canvases on a Web Map,Annotation with a Non-Rectangular Polygon (Updated),0.12366141116903334
+Locate Multiple Canvases on a Web Map,Simplest Annotation,0.26581986084125175
+Locate Multiple Canvases on a Web Map,Embedded or referenced Annotations,0.1483451383835457
+Locate Multiple Canvases on a Web Map,Missing Images in a Sequence,0.23743017589468104
+Locate Multiple Canvases on a Web Map,Addressing a Spatial Region,0.2178763295622692
+Locate Multiple Canvases on a Web Map,Image in Annotations,0.26592639610956637
+Annotation with a Non-Rectangular Polygon (Updated),Simplest Manifest - Single Image File,0.16308611526680888
+Annotation with a Non-Rectangular Polygon (Updated),Simplest Manifest - Audio,0.106689606100478
+Annotation with a Non-Rectangular Polygon (Updated),Simplest Manifest - Video,0.12072324098115315
+Annotation with a Non-Rectangular Polygon (Updated),Image and Canvas with Differing Dimensions,0.1501682803842481
+Annotation with a Non-Rectangular Polygon (Updated),Support Deep Viewing with Basic Use of a IIIF Image Service,0.23832278869550325
+Annotation with a Non-Rectangular Polygon (Updated),Internationalization and Multi-language Values,0.1247065147950598
+Annotation with a Non-Rectangular Polygon (Updated),Embedding HTML in descriptive properties,0.15830871259090049
+Annotation with a Non-Rectangular Polygon (Updated),Rights statement,0.16404735296727926
+Annotation with a Non-Rectangular Polygon (Updated),Simple Manifest - Book,0.17689341590814503
+Annotation with a Non-Rectangular Polygon (Updated),Viewing direction and Its Effect on Navigation,0.13636744400558587
+Annotation with a Non-Rectangular Polygon (Updated),"Book 'behavior' Variations (continuous, individuals)",0.14777631146302878
+Annotation with a Non-Rectangular Polygon (Updated),Load a Preview Image Before the Main Content,0.11085526455033318
+Annotation with a Non-Rectangular Polygon (Updated),Audio Presentation with Accompanying Image,0.1337986802357501
+Annotation with a Non-Rectangular Polygon (Updated),Begin playback at a specific point - Time-based media,0.10959017786928446
+Annotation with a Non-Rectangular Polygon (Updated),Providing Access to Transcript Files of A/V Content,0.108534246949103
+Annotation with a Non-Rectangular Polygon (Updated),HTML in Annotations,0.17852310707079377
+Annotation with a Non-Rectangular Polygon (Updated),Simple Annotation — Tagging,0.216633588909462
+Annotation with a Non-Rectangular Polygon (Updated),Table of Contents for Book Chapters,0.1462036046393128
+Annotation with a Non-Rectangular Polygon (Updated),Table of Contents for A/V Content,0.10943798852692879
+Annotation with a Non-Rectangular Polygon (Updated),Metadata on any Resource,0.12065604944866203
+Annotation with a Non-Rectangular Polygon (Updated),Multi-volume Work with Individually-bound Volumes,0.08251182801445076
+Annotation with a Non-Rectangular Polygon (Updated),Multiple Volumes in a Single Bound Volume,0.13180217313044035
+Annotation with a Non-Rectangular Polygon (Updated),Simple Collection,0.10977064013190181
+Annotation with a Non-Rectangular Polygon (Updated),Providing Alternative Representations,0.1692636396062495
+Annotation with a Non-Rectangular Polygon (Updated),Linking to Web Page of an Object,0.1542464335200272
+Annotation with a Non-Rectangular Polygon (Updated),Linking to Structured Metadata,0.17220018882791982
+Annotation with a Non-Rectangular Polygon (Updated),Table of Contents for Multiple A/V Files on a Single Canvas,0.11438798458952663
+Annotation with a Non-Rectangular Polygon (Updated),Table of Contents for Multiple A/V Files on Multiple Canvases,0.10877517573859755
+Annotation with a Non-Rectangular Polygon (Updated),Basic Newspaper,0.1542313577596943
+Annotation with a Non-Rectangular Polygon (Updated),Using Caption and Subtitle Files in Multiple Languages with Video Content,0.11402188724976589
+Annotation with a Non-Rectangular Polygon (Updated),Image Thumbnail for Manifest,0.14438508558660598
+Annotation with a Non-Rectangular Polygon (Updated),Displaying Multiple Values with Language Maps,0.11690081006336901
+Annotation with a Non-Rectangular Polygon (Updated),Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.11654795021048958
+Annotation with a Non-Rectangular Polygon (Updated),Locate a Manifest on a Web Map,0.12861983020496265
+Annotation with a Non-Rectangular Polygon (Updated),Load Manifest Beginning with a Specific Canvas,0.16951938573069053
+Annotation with a Non-Rectangular Polygon (Updated),Using Caption and Subtitle Files with Video Content,0.10568929450590869
+Annotation with a Non-Rectangular Polygon (Updated),Navigation by Chronology,0.07489091507416107
+Annotation with a Non-Rectangular Polygon (Updated),Acknowledge Content Contributors,0.1144622286585654
+Annotation with a Non-Rectangular Polygon (Updated),Locate Multiple Canvases on a Web Map,0.12366141116903334
+Annotation with a Non-Rectangular Polygon (Updated),Simplest Annotation,0.22442640101086708
+Annotation with a Non-Rectangular Polygon (Updated),Embedded or referenced Annotations,0.1444511367596058
+Annotation with a Non-Rectangular Polygon (Updated),Missing Images in a Sequence,0.16092813894503824
+Annotation with a Non-Rectangular Polygon (Updated),Addressing a Spatial Region,0.16027948741585238
+Annotation with a Non-Rectangular Polygon (Updated),Image in Annotations,0.22224095690857779
+Simplest Annotation,Simplest Manifest - Single Image File,0.32303203717870077
+Simplest Annotation,Simplest Manifest - Audio,0.23664259019307576
+Simplest Annotation,Simplest Manifest - Video,0.2672554692543317
+Simplest Annotation,Image and Canvas with Differing Dimensions,0.32646467786246663
+Simplest Annotation,Support Deep Viewing with Basic Use of a IIIF Image Service,0.47775293806070523
+Simplest Annotation,Internationalization and Multi-language Values,0.24583128338861202
+Simplest Annotation,Embedding HTML in descriptive properties,0.30532643495751394
+Simplest Annotation,Rights statement,0.3135830011540182
+Simplest Annotation,Simple Manifest - Book,0.3717291618984709
+Simplest Annotation,Viewing direction and Its Effect on Navigation,0.2875520283038469
+Simplest Annotation,"Book 'behavior' Variations (continuous, individuals)",0.31801160157126035
+Simplest Annotation,Load a Preview Image Before the Main Content,0.24284544369145014
+Simplest Annotation,Audio Presentation with Accompanying Image,0.29015436142223844
+Simplest Annotation,Begin playback at a specific point - Time-based media,0.21540048732090403
+Simplest Annotation,Providing Access to Transcript Files of A/V Content,0.23714484920893075
+Simplest Annotation,HTML in Annotations,0.4208072115514983
+Simplest Annotation,Simple Annotation — Tagging,0.3911317767908972
+Simplest Annotation,Table of Contents for Book Chapters,0.3135904275651314
+Simplest Annotation,Table of Contents for A/V Content,0.2415858193616752
+Simplest Annotation,Metadata on any Resource,0.2377146001736917
+Simplest Annotation,Multi-volume Work with Individually-bound Volumes,0.15974361469255347
+Simplest Annotation,Multiple Volumes in a Single Bound Volume,0.28221561884743795
+Simplest Annotation,Simple Collection,0.21276961837999717
+Simplest Annotation,Providing Alternative Representations,0.3562962233448977
+Simplest Annotation,Linking to Web Page of an Object,0.32635243827958865
+Simplest Annotation,Linking to Structured Metadata,0.3602644330417075
+Simplest Annotation,Table of Contents for Multiple A/V Files on a Single Canvas,0.2789893616402969
+Simplest Annotation,Table of Contents for Multiple A/V Files on Multiple Canvases,0.23975358804501606
+Simplest Annotation,Basic Newspaper,0.2474462004467503
+Simplest Annotation,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.24050802049708817
+Simplest Annotation,Image Thumbnail for Manifest,0.29849854541054055
+Simplest Annotation,Displaying Multiple Values with Language Maps,0.2545727656130869
+Simplest Annotation,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.2678248422894249
+Simplest Annotation,Locate a Manifest on a Web Map,0.2736642673582804
+Simplest Annotation,Load Manifest Beginning with a Specific Canvas,0.38902229565118523
+Simplest Annotation,Using Caption and Subtitle Files with Video Content,0.2336768281833845
+Simplest Annotation,Navigation by Chronology,0.1483403047692535
+Simplest Annotation,Acknowledge Content Contributors,0.23848189084714116
+Simplest Annotation,Locate Multiple Canvases on a Web Map,0.26581986084125175
+Simplest Annotation,Annotation with a Non-Rectangular Polygon (Updated),0.22442640101086708
+Simplest Annotation,Embedded or referenced Annotations,0.31785771154198894
+Simplest Annotation,Missing Images in a Sequence,0.3346217756654834
+Simplest Annotation,Addressing a Spatial Region,0.30370710423808356
+Simplest Annotation,Image in Annotations,0.527933832156628
+Embedded or referenced Annotations,Simplest Manifest - Single Image File,0.16909233313756647
+Embedded or referenced Annotations,Simplest Manifest - Audio,0.13661757576907432
+Embedded or referenced Annotations,Simplest Manifest - Video,0.1517079247798536
+Embedded or referenced Annotations,Image and Canvas with Differing Dimensions,0.17089273540015637
+Embedded or referenced Annotations,Support Deep Viewing with Basic Use of a IIIF Image Service,0.19785138380815018
+Embedded or referenced Annotations,Internationalization and Multi-language Values,0.16111983972961338
+Embedded or referenced Annotations,Embedding HTML in descriptive properties,0.13758463928469836
+Embedded or referenced Annotations,Rights statement,0.13990947483697813
+Embedded or referenced Annotations,Simple Manifest - Book,0.1848136313820556
+Embedded or referenced Annotations,Viewing direction and Its Effect on Navigation,0.14266916730136697
+Embedded or referenced Annotations,"Book 'behavior' Variations (continuous, individuals)",0.1589560400804444
+Embedded or referenced Annotations,Load a Preview Image Before the Main Content,0.13619676009760306
+Embedded or referenced Annotations,Audio Presentation with Accompanying Image,0.15109561186716752
+Embedded or referenced Annotations,Begin playback at a specific point - Time-based media,0.1268010631183187
+Embedded or referenced Annotations,Providing Access to Transcript Files of A/V Content,0.13996299299202414
+Embedded or referenced Annotations,HTML in Annotations,0.3160275911640481
+Embedded or referenced Annotations,Simple Annotation — Tagging,0.22067003147878458
+Embedded or referenced Annotations,Table of Contents for Book Chapters,0.15925550881674438
+Embedded or referenced Annotations,Table of Contents for A/V Content,0.13700021843380497
+Embedded or referenced Annotations,Metadata on any Resource,0.12613703397515877
+Embedded or referenced Annotations,Multi-volume Work with Individually-bound Volumes,0.10913777391989773
+Embedded or referenced Annotations,Multiple Volumes in a Single Bound Volume,0.1450192197235059
+Embedded or referenced Annotations,Simple Collection,0.13892448395782164
+Embedded or referenced Annotations,Providing Alternative Representations,0.1780541432283307
+Embedded or referenced Annotations,Linking to Web Page of an Object,0.1772810450059015
+Embedded or referenced Annotations,Linking to Structured Metadata,0.18007314429314275
+Embedded or referenced Annotations,Table of Contents for Multiple A/V Files on a Single Canvas,0.14437140942770313
+Embedded or referenced Annotations,Table of Contents for Multiple A/V Files on Multiple Canvases,0.13337307511674487
+Embedded or referenced Annotations,Basic Newspaper,0.18393387157819724
+Embedded or referenced Annotations,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17254316398290304
+Embedded or referenced Annotations,Image Thumbnail for Manifest,0.14043766944407926
+Embedded or referenced Annotations,Displaying Multiple Values with Language Maps,0.14904854577677962
+Embedded or referenced Annotations,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.14810675772840737
+Embedded or referenced Annotations,Locate a Manifest on a Web Map,0.15743620361126645
+Embedded or referenced Annotations,Load Manifest Beginning with a Specific Canvas,0.1826017751827947
+Embedded or referenced Annotations,Using Caption and Subtitle Files with Video Content,0.1466246866858868
+Embedded or referenced Annotations,Navigation by Chronology,0.08123106462018176
+Embedded or referenced Annotations,Acknowledge Content Contributors,0.12094497201784854
+Embedded or referenced Annotations,Locate Multiple Canvases on a Web Map,0.1483451383835457
+Embedded or referenced Annotations,Annotation with a Non-Rectangular Polygon (Updated),0.1444511367596058
+Embedded or referenced Annotations,Simplest Annotation,0.31785771154198894
+Embedded or referenced Annotations,Missing Images in a Sequence,0.16991015367496504
+Embedded or referenced Annotations,Addressing a Spatial Region,0.16944896998597533
+Embedded or referenced Annotations,Image in Annotations,0.24898472164862995
+Missing Images in a Sequence,Simplest Manifest - Single Image File,0.33827747061549535
+Missing Images in a Sequence,Simplest Manifest - Audio,0.18243033050448274
+Missing Images in a Sequence,Simplest Manifest - Video,0.20980037574139906
+Missing Images in a Sequence,Image and Canvas with Differing Dimensions,0.2815411915773598
+Missing Images in a Sequence,Support Deep Viewing with Basic Use of a IIIF Image Service,0.4299960414394536
+Missing Images in a Sequence,Internationalization and Multi-language Values,0.2185576702843173
+Missing Images in a Sequence,Embedding HTML in descriptive properties,0.24431192992676495
+Missing Images in a Sequence,Rights statement,0.2488015286812567
+Missing Images in a Sequence,Simple Manifest - Book,0.3680043619144831
+Missing Images in a Sequence,Viewing direction and Its Effect on Navigation,0.2836502644550137
+Missing Images in a Sequence,"Book 'behavior' Variations (continuous, individuals)",0.33821293430305804
+Missing Images in a Sequence,Load a Preview Image Before the Main Content,0.20267966944527363
+Missing Images in a Sequence,Audio Presentation with Accompanying Image,0.24861166387378514
+Missing Images in a Sequence,Begin playback at a specific point - Time-based media,0.168278886039892
+Missing Images in a Sequence,Providing Access to Transcript Files of A/V Content,0.1863184645430689
+Missing Images in a Sequence,HTML in Annotations,0.24609053139575995
+Missing Images in a Sequence,Simple Annotation — Tagging,0.29669002648390674
+Missing Images in a Sequence,Table of Contents for Book Chapters,0.3711070224792394
+Missing Images in a Sequence,Table of Contents for A/V Content,0.19021011800245077
+Missing Images in a Sequence,Metadata on any Resource,0.2324326833669164
+Missing Images in a Sequence,Multi-volume Work with Individually-bound Volumes,0.13788868027356238
+Missing Images in a Sequence,Multiple Volumes in a Single Bound Volume,0.26500171659218935
+Missing Images in a Sequence,Simple Collection,0.1877013116849967
+Missing Images in a Sequence,Providing Alternative Representations,0.35082745589689485
+Missing Images in a Sequence,Linking to Web Page of an Object,0.28863950084242357
+Missing Images in a Sequence,Linking to Structured Metadata,0.35548177686046556
+Missing Images in a Sequence,Table of Contents for Multiple A/V Files on a Single Canvas,0.20466881437487902
+Missing Images in a Sequence,Table of Contents for Multiple A/V Files on Multiple Canvases,0.19483058162029376
+Missing Images in a Sequence,Basic Newspaper,0.17437794245822688
+Missing Images in a Sequence,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.17847053705874252
+Missing Images in a Sequence,Image Thumbnail for Manifest,0.3264898301381517
+Missing Images in a Sequence,Displaying Multiple Values with Language Maps,0.2068000952136201
+Missing Images in a Sequence,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.21451899535106653
+Missing Images in a Sequence,Locate a Manifest on a Web Map,0.2423009570669487
+Missing Images in a Sequence,Load Manifest Beginning with a Specific Canvas,0.3533769163501784
+Missing Images in a Sequence,Using Caption and Subtitle Files with Video Content,0.17981748599893438
+Missing Images in a Sequence,Navigation by Chronology,0.15258597137725113
+Missing Images in a Sequence,Acknowledge Content Contributors,0.22236029249798717
+Missing Images in a Sequence,Locate Multiple Canvases on a Web Map,0.23743017589468104
+Missing Images in a Sequence,Annotation with a Non-Rectangular Polygon (Updated),0.16092813894503824
+Missing Images in a Sequence,Simplest Annotation,0.3346217756654834
+Missing Images in a Sequence,Embedded or referenced Annotations,0.16991015367496504
+Missing Images in a Sequence,Addressing a Spatial Region,0.30426167490622646
+Missing Images in a Sequence,Image in Annotations,0.37444857792503705
+Addressing a Spatial Region,Simplest Manifest - Single Image File,0.29028422971061124
+Addressing a Spatial Region,Simplest Manifest - Audio,0.18517618713269782
+Addressing a Spatial Region,Simplest Manifest - Video,0.2102845440478907
+Addressing a Spatial Region,Image and Canvas with Differing Dimensions,0.2623479974381843
+Addressing a Spatial Region,Support Deep Viewing with Basic Use of a IIIF Image Service,0.3605497147161198
+Addressing a Spatial Region,Internationalization and Multi-language Values,0.1947570143617638
+Addressing a Spatial Region,Embedding HTML in descriptive properties,0.22309413450256843
+Addressing a Spatial Region,Rights statement,0.2297798937224666
+Addressing a Spatial Region,Simple Manifest - Book,0.31375634126954655
+Addressing a Spatial Region,Viewing direction and Its Effect on Navigation,0.24161245723569683
+Addressing a Spatial Region,"Book 'behavior' Variations (continuous, individuals)",0.26172032899161085
+Addressing a Spatial Region,Load a Preview Image Before the Main Content,0.19256056558387824
+Addressing a Spatial Region,Audio Presentation with Accompanying Image,0.2312344161628314
+Addressing a Spatial Region,Begin playback at a specific point - Time-based media,0.17802681699102635
+Addressing a Spatial Region,Providing Access to Transcript Files of A/V Content,0.18604437640254334
+Addressing a Spatial Region,HTML in Annotations,0.22830463928185685
+Addressing a Spatial Region,Simple Annotation — Tagging,0.284525953339442
+Addressing a Spatial Region,Table of Contents for Book Chapters,0.2625889741903586
+Addressing a Spatial Region,Table of Contents for A/V Content,0.18846823653097378
+Addressing a Spatial Region,Metadata on any Resource,0.1926571075529977
+Addressing a Spatial Region,Multi-volume Work with Individually-bound Volumes,0.15016074825404305
+Addressing a Spatial Region,Multiple Volumes in a Single Bound Volume,0.2309976124909895
+Addressing a Spatial Region,Simple Collection,0.1991547892318617
+Addressing a Spatial Region,Providing Alternative Representations,0.29934325455836513
+Addressing a Spatial Region,Linking to Web Page of an Object,0.2605856049370683
+Addressing a Spatial Region,Linking to Structured Metadata,0.3028627862765035
+Addressing a Spatial Region,Table of Contents for Multiple A/V Files on a Single Canvas,0.1934212267899445
+Addressing a Spatial Region,Table of Contents for Multiple A/V Files on Multiple Canvases,0.18523117292034466
+Addressing a Spatial Region,Basic Newspaper,0.26355029184932693
+Addressing a Spatial Region,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.1778984299701932
+Addressing a Spatial Region,Image Thumbnail for Manifest,0.26090472339313453
+Addressing a Spatial Region,Displaying Multiple Values with Language Maps,0.1898169165666301
+Addressing a Spatial Region,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.20097130885999825
+Addressing a Spatial Region,Locate a Manifest on a Web Map,0.22845958536281966
+Addressing a Spatial Region,Load Manifest Beginning with a Specific Canvas,0.29981259744013716
+Addressing a Spatial Region,Using Caption and Subtitle Files with Video Content,0.17846513463625838
+Addressing a Spatial Region,Navigation by Chronology,0.13812491504890057
+Addressing a Spatial Region,Acknowledge Content Contributors,0.19471721331656563
+Addressing a Spatial Region,Locate Multiple Canvases on a Web Map,0.2178763295622692
+Addressing a Spatial Region,Annotation with a Non-Rectangular Polygon (Updated),0.16027948741585238
+Addressing a Spatial Region,Simplest Annotation,0.30370710423808356
+Addressing a Spatial Region,Embedded or referenced Annotations,0.16944896998597533
+Addressing a Spatial Region,Missing Images in a Sequence,0.30426167490622646
+Addressing a Spatial Region,Image in Annotations,0.30757571650685406
+Image in Annotations,Simplest Manifest - Single Image File,0.3568335974821258
+Image in Annotations,Simplest Manifest - Audio,0.20931196163310672
+Image in Annotations,Simplest Manifest - Video,0.23638739116613042
+Image in Annotations,Image and Canvas with Differing Dimensions,0.3062024497629808
+Image in Annotations,Support Deep Viewing with Basic Use of a IIIF Image Service,0.5416399649770374
+Image in Annotations,Internationalization and Multi-language Values,0.24986035999648645
+Image in Annotations,Embedding HTML in descriptive properties,0.32628429047046587
+Image in Annotations,Rights statement,0.335149096229359
+Image in Annotations,Simple Manifest - Book,0.38314930479888915
+Image in Annotations,Viewing direction and Its Effect on Navigation,0.3008392540651136
+Image in Annotations,"Book 'behavior' Variations (continuous, individuals)",0.32749878922429393
+Image in Annotations,Load a Preview Image Before the Main Content,0.22712519108407853
+Image in Annotations,Audio Presentation with Accompanying Image,0.27459264212272694
+Image in Annotations,Begin playback at a specific point - Time-based media,0.19597911943492496
+Image in Annotations,Providing Access to Transcript Files of A/V Content,0.20861314024217412
+Image in Annotations,HTML in Annotations,0.47034248459823874
+Image in Annotations,Simple Annotation — Tagging,0.39290233046185064
+Image in Annotations,Table of Contents for Book Chapters,0.31149095436552526
+Image in Annotations,Table of Contents for A/V Content,0.21529414750463952
+Image in Annotations,Metadata on any Resource,0.2868135077579823
+Image in Annotations,Multi-volume Work with Individually-bound Volumes,0.153383528701978
+Image in Annotations,Multiple Volumes in a Single Bound Volume,0.27873433562268535
+Image in Annotations,Simple Collection,0.20975826760336927
+Image in Annotations,Providing Alternative Representations,0.3719612907566273
+Image in Annotations,Linking to Web Page of an Object,0.31608284539916437
+Image in Annotations,Linking to Structured Metadata,0.3760481747206987
+Image in Annotations,Table of Contents for Multiple A/V Files on a Single Canvas,0.23559665271971103
+Image in Annotations,Table of Contents for Multiple A/V Files on Multiple Canvases,0.21855535022951503
+Image in Annotations,Basic Newspaper,0.22064980532132847
+Image in Annotations,Using Caption and Subtitle Files in Multiple Languages with Video Content,0.23010399542127802
+Image in Annotations,Image Thumbnail for Manifest,0.35797583129229704
+Image in Annotations,Displaying Multiple Values with Language Maps,0.27529006679093915
+Image in Annotations,Represent Canvas Fragment as a Geographic Area in a Web Mapping Client,0.24496774979278477
+Image in Annotations,Locate a Manifest on a Web Map,0.27309677216051675
+Image in Annotations,Load Manifest Beginning with a Specific Canvas,0.3732447950207826
+Image in Annotations,Using Caption and Subtitle Files with Video Content,0.21346298373147704
+Image in Annotations,Navigation by Chronology,0.16333231961555666
+Image in Annotations,Acknowledge Content Contributors,0.25154690977030963
+Image in Annotations,Locate Multiple Canvases on a Web Map,0.26592639610956637
+Image in Annotations,Annotation with a Non-Rectangular Polygon (Updated),0.22224095690857779
+Image in Annotations,Simplest Annotation,0.527933832156628
+Image in Annotations,Embedded or referenced Annotations,0.24898472164862995
+Image in Annotations,Missing Images in a Sequence,0.37444857792503705
+Image in Annotations,Addressing a Spatial Region,0.30757571650685406
