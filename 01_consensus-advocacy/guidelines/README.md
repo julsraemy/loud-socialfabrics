@@ -1,31 +1,45 @@
 # Guidelines
 
-TBD
-
 ## IIIF Cookbook Recipes
 
-Several Python scripts to analyse IIIF Cookbook recipes and create graph...
+The following Python scripts are designed to analyze and visualize relationships within the IIIF Cookbook recipes, enhancing understanding of viewers, support properties, JSON structures, and content similarities.
 
-### Viewers, Support, Properties
+### Recipe Metadata Extraction
 
-#### Fetching Cookbok Recipes
+**File:** [01a_iiif-recipes-fetch.py](./01a_iiif-recipes-fetch.py)
 
-?
+Extracts metadata from IIIF Cookbook recipes, including viewers, support status, and properties, and saves this information in a CSV file for further analysis.
 
-#### Static Graph with NetworkX
+### Network Graphs of Recipe Relationships
 
-#### Interactive Graph with PyVis
+**File:** [01b_iiif-recipes-networkx.py](./01b_iiif-recipes-networkx.py)
 
-...
+Generates static graphs using NetworkX to visualize relationships between recipes and viewers, highlighting support properties within the IIIF Cookbook.
 
-#### Preparing a Graph for Gephi
+### Interactive Recipe Visualization
 
-Gist: https://gist.github.com/julsraemy/5fda62f3516e390a1203c9560574fbb4
+**File:** [01c_iiif-recipes-PyVis.py](./01c_iiif-recipes-PyVis.py)
 
-### JSON Structure and Path
+Creates interactive visualizations of IIIF Cookbook recipes using PyVis, allowing for dynamic exploration of recipe connections and viewer support.
 
-...
+### Data Preparation for Gephi Analysis
+
+**File:** [01d_iiif-recipes-gephi.py](./01d_iiif-recipes-gephi.py)
+
+Prepares and exports recipe relationship data in a Gephi-compatible format, facilitating in-depth network analysis and visualization with external tools.
+
+### JSON Structure and Path Analysis
+
+**File:** [01e_iiif-recipes-json-paths.py](./01e_iiif-recipes-json-paths.py)
+
+Analyzes the JSON structure of the IIIF Cookbook recipes to identify and count common JSON paths and content links, with results available in both CSV and Markdown formats.
+
+### Content Similarity Among Recipes
+
+**File:** [01f_iiif-recipes-json-similarity.py](./01f_iiif-recipes-json-similarity.py)
+
+Compares content similarity across IIIF Cookbook recipes based on their JSON structures, leveraging cosine similarity metrics for analysis, suitable for graph-based visualization and analysis tools.
 
 ## Linked Art Patterns (Model Components)
 
-...
+TBD
