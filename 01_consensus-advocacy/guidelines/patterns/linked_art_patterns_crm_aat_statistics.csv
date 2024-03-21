@@ -1,0 +1,41 @@
+Type,Label,Count
+AAT Term,http://vocab.getty.edu/aat/300133025,40
+AAT Term,http://vocab.getty.edu/aat/300033618,36
+AAT Term,http://vocab.getty.edu/aat/300055863,25
+AAT Term,http://vocab.getty.edu/aat/300048715,5
+AAT Term,http://vocab.getty.edu/aat/300047090,4
+AAT Term,http://vocab.getty.edu/aat/300025976,3
+AAT Term,http://vocab.getty.edu/aat/300054751,2
+AAT Term,http://vocab.getty.edu/aat/300028051,2
+AAT Term,http://vocab.getty.edu/aat/300420001,2
+AAT Term,http://vocab.getty.edu/aat/300411307,2
+AAT Term,http://vocab.getty.edu/aat/300054766,2
+AAT Term,http://vocab.getty.edu/aat/300133025,1
+AAT Term,http://vocab.getty.edu/aat/300263534,1
+AAT Term,http://vocab.getty.edu/aat/300046300,1
+AAT Term,http://vocab.getty.edu/aat/300263817,1
+AAT Term,http://vocab.getty.edu/aat/300128347,1
+AAT Term,http://vocab.getty.edu/aat/300026096,1
+AAT Term,http://vocab.getty.edu/aat/300264578,1
+AAT Term,http://vocab.getty.edu/aat/300008389,1
+AAT Term,http://vocab.getty.edu/aat/300128207,1
+AAT Term,http://vocab.getty.edu/aat/300004792,1
+AAT Term,http://vocab.getty.edu/aat/300111159,1
+AAT Term,http://vocab.getty.edu/aat/300189557,1
+AAT Term,http://vocab.getty.edu/aat/300417637,1
+AAT Term,http://vocab.getty.edu/aat/300026068,1
+AAT Term,http://vocab.getty.edu/aat/300417531,1
+AAT Term,http://vocab.getty.edu/aat/300054773,1
+AAT Term,http://vocab.getty.edu/aat/300060417,1
+AAT Term,http://vocab.getty.edu/aat/300026032,1
+AAT Term,http://vocab.getty.edu/aat/300202389,1
+Main CRM/LA Class,HumanMadeObject,53
+Main CRM/LA Class,Activity,34
+Main CRM/LA Class,Person,13
+Main CRM/LA Class,LinguisticObject,8
+Main CRM/LA Class,Set,5
+Main CRM/LA Class,Unknown,4
+Main CRM/LA Class,Place,3
+Main CRM/LA Class,Group,1
+Main CRM/LA Class,DigitalObject,1
+Main CRM/LA Class,PropositionalObject,1

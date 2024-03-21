@@ -1,0 +1,1151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1: Core Properties" label="1: Core Properties">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="HumanMadeObject" label="HumanMadeObject">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="2: Types and Classifications" label="2: Types and Classifications">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Painting (http://vocab.getty.edu/aat/300033618)" label="Painting (http://vocab.getty.edu/aat/300033618)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="Work of Art (http://vocab.getty.edu/aat/300133025)" label="Work of Art (http://vocab.getty.edu/aat/300133025)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="3: Types of Types" label="3: Types of Types">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Artwork (http://vocab.getty.edu/aat/300133025)" label="Artwork (http://vocab.getty.edu/aat/300133025)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="4: Names and Identifiers for a Resource" label="4: Names and Identifiers for a Resource">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="5: Identifiers" label="5: Identifiers">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="6: Statements about a Resource" label="6: Statements about a Resource">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="7: Parts" label="7: Parts">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="8: Membership" label="8: Membership">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Group" label="Group">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="Department (http://vocab.getty.edu/aat/300263534)" label="Department (http://vocab.getty.edu/aat/300263534)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="9: Events and Activities" label="9: Events and Activities">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Activity" label="Activity">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="10: Time Span Details" label="10: Time Span Details">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Auction Event (http://vocab.getty.edu/aat/300054751)" label="Auction Event (http://vocab.getty.edu/aat/300054751)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="11: Base Production Activity" label="11: Base Production Activity">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="12: Techniques" label="12: Techniques">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Sculpture (http://vocab.getty.edu/aat/300047090)" label="Sculpture (http://vocab.getty.edu/aat/300047090)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="13: Classifications" label="13: Classifications">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="14: Multiple Artists" label="14: Multiple Artists">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="15: Inspiration or Copies" label="15: Inspiration or Copies">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="16: Reproduction from an Identifiable Source" label="16: Reproduction from an Identifiable Source">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Photograph (http://vocab.getty.edu/aat/300046300)" label="Photograph (http://vocab.getty.edu/aat/300046300)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="17: Attribution of a Group" label="17: Attribution of a Group">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="18: Uncertain or Changing Attributions" label="18: Uncertain or Changing Attributions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="19: Production by Removal" label="19: Production by Removal">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="20: Destruction " label="20: Destruction ">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="21: Cause of Destruction" label="21: Cause of Destruction">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="22: Other Specific Activities" label="22: Other Specific Activities">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="23: Dimensions" label="23: Dimensions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="24: Dimension Statement" label="24: Dimension Statement">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="25: Dimension Display Labels" label="25: Dimension Display Labels">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="26: Measurements of Dimensions" label="26: Measurements of Dimensions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="27: Colors" label="27: Colors">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="28: Shapes" label="28: Shapes">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Oval (http://vocab.getty.edu/aat/300263817)" label="Oval (http://vocab.getty.edu/aat/300263817)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="29: Materials" label="29: Materials">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="30: Materials Statement" label="30: Materials Statement">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="31: Environmental conditions" label="31: Environmental conditions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="32: Parts" label="32: Parts">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="33: Sides of an Object" label="33: Sides of an Object">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Color Photograph (http://vocab.getty.edu/aat/300128347)" label="Color Photograph (http://vocab.getty.edu/aat/300128347)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="34: Description" label="34: Description">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="35: Depiction" label="35: Depiction">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="36: Subject" label="36: Subject">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="37: Style Classification" label="37: Style Classification">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="38: Other Classifications" label="38: Other Classifications">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="39: Objects Carrying Textual Works" label="39: Objects Carrying Textual Works">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Book (http://vocab.getty.edu/aat/300028051)" label="Book (http://vocab.getty.edu/aat/300028051)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="40: Single Object, Multiple Works" label="40: Single Object, Multiple Works">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Exhibition Catalog (http://vocab.getty.edu/aat/300026096)" label="Exhibition Catalog (http://vocab.getty.edu/aat/300026096)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="41: Single Object, Single Textual and Visual Work" label="41: Single Object, Single Textual and Visual Work">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="42: Related Objects" label="42: Related Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="43: Ownership" label="43: Ownership">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="44: Custody" label="44: Custody">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="45: Location" label="45: Location">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="46: Credit / Attribution Statement" label="46: Credit / Attribution Statement">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="47: Rights Statement" label="47: Rights Statement">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="48: RightsStatements.org Assertions" label="48: RightsStatements.org Assertions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="49: Digital Objects" label="49: Digital Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="DigitalObject" label="DigitalObject">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="Web Page (http://vocab.getty.edu/aat/300264578)" label="Web Page (http://vocab.getty.edu/aat/300264578)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="50: Digital Images" label="50: Digital Images">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Person" label="Person">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="51: Digital Surrogates" label="51: Digital Surrogates">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="52: Home Page" label="52: Home Page">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="53: Other Pages" label="53: Other Pages">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="54: IIIF Images" label="54: IIIF Images">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="55: IIIF Manifests" label="55: IIIF Manifests">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="56: Core Information" label="56: Core Information">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Place" label="Place">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="City (http://vocab.getty.edu/aat/300008389)" label="City (http://vocab.getty.edu/aat/300008389)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="57: Geospatial Location" label="57: Geospatial Location">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Nation (http://vocab.getty.edu/aat/300128207)" label="Nation (http://vocab.getty.edu/aat/300128207)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="58: Geospatial Approximation" label="58: Geospatial Approximation">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="59: Buildings and &quot;Immovable&quot; Objects" label="59: Buildings and &quot;Immovable&quot; Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Building (http://vocab.getty.edu/aat/300004792)" label="Building (http://vocab.getty.edu/aat/300004792)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="60: Types" label="60: Types">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="61: Names" label="61: Names">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="62: Parts of Names" label="62: Parts of Names">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="63: Identity" label="63: Identity">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="64: Equivalent Resources" label="64: Equivalent Resources">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="65: Addresses" label="65: Addresses">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="66: Birth and Death / Formation and Dissolution" label="66: Birth and Death / Formation and Dissolution">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="67: Active Dates" label="67: Active Dates">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="68: Biography" label="68: Biography">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="69: Nationality" label="69: Nationality">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="British (http://vocab.getty.edu/aat/300111159)" label="British (http://vocab.getty.edu/aat/300111159)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="70: Ethnicity" label="70: Ethnicity">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="71: Gender" label="71: Gender">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Feminine (http://vocab.getty.edu/aat/300189557)" label="Feminine (http://vocab.getty.edu/aat/300189557)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="72: Digital Integration" label="72: Digital Integration">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="73: Organization Membership" label="73: Organization Membership">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="74: Provenance Event" label="74: Provenance Event">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Provenance Activity (http://vocab.getty.edu/aat/300055863)" label="Provenance Activity (http://vocab.getty.edu/aat/300055863)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="75: Classifications" label="75: Classifications">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Unknown (http://vocab.getty.edu/aat/300417637)" label="Unknown (http://vocab.getty.edu/aat/300417637)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="76: Relative Times" label="76: Relative Times">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="77: Object Acquisition&#10;" label="77: Object Acquisition&#10;">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="78: Multiple Owners&#10;" label="78: Multiple Owners&#10;">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="79: Agents" label="79: Agents">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="80: Exchange of Objects" label="80: Exchange of Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="81: Payments" label="81: Payments">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="82: Payment for Services&#10;" label="82: Payment for Services&#10;">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="83: Loans" label="83: Loans">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="84: Institutional Ownership, Departmental Custody" label="84: Institutional Ownership, Departmental Custody">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="85: Loss" label="85: Loss">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="86: Theft" label="86: Theft">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="87: Sale of Stolen or Looted Objects" label="87: Sale of Stolen or Looted Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="88: Rights and their Acquisition" label="88: Rights and their Acquisition">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="89: Multiple Owners with Different Stakes" label="89: Multiple Owners with Different Stakes">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="90: Transfer of Shares" label="90: Transfer of Shares">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="91: Intellectual Property Rights" label="91: Intellectual Property Rights">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="92: Encounters" label="92: Encounters">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="93: Promised Gift" label="93: Promised Gift">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="94: Commissions for Artwork" label="94: Commissions for Artwork">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="95: Auction" label="95: Auction">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="96: Auction of Lot" label="96: Auction of Lot">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Auction of Lot (http://vocab.getty.edu/aat/300420001)" label="Auction of Lot (http://vocab.getty.edu/aat/300420001)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="97: Known Bid Amounts" label="97: Known Bid Amounts">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="98: Set of Objects" label="98: Set of Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Set" label="Set">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="Auction Lot (http://vocab.getty.edu/aat/300411307)" label="Auction Lot (http://vocab.getty.edu/aat/300411307)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="99: Pre-set Prices" label="99: Pre-set Prices">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="100: Purchase of Lot" label="100: Purchase of Lot">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="101: Lot Withdrawn" label="101: Lot Withdrawn">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="102: Object Withdrawn from Lot" label="102: Object Withdrawn from Lot">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="103: Reserve Not Met" label="103: Reserve Not Met">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="104: Bought by Owner" label="104: Bought by Owner">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="105: Winner Unable to Pay&#10;" label="105: Winner Unable to Pay&#10;">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="106: Auction Catalog" label="106: Auction Catalog">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="LinguisticObject" label="LinguisticObject">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="Auction Catalog (http://vocab.getty.edu/aat/300026068)" label="Auction Catalog (http://vocab.getty.edu/aat/300026068)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="107: Moving an Object" label="107: Moving an Object">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="108: Taking Inventory" label="108: Taking Inventory">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="109: Object Ownership and Existence" label="109: Object Ownership and Existence">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="110: Core Features" label="110: Core Features">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Collection (http://vocab.getty.edu/aat/300025976)" label="Collection (http://vocab.getty.edu/aat/300025976)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="111: Collections of Objects" label="111: Collections of Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="112: Departmental Collections" label="112: Departmental Collections">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="113: Other Uses" label="113: Other Uses">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="114: Collection Specific Information" label="114: Collection Specific Information">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="115: Adding and Removing Resources" label="115: Adding and Removing Resources">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="116: Exhibition Concept" label="116: Exhibition Concept">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="PropositionalObject" label="PropositionalObject">
+        <attvalues>
+          <attvalue for="0" value="CIDOC-CRM Type" />
+        </attvalues>
+      </node>
+      <node id="Exhibition (http://vocab.getty.edu/aat/300417531)" label="Exhibition (http://vocab.getty.edu/aat/300417531)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="117: Exhibition Activity" label="117: Exhibition Activity">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Exhibiting (http://vocab.getty.edu/aat/300054766)" label="Exhibiting (http://vocab.getty.edu/aat/300054766)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="118: Multiple Venues" label="118: Multiple Venues">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Exhibiting in multiple locations (http://vocab.getty.edu/aat/300054773)" label="Exhibiting in multiple locations (http://vocab.getty.edu/aat/300054773)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="119: Objects" label="119: Objects">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="120: Exhibition Provenance: Transfer of Custody" label="120: Exhibition Provenance: Transfer of Custody">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="121: Exhibition Provenance: Internal Moves" label="121: Exhibition Provenance: Internal Moves">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="122: Exhibition Specific Labels" label="122: Exhibition Specific Labels">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="123: Depiction of the Object at the Exhibition" label="123: Depiction of the Object at the Exhibition">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="124: Physical Objects, Conceptual Texts" label="124: Physical Objects, Conceptual Texts">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="125: Core Features" label="125: Core Features">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Article (http://vocab.getty.edu/aat/300048715)" label="Article (http://vocab.getty.edu/aat/300048715)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="126: Creation and Publication" label="126: Creation and Publication">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="127: Structure" label="127: Structure">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Monograph (http://vocab.getty.edu/aat/300060417)" label="Monograph (http://vocab.getty.edu/aat/300060417)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="128: Pagination Statement&#10;" label="128: Pagination Statement&#10;">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="129: Abstracts" label="129: Abstracts">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Abstract (http://vocab.getty.edu/aat/300026032)" label="Abstract (http://vocab.getty.edu/aat/300026032)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+      <node id="130: References to other Resources" label="130: References to other Resources">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="131: Translations " label="131: Translations ">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="132: Assignment of Attributes" label="132: Assignment of Attributes">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="133: Assigned Value as Resource" label="133: Assigned Value as Resource">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="134: &quot;Style Of&quot; Attribution" label="134: &quot;Style Of&quot; Attribution">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="135: Context Specific Assertions" label="135: Context Specific Assertions">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="136: Inferred Data" label="136: Inferred Data">
+        <attvalues>
+          <attvalue for="0" value="Pattern" />
+        </attvalues>
+      </node>
+      <node id="Computer Generated (http://vocab.getty.edu/aat/300202389)" label="Computer Generated (http://vocab.getty.edu/aat/300202389)">
+        <attvalues>
+          <attvalue for="0" value="AAT Term" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1: Core Properties" target="HumanMadeObject" id="0" />
+      <edge source="HumanMadeObject" target="2: Types and Classifications" id="1" />
+      <edge source="HumanMadeObject" target="3: Types of Types" id="2" />
+      <edge source="HumanMadeObject" target="4: Names and Identifiers for a Resource" id="3" />
+      <edge source="HumanMadeObject" target="5: Identifiers" id="4" />
+      <edge source="HumanMadeObject" target="6: Statements about a Resource" id="5" />
+      <edge source="HumanMadeObject" target="7: Parts" id="6" />
+      <edge source="HumanMadeObject" target="11: Base Production Activity" id="7" />
+      <edge source="HumanMadeObject" target="12: Techniques" id="8" />
+      <edge source="HumanMadeObject" target="13: Classifications" id="9" />
+      <edge source="HumanMadeObject" target="14: Multiple Artists" id="10" />
+      <edge source="HumanMadeObject" target="15: Inspiration or Copies" id="11" />
+      <edge source="HumanMadeObject" target="16: Reproduction from an Identifiable Source" id="12" />
+      <edge source="HumanMadeObject" target="17: Attribution of a Group" id="13" />
+      <edge source="HumanMadeObject" target="18: Uncertain or Changing Attributions" id="14" />
+      <edge source="HumanMadeObject" target="20: Destruction " id="15" />
+      <edge source="HumanMadeObject" target="21: Cause of Destruction" id="16" />
+      <edge source="HumanMadeObject" target="23: Dimensions" id="17" />
+      <edge source="HumanMadeObject" target="24: Dimension Statement" id="18" />
+      <edge source="HumanMadeObject" target="25: Dimension Display Labels" id="19" />
+      <edge source="HumanMadeObject" target="26: Measurements of Dimensions" id="20" />
+      <edge source="HumanMadeObject" target="27: Colors" id="21" />
+      <edge source="HumanMadeObject" target="28: Shapes" id="22" />
+      <edge source="HumanMadeObject" target="29: Materials" id="23" />
+      <edge source="HumanMadeObject" target="30: Materials Statement" id="24" />
+      <edge source="HumanMadeObject" target="31: Environmental conditions" id="25" />
+      <edge source="HumanMadeObject" target="32: Parts" id="26" />
+      <edge source="HumanMadeObject" target="33: Sides of an Object" id="27" />
+      <edge source="HumanMadeObject" target="34: Description" id="28" />
+      <edge source="HumanMadeObject" target="35: Depiction" id="29" />
+      <edge source="HumanMadeObject" target="36: Subject" id="30" />
+      <edge source="HumanMadeObject" target="37: Style Classification" id="31" />
+      <edge source="HumanMadeObject" target="38: Other Classifications" id="32" />
+      <edge source="HumanMadeObject" target="39: Objects Carrying Textual Works" id="33" />
+      <edge source="HumanMadeObject" target="40: Single Object, Multiple Works" id="34" />
+      <edge source="HumanMadeObject" target="41: Single Object, Single Textual and Visual Work" id="35" />
+      <edge source="HumanMadeObject" target="42: Related Objects" id="36" />
+      <edge source="HumanMadeObject" target="43: Ownership" id="37" />
+      <edge source="HumanMadeObject" target="44: Custody" id="38" />
+      <edge source="HumanMadeObject" target="45: Location" id="39" />
+      <edge source="HumanMadeObject" target="46: Credit / Attribution Statement" id="40" />
+      <edge source="HumanMadeObject" target="47: Rights Statement" id="41" />
+      <edge source="HumanMadeObject" target="48: RightsStatements.org Assertions" id="42" />
+      <edge source="HumanMadeObject" target="51: Digital Surrogates" id="43" />
+      <edge source="HumanMadeObject" target="52: Home Page" id="44" />
+      <edge source="HumanMadeObject" target="53: Other Pages" id="45" />
+      <edge source="HumanMadeObject" target="54: IIIF Images" id="46" />
+      <edge source="HumanMadeObject" target="55: IIIF Manifests" id="47" />
+      <edge source="HumanMadeObject" target="59: Buildings and &quot;Immovable&quot; Objects" id="48" />
+      <edge source="HumanMadeObject" target="115: Adding and Removing Resources" id="49" />
+      <edge source="HumanMadeObject" target="124: Physical Objects, Conceptual Texts" id="50" />
+      <edge source="HumanMadeObject" target="132: Assignment of Attributes" id="51" />
+      <edge source="HumanMadeObject" target="133: Assigned Value as Resource" id="52" />
+      <edge source="2: Types and Classifications" target="Painting (http://vocab.getty.edu/aat/300033618)" id="53" />
+      <edge source="2: Types and Classifications" target="Work of Art (http://vocab.getty.edu/aat/300133025)" id="54" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="3: Types of Types" id="55" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="11: Base Production Activity" id="56" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="15: Inspiration or Copies" id="57" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="17: Attribution of a Group" id="58" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="18: Uncertain or Changing Attributions" id="59" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="20: Destruction " id="60" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="21: Cause of Destruction" id="61" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="23: Dimensions" id="62" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="24: Dimension Statement" id="63" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="25: Dimension Display Labels" id="64" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="26: Measurements of Dimensions" id="65" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="27: Colors" id="66" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="28: Shapes" id="67" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="30: Materials Statement" id="68" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="31: Environmental conditions" id="69" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="32: Parts" id="70" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="34: Description" id="71" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="35: Depiction" id="72" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="36: Subject" id="73" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="37: Style Classification" id="74" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="38: Other Classifications" id="75" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="42: Related Objects" id="76" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="43: Ownership" id="77" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="44: Custody" id="78" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="45: Location" id="79" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="46: Credit / Attribution Statement" id="80" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="47: Rights Statement" id="81" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="48: RightsStatements.org Assertions" id="82" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="51: Digital Surrogates" id="83" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="52: Home Page" id="84" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="53: Other Pages" id="85" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="55: IIIF Manifests" id="86" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="115: Adding and Removing Resources" id="87" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="132: Assignment of Attributes" id="88" />
+      <edge source="Painting (http://vocab.getty.edu/aat/300033618)" target="133: Assigned Value as Resource" id="89" />
+      <edge source="3: Types of Types" target="Artwork (http://vocab.getty.edu/aat/300133025)" id="90" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="11: Base Production Activity" id="91" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="12: Techniques" id="92" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="13: Classifications" id="93" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="14: Multiple Artists" id="94" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="15: Inspiration or Copies" id="95" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="17: Attribution of a Group" id="96" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="18: Uncertain or Changing Attributions" id="97" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="20: Destruction " id="98" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="21: Cause of Destruction" id="99" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="23: Dimensions" id="100" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="24: Dimension Statement" id="101" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="25: Dimension Display Labels" id="102" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="26: Measurements of Dimensions" id="103" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="27: Colors" id="104" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="28: Shapes" id="105" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="29: Materials" id="106" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="30: Materials Statement" id="107" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="31: Environmental conditions" id="108" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="32: Parts" id="109" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="34: Description" id="110" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="35: Depiction" id="111" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="36: Subject" id="112" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="37: Style Classification" id="113" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="38: Other Classifications" id="114" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="42: Related Objects" id="115" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="43: Ownership" id="116" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="44: Custody" id="117" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="45: Location" id="118" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="46: Credit / Attribution Statement" id="119" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="47: Rights Statement" id="120" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="48: RightsStatements.org Assertions" id="121" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="51: Digital Surrogates" id="122" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="52: Home Page" id="123" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="53: Other Pages" id="124" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="54: IIIF Images" id="125" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="55: IIIF Manifests" id="126" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="115: Adding and Removing Resources" id="127" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="132: Assignment of Attributes" id="128" />
+      <edge source="Artwork (http://vocab.getty.edu/aat/300133025)" target="133: Assigned Value as Resource" id="129" />
+      <edge source="8: Membership" target="Group" id="130" />
+      <edge source="8: Membership" target="Department (http://vocab.getty.edu/aat/300263534)" id="131" />
+      <edge source="9: Events and Activities" target="Activity" id="132" />
+      <edge source="Activity" target="10: Time Span Details" id="133" />
+      <edge source="Activity" target="74: Provenance Event" id="134" />
+      <edge source="Activity" target="75: Classifications" id="135" />
+      <edge source="Activity" target="76: Relative Times" id="136" />
+      <edge source="Activity" target="77: Object Acquisition&#10;" id="137" />
+      <edge source="Activity" target="78: Multiple Owners&#10;" id="138" />
+      <edge source="Activity" target="79: Agents" id="139" />
+      <edge source="Activity" target="80: Exchange of Objects" id="140" />
+      <edge source="Activity" target="81: Payments" id="141" />
+      <edge source="Activity" target="82: Payment for Services&#10;" id="142" />
+      <edge source="Activity" target="84: Institutional Ownership, Departmental Custody" id="143" />
+      <edge source="Activity" target="85: Loss" id="144" />
+      <edge source="Activity" target="86: Theft" id="145" />
+      <edge source="Activity" target="87: Sale of Stolen or Looted Objects" id="146" />
+      <edge source="Activity" target="88: Rights and their Acquisition" id="147" />
+      <edge source="Activity" target="89: Multiple Owners with Different Stakes" id="148" />
+      <edge source="Activity" target="90: Transfer of Shares" id="149" />
+      <edge source="Activity" target="91: Intellectual Property Rights" id="150" />
+      <edge source="Activity" target="92: Encounters" id="151" />
+      <edge source="Activity" target="93: Promised Gift" id="152" />
+      <edge source="Activity" target="95: Auction" id="153" />
+      <edge source="Activity" target="96: Auction of Lot" id="154" />
+      <edge source="Activity" target="97: Known Bid Amounts" id="155" />
+      <edge source="Activity" target="100: Purchase of Lot" id="156" />
+      <edge source="Activity" target="103: Reserve Not Met" id="157" />
+      <edge source="Activity" target="107: Moving an Object" id="158" />
+      <edge source="Activity" target="108: Taking Inventory" id="159" />
+      <edge source="Activity" target="117: Exhibition Activity" id="160" />
+      <edge source="Activity" target="118: Multiple Venues" id="161" />
+      <edge source="Activity" target="119: Objects" id="162" />
+      <edge source="Activity" target="120: Exhibition Provenance: Transfer of Custody" id="163" />
+      <edge source="Activity" target="121: Exhibition Provenance: Internal Moves" id="164" />
+      <edge source="Activity" target="136: Inferred Data" id="165" />
+      <edge source="10: Time Span Details" target="Auction Event (http://vocab.getty.edu/aat/300054751)" id="166" />
+      <edge source="Auction Event (http://vocab.getty.edu/aat/300054751)" target="95: Auction" id="167" />
+      <edge source="12: Techniques" target="Sculpture (http://vocab.getty.edu/aat/300047090)" id="168" />
+      <edge source="Sculpture (http://vocab.getty.edu/aat/300047090)" target="14: Multiple Artists" id="169" />
+      <edge source="Sculpture (http://vocab.getty.edu/aat/300047090)" target="29: Materials" id="170" />
+      <edge source="Sculpture (http://vocab.getty.edu/aat/300047090)" target="54: IIIF Images" id="171" />
+      <edge source="16: Reproduction from an Identifiable Source" target="Photograph (http://vocab.getty.edu/aat/300046300)" id="172" />
+      <edge source="28: Shapes" target="Oval (http://vocab.getty.edu/aat/300263817)" id="173" />
+      <edge source="33: Sides of an Object" target="Color Photograph (http://vocab.getty.edu/aat/300128347)" id="174" />
+      <edge source="39: Objects Carrying Textual Works" target="Book (http://vocab.getty.edu/aat/300028051)" id="175" />
+      <edge source="Book (http://vocab.getty.edu/aat/300028051)" target="124: Physical Objects, Conceptual Texts" id="176" />
+      <edge source="40: Single Object, Multiple Works" target="Exhibition Catalog (http://vocab.getty.edu/aat/300026096)" id="177" />
+      <edge source="49: Digital Objects" target="DigitalObject" id="178" />
+      <edge source="49: Digital Objects" target="Web Page (http://vocab.getty.edu/aat/300264578)" id="179" />
+      <edge source="50: Digital Images" target="Person" id="180" />
+      <edge source="Person" target="60: Types" id="181" />
+      <edge source="Person" target="61: Names" id="182" />
+      <edge source="Person" target="62: Parts of Names" id="183" />
+      <edge source="Person" target="63: Identity" id="184" />
+      <edge source="Person" target="64: Equivalent Resources" id="185" />
+      <edge source="Person" target="65: Addresses" id="186" />
+      <edge source="Person" target="67: Active Dates" id="187" />
+      <edge source="Person" target="68: Biography" id="188" />
+      <edge source="Person" target="69: Nationality" id="189" />
+      <edge source="Person" target="71: Gender" id="190" />
+      <edge source="Person" target="72: Digital Integration" id="191" />
+      <edge source="Person" target="73: Organization Membership" id="192" />
+      <edge source="56: Core Information" target="Place" id="193" />
+      <edge source="56: Core Information" target="City (http://vocab.getty.edu/aat/300008389)" id="194" />
+      <edge source="Place" target="57: Geospatial Location" id="195" />
+      <edge source="Place" target="58: Geospatial Approximation" id="196" />
+      <edge source="57: Geospatial Location" target="Nation (http://vocab.getty.edu/aat/300128207)" id="197" />
+      <edge source="59: Buildings and &quot;Immovable&quot; Objects" target="Building (http://vocab.getty.edu/aat/300004792)" id="198" />
+      <edge source="69: Nationality" target="British (http://vocab.getty.edu/aat/300111159)" id="199" />
+      <edge source="71: Gender" target="Feminine (http://vocab.getty.edu/aat/300189557)" id="200" />
+      <edge source="74: Provenance Event" target="Provenance Activity (http://vocab.getty.edu/aat/300055863)" id="201" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="75: Classifications" id="202" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="76: Relative Times" id="203" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="77: Object Acquisition&#10;" id="204" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="78: Multiple Owners&#10;" id="205" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="79: Agents" id="206" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="80: Exchange of Objects" id="207" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="81: Payments" id="208" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="82: Payment for Services&#10;" id="209" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="84: Institutional Ownership, Departmental Custody" id="210" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="85: Loss" id="211" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="86: Theft" id="212" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="87: Sale of Stolen or Looted Objects" id="213" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="88: Rights and their Acquisition" id="214" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="89: Multiple Owners with Different Stakes" id="215" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="90: Transfer of Shares" id="216" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="91: Intellectual Property Rights" id="217" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="92: Encounters" id="218" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="93: Promised Gift" id="219" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="100: Purchase of Lot" id="220" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="103: Reserve Not Met" id="221" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="107: Moving an Object" id="222" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="108: Taking Inventory" id="223" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="120: Exhibition Provenance: Transfer of Custody" id="224" />
+      <edge source="Provenance Activity (http://vocab.getty.edu/aat/300055863)" target="121: Exhibition Provenance: Internal Moves" id="225" />
+      <edge source="75: Classifications" target="Unknown (http://vocab.getty.edu/aat/300417637)" id="226" />
+      <edge source="96: Auction of Lot" target="Auction of Lot (http://vocab.getty.edu/aat/300420001)" id="227" />
+      <edge source="Auction of Lot (http://vocab.getty.edu/aat/300420001)" target="97: Known Bid Amounts" id="228" />
+      <edge source="98: Set of Objects" target="Set" id="229" />
+      <edge source="98: Set of Objects" target="Auction Lot (http://vocab.getty.edu/aat/300411307)" id="230" />
+      <edge source="Set" target="99: Pre-set Prices" id="231" />
+      <edge source="Set" target="110: Core Features" id="232" />
+      <edge source="Set" target="111: Collections of Objects" id="233" />
+      <edge source="Set" target="112: Departmental Collections" id="234" />
+      <edge source="Auction Lot (http://vocab.getty.edu/aat/300411307)" target="99: Pre-set Prices" id="235" />
+      <edge source="106: Auction Catalog" target="LinguisticObject" id="236" />
+      <edge source="106: Auction Catalog" target="Auction Catalog (http://vocab.getty.edu/aat/300026068)" id="237" />
+      <edge source="LinguisticObject" target="125: Core Features" id="238" />
+      <edge source="LinguisticObject" target="126: Creation and Publication" id="239" />
+      <edge source="LinguisticObject" target="127: Structure" id="240" />
+      <edge source="LinguisticObject" target="128: Pagination Statement&#10;" id="241" />
+      <edge source="LinguisticObject" target="129: Abstracts" id="242" />
+      <edge source="LinguisticObject" target="130: References to other Resources" id="243" />
+      <edge source="LinguisticObject" target="131: Translations " id="244" />
+      <edge source="110: Core Features" target="Collection (http://vocab.getty.edu/aat/300025976)" id="245" />
+      <edge source="Collection (http://vocab.getty.edu/aat/300025976)" target="111: Collections of Objects" id="246" />
+      <edge source="Collection (http://vocab.getty.edu/aat/300025976)" target="112: Departmental Collections" id="247" />
+      <edge source="116: Exhibition Concept" target="PropositionalObject" id="248" />
+      <edge source="116: Exhibition Concept" target="Exhibition (http://vocab.getty.edu/aat/300417531)" id="249" />
+      <edge source="117: Exhibition Activity" target="Exhibiting (http://vocab.getty.edu/aat/300054766)" id="250" />
+      <edge source="Exhibiting (http://vocab.getty.edu/aat/300054766)" target="119: Objects" id="251" />
+      <edge source="118: Multiple Venues" target="Exhibiting in multiple locations (http://vocab.getty.edu/aat/300054773)" id="252" />
+      <edge source="125: Core Features" target="Article (http://vocab.getty.edu/aat/300048715)" id="253" />
+      <edge source="Article (http://vocab.getty.edu/aat/300048715)" target="126: Creation and Publication" id="254" />
+      <edge source="Article (http://vocab.getty.edu/aat/300048715)" target="128: Pagination Statement&#10;" id="255" />
+      <edge source="Article (http://vocab.getty.edu/aat/300048715)" target="130: References to other Resources" id="256" />
+      <edge source="Article (http://vocab.getty.edu/aat/300048715)" target="131: Translations " id="257" />
+      <edge source="127: Structure" target="Monograph (http://vocab.getty.edu/aat/300060417)" id="258" />
+      <edge source="129: Abstracts" target="Abstract (http://vocab.getty.edu/aat/300026032)" id="259" />
+      <edge source="136: Inferred Data" target="Computer Generated (http://vocab.getty.edu/aat/300202389)" id="260" />
+    </edges>
+  </graph>
+</gexf>
