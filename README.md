@@ -12,6 +12,5 @@ The [second folder](02_survey) contains data and scripts that were used to creat
 
 ### Related research outcomes
 
-Raemy, J. A. (2023). _Characterising the IIIF and Linked Art Communities: Survey report_ (p. 29) [Report]. University of Basel. https://hal.science/hal-04162572
-
-Raemy, J. A. (2023). _Pseudonymised Dataset of the Characterising the IIIF and Linked Art communities survey_ (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8143828
+- Raemy, J. A. (2023). _Characterising the IIIF and Linked Art Communities: Survey report_ (p. 29) [Report]. University of Basel. https://hal.science/hal-04162572
+- Raemy, J. A. (2023). _Pseudonymised Dataset of the Characterising the IIIF and Linked Art communities survey_ (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8143828
