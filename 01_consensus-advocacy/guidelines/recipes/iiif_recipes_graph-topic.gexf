@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-28">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Mirador" label="Mirador">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="property" label="property">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="UV" label="UV">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="Annona" label="Annona">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="basic" label="basic">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="Clover" label="Clover">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="Ramp" label="Ramp">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="AV" label="AV">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="image" label="image">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="realWorldObject" label="realWorldObject">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="structure" label="structure">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="annotation" label="annotation">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="Navplace Viewer" label="Navplace Viewer">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+        </attvalues>
+      </node>
+      <node id="geo-recipes" label="geo-recipes">
+        <attvalues>
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Mirador" target="property" id="0" label="26" weight="26" />
+      <edge source="Mirador" target="basic" id="1" label="14" weight="14" />
+      <edge source="Mirador" target="image" id="2" label="8" weight="8" />
+      <edge source="Mirador" target="realWorldObject" id="3" label="7" weight="7" />
+      <edge source="Mirador" target="structure" id="4" label="5" weight="5" />
+      <edge source="Mirador" target="annotation" id="5" label="5" weight="5" />
+      <edge source="Mirador" target="AV" id="6" label="3" weight="3" />
+      <edge source="property" target="UV" id="7" label="20" weight="20" />
+      <edge source="property" target="Annona" id="8" label="17" weight="17" />
+      <edge source="property" target="Clover" id="9" label="12" weight="12" />
+      <edge source="property" target="Ramp" id="10" label="2" weight="2" />
+      <edge source="UV" target="basic" id="11" label="12" weight="12" />
+      <edge source="UV" target="realWorldObject" id="12" label="7" weight="7" />
+      <edge source="UV" target="image" id="13" label="6" weight="6" />
+      <edge source="UV" target="AV" id="14" label="6" weight="6" />
+      <edge source="UV" target="structure" id="15" label="6" weight="6" />
+      <edge source="Annona" target="basic" id="16" label="13" weight="13" />
+      <edge source="Annona" target="image" id="17" label="7" weight="7" />
+      <edge source="Annona" target="realWorldObject" id="18" label="7" weight="7" />
+      <edge source="Annona" target="annotation" id="19" label="5" weight="5" />
+      <edge source="Annona" target="structure" id="20" label="3" weight="3" />
+      <edge source="Annona" target="geo-recipes" id="21" label="1" weight="1" />
+      <edge source="basic" target="Clover" id="22" label="8" weight="8" />
+      <edge source="basic" target="Ramp" id="23" label="2" weight="2" />
+      <edge source="Clover" target="AV" id="24" label="5" weight="5" />
+      <edge source="Clover" target="image" id="25" label="3" weight="3" />
+      <edge source="Ramp" target="AV" id="26" label="10" weight="10" />
+      <edge source="Ramp" target="structure" id="27" label="1" weight="1" />
+      <edge source="Navplace Viewer" target="geo-recipes" id="28" label="2" weight="2" />
+    </edges>
+  </graph>
+</gexf>
