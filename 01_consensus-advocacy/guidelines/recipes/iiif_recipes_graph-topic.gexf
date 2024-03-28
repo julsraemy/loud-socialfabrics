@@ -4,46 +4,51 @@
     <creator>NetworkX 3.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="size" type="float" />
+    </attributes>
     <attributes mode="static" class="node">
       <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="size" type="long" />
     </attributes>
     <nodes>
       <node id="Mirador" label="Mirador">
         <attvalues>
           <attvalue for="0" value="viewer" />
-        </attvalues>
-      </node>
-      <node id="property" label="property">
-        <attvalues>
-          <attvalue for="0" value="topic" />
+          <attvalue for="1" value="68" />
         </attvalues>
       </node>
       <node id="UV" label="UV">
         <attvalues>
           <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="57" />
         </attvalues>
       </node>
       <node id="Annona" label="Annona">
         <attvalues>
           <attvalue for="0" value="viewer" />
-        </attvalues>
-      </node>
-      <node id="basic" label="basic">
-        <attvalues>
-          <attvalue for="0" value="topic" />
+          <attvalue for="1" value="53" />
         </attvalues>
       </node>
       <node id="Clover" label="Clover">
         <attvalues>
           <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="28" />
         </attvalues>
       </node>
       <node id="Ramp" label="Ramp">
         <attvalues>
           <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="15" />
         </attvalues>
       </node>
-      <node id="AV" label="AV">
+      <node id="Navplace Viewer" label="Navplace Viewer">
+        <attvalues>
+          <attvalue for="0" value="viewer" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="basic" label="basic">
         <attvalues>
           <attvalue for="0" value="topic" />
         </attvalues>
@@ -53,12 +58,12 @@
           <attvalue for="0" value="topic" />
         </attvalues>
       </node>
-      <node id="realWorldObject" label="realWorldObject">
+      <node id="AV" label="AV">
         <attvalues>
           <attvalue for="0" value="topic" />
         </attvalues>
       </node>
-      <node id="structure" label="structure">
+      <node id="property" label="property">
         <attvalues>
           <attvalue for="0" value="topic" />
         </attvalues>
@@ -68,9 +73,14 @@
           <attvalue for="0" value="topic" />
         </attvalues>
       </node>
-      <node id="Navplace Viewer" label="Navplace Viewer">
+      <node id="structure" label="structure">
         <attvalues>
-          <attvalue for="0" value="viewer" />
+          <attvalue for="0" value="topic" />
+        </attvalues>
+      </node>
+      <node id="realWorldObject" label="realWorldObject">
+        <attvalues>
+          <attvalue for="0" value="topic" />
         </attvalues>
       </node>
       <node id="geo-recipes" label="geo-recipes">
@@ -80,35 +90,151 @@
       </node>
     </nodes>
     <edges>
-      <edge source="Mirador" target="property" id="0" label="26" weight="26" />
-      <edge source="Mirador" target="basic" id="1" label="14" weight="14" />
-      <edge source="Mirador" target="image" id="2" label="8" weight="8" />
-      <edge source="Mirador" target="realWorldObject" id="3" label="7" weight="7" />
-      <edge source="Mirador" target="structure" id="4" label="5" weight="5" />
-      <edge source="Mirador" target="annotation" id="5" label="5" weight="5" />
-      <edge source="Mirador" target="AV" id="6" label="3" weight="3" />
-      <edge source="property" target="UV" id="7" label="20" weight="20" />
-      <edge source="property" target="Annona" id="8" label="17" weight="17" />
-      <edge source="property" target="Clover" id="9" label="12" weight="12" />
-      <edge source="property" target="Ramp" id="10" label="2" weight="2" />
-      <edge source="UV" target="basic" id="11" label="12" weight="12" />
-      <edge source="UV" target="realWorldObject" id="12" label="7" weight="7" />
-      <edge source="UV" target="image" id="13" label="6" weight="6" />
-      <edge source="UV" target="AV" id="14" label="6" weight="6" />
-      <edge source="UV" target="structure" id="15" label="6" weight="6" />
-      <edge source="Annona" target="basic" id="16" label="13" weight="13" />
-      <edge source="Annona" target="image" id="17" label="7" weight="7" />
-      <edge source="Annona" target="realWorldObject" id="18" label="7" weight="7" />
-      <edge source="Annona" target="annotation" id="19" label="5" weight="5" />
-      <edge source="Annona" target="structure" id="20" label="3" weight="3" />
-      <edge source="Annona" target="geo-recipes" id="21" label="1" weight="1" />
-      <edge source="basic" target="Clover" id="22" label="8" weight="8" />
-      <edge source="basic" target="Ramp" id="23" label="2" weight="2" />
-      <edge source="Clover" target="AV" id="24" label="5" weight="5" />
-      <edge source="Clover" target="image" id="25" label="3" weight="3" />
-      <edge source="Ramp" target="AV" id="26" label="10" weight="10" />
-      <edge source="Ramp" target="structure" id="27" label="1" weight="1" />
-      <edge source="Navplace Viewer" target="geo-recipes" id="28" label="2" weight="2" />
+      <edge source="Mirador" target="property" id="0" label="26">
+        <attvalues>
+          <attvalue for="2" value="3.8235294117647056" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="basic" id="1" label="14">
+        <attvalues>
+          <attvalue for="2" value="2.0588235294117645" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="image" id="2" label="8">
+        <attvalues>
+          <attvalue for="2" value="1.1764705882352942" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="realWorldObject" id="3" label="7">
+        <attvalues>
+          <attvalue for="2" value="1.0294117647058822" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="structure" id="4" label="5">
+        <attvalues>
+          <attvalue for="2" value="0.7352941176470589" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="annotation" id="5" label="5">
+        <attvalues>
+          <attvalue for="2" value="0.7352941176470589" />
+        </attvalues>
+      </edge>
+      <edge source="Mirador" target="AV" id="6" label="3">
+        <attvalues>
+          <attvalue for="2" value="0.44117647058823534" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="property" id="7" label="20">
+        <attvalues>
+          <attvalue for="2" value="3.508771929824561" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="basic" id="8" label="12">
+        <attvalues>
+          <attvalue for="2" value="2.1052631578947367" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="realWorldObject" id="9" label="7">
+        <attvalues>
+          <attvalue for="2" value="1.2280701754385963" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="image" id="10" label="6">
+        <attvalues>
+          <attvalue for="2" value="1.0526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="AV" id="11" label="6">
+        <attvalues>
+          <attvalue for="2" value="1.0526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="UV" target="structure" id="12" label="6">
+        <attvalues>
+          <attvalue for="2" value="1.0526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="property" id="13" label="17">
+        <attvalues>
+          <attvalue for="2" value="3.2075471698113205" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="basic" id="14" label="13">
+        <attvalues>
+          <attvalue for="2" value="2.452830188679245" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="image" id="15" label="7">
+        <attvalues>
+          <attvalue for="2" value="1.320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="realWorldObject" id="16" label="7">
+        <attvalues>
+          <attvalue for="2" value="1.320754716981132" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="annotation" id="17" label="5">
+        <attvalues>
+          <attvalue for="2" value="0.9433962264150944" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="structure" id="18" label="3">
+        <attvalues>
+          <attvalue for="2" value="0.5660377358490566" />
+        </attvalues>
+      </edge>
+      <edge source="Annona" target="geo-recipes" id="19" label="1">
+        <attvalues>
+          <attvalue for="2" value="0.18867924528301885" />
+        </attvalues>
+      </edge>
+      <edge source="Clover" target="property" id="20" label="12">
+        <attvalues>
+          <attvalue for="2" value="4.285714285714286" />
+        </attvalues>
+      </edge>
+      <edge source="Clover" target="basic" id="21" label="8">
+        <attvalues>
+          <attvalue for="2" value="2.8571428571428568" />
+        </attvalues>
+      </edge>
+      <edge source="Clover" target="AV" id="22" label="5">
+        <attvalues>
+          <attvalue for="2" value="1.7857142857142858" />
+        </attvalues>
+      </edge>
+      <edge source="Clover" target="image" id="23" label="3">
+        <attvalues>
+          <attvalue for="2" value="1.0714285714285714" />
+        </attvalues>
+      </edge>
+      <edge source="Ramp" target="AV" id="24" label="10">
+        <attvalues>
+          <attvalue for="2" value="6.666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Ramp" target="basic" id="25" label="2">
+        <attvalues>
+          <attvalue for="2" value="1.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Ramp" target="property" id="26" label="2">
+        <attvalues>
+          <attvalue for="2" value="1.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Ramp" target="structure" id="27" label="1">
+        <attvalues>
+          <attvalue for="2" value="0.6666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Navplace Viewer" target="geo-recipes" id="28" label="2">
+        <attvalues>
+          <attvalue for="2" value="10.0" />
+        </attvalues>
+      </edge>
     </edges>
   </graph>
 </gexf>
