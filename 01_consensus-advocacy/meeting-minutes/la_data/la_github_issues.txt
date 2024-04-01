@@ -1,4 +1,0 @@
-('linked-art', 'showcase1', '15'): 1
-('linked-art', 'showcase1', '2'): 6
-('linked-art', 'showcase1', '6'): 2
-('baskaufs', 'msc', '2'): 1
