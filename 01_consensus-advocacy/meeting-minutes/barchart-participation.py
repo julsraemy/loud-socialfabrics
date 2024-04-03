@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-def create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_range):
+def create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_range, meeting_type):
     # Load the dataset
     df = pd.read_csv(csv_path)
 
@@ -34,7 +34,7 @@ def create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_ra
 
     # Annotating the chart with calculated and provided stats
     annotation_text = (f'Unique Participants: {num_unique_participants}\n'
-                       f'Total Meetings ({date_range}): {total_meetings}\n'
+                       f'Total {meeting_type} Meetings ({date_range}): {total_meetings}\n'
                        f'Average Attendance per Participant: {avg_attendance:.2f}\n'
                        f'Median Attendance per Participant: {median_attendance}')
     plt.text(0.98, 0.95, annotation_text,
@@ -57,12 +57,12 @@ def create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_ra
 
 # Dataset paths, output base paths (without file extension), and specific data for annotations
 datasets_info = {
-    './la_data/aggregated_person_data.csv': ('./la_data/attendance_stacked_bar', 115, 'January 2019 - March 2024'),
-    './tsg_data/aggregated_person_data.csv': ('./tsg_data/attendance_stacked_bar', 101, 'February 2017 - March 2023')
+    './la_data/aggregated_person_data.csv': ('./la_data/attendance_stacked_bar_la', 115, 'January 2019 - March 2024', 'Linked Art'),
+    './tsg_data/aggregated_person_data.csv': ('./tsg_data/attendance_stacked_bar_tsg', 101, 'February 2017 - March 2023', 'IIIF Discovery TSG')
 }
 
 # Generate the bar charts with additional annotations
-for csv_path, (output_file_base, total_meetings, date_range) in datasets_info.items():
-    create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_range)
+for csv_path, (output_file_base, total_meetings, date_range, meeting_type) in datasets_info.items():
+    create_stacked_bar_chart(csv_path, output_file_base, total_meetings, date_range, meeting_type)
 
 print("The stacked bar charts with enhanced annotations have been generated and saved in both PDF and SVG formats.")
