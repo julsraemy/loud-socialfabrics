@@ -18,7 +18,7 @@ The `meeting_minutes_curation.py` performs the following functions:
 
 This script must be executed first as it prepares the data for the subsequent aggregation process by organising and refining it into a structured format.
 
-## Aggregated results
+## Aggregated Results
 
 The `meeting_minutes_agg.py` script builds on the curated data to provide aggregated insights. This script completes the analysis by creating three CSV files which are aggregated views of the data in terms of hyperlinks (at domain level), participants and yearly statistics.
 
