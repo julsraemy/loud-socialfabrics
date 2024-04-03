@@ -36,3 +36,7 @@ Building on this aggregated data, another script, `barchart-participation.py`, h
    - The total number of sessions and the time period they cover.
    - The number of unique attendees, providing insight into the size and engagement of the community.
 4. **Outputs**: Charts are saved in both PDF and SVG formats.
+
+## Topic Modelling
+
+TBD
