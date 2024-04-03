@@ -39,4 +39,4 @@ Building on this aggregated data, another script, `barchart-participation.py`, h
 
 ## Topic Modelling
 
-TBD
+While the content contains a mix of structured meeting notes, informal discussions, JSON Snippets, and diverse topics, conducting traditional topic modelling may not yield meaningful results. The dataset's varied structure and content types present challenges for straightforward topic extraction, but I'm sure smarter people could do it if they have the skills and the resources.
