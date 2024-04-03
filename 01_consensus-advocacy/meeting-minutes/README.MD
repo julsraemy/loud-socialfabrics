@@ -21,3 +21,18 @@ This script must be executed first as it prepares the data for the subsequent ag
 ## Aggregated results
 
 The `meeting_minutes_agg.py` script builds on the curated data to provide aggregated insights. This script completes the analysis by creating three CSV files which are aggregated views of the data in terms of hyperlinks (at domain level), participants and yearly statistics.
+
+## Stacked Bar Charts Showing Meeting Attendance
+
+To visually represent participation in meetings over time, stacked bar graphs were created for both the IIIF Discovery Technical Specification Group and the Linked Art Community meetings. These charts highlight the attendance for each meeting and break down the attendance by year to show trends and changes in engagement.
+
+Building on this aggregated data, another script, `barchart-participation.py`, has been developed to perform the following key tasks:
+
+1. **Data preparation**: Extracts and organises the attendance data from the aggregated CSV files, focusing on total attendance per attendee and attendance per year.
+2. **Colour Scheme Selection**: Assigns different colour schemes to each dataset for visual differentiation. Shades of purple are used for the Linked Art community, while shades of blue represent the IIIF TSG meetings.
+3. **Statistical Annotations**: In addition to visualising participation, the script calculates and annotates each graph with valuable statistics, including
+   - The average attendance per attendee.
+   - The median attendance, highlighting the central tendency of attendance.
+   - The total number of sessions and the time period they cover.
+   - The number of unique attendees, providing insight into the size and engagement of the community.
+4. **Outputs**: Charts are saved in both PDF and SVG formats.
