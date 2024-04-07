@@ -4,7 +4,7 @@ Repository created for one empirical chapter of my PhD Thesis – [Linked Open U
 
 ## Analysing consensus building and advocacy initiatives across the IIIF and Linked Art communities
 
-The [first folder](01_consensus-advocacy) hosts files and documents which aim  to analyse capacity-building and advocacy initiatives within the IIIF and Linked Art communities. The data was collected from guidelines on each initiative's website, such as cookbook recipes to help create resources and principles, as well as meeting minutes produced in Google Docs and GitHub issues.
+The [first folder](01_consensus-advocacy) hosts files and documents which aim  to analyse capacity-building and advocacy initiatives within the IIIF and Linked Art communities. The data was collected from guidelines on each initiative's website, such as cookbook recipes to help create resources and principles, as well as meeting minutes produced in Google Docs.
 
 ## Socio-technical Survey
 
